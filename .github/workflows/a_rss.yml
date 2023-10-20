@@ -37,15 +37,13 @@ jobs:
       - name: Set Git Config
         run: |
           git config user.name "Automated"
-          git push https://${{ secrets.MY_GITHUB_TOKEN }}@github.com/skbnw/A.GeorginaKramer.git
+          git config user.email "actions@users.noreply.github.com"
         working-directory: ${{ github.workspace }}
 
       - name: Commit and push XML files
         run: |
+          git pull --rebase
           git add .
           git commit -m "Update XML files"
-          git push
+          git push https://${{ secrets.MY_GITHUB_TOKEN }}@github.com/skbnw/A.GeorginaKramer.git
         working-directory: ${{ github.workspace }}
-
-
-
