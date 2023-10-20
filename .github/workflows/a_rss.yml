@@ -11,7 +11,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
-      - name: Fetch Yahoo News RSS feeds
+      - name: Fetch asahi rss
         run: |
           current_month=$(date +'%Y%m')
           current_week=$(date +'%Y%m_%W') # 1-51
