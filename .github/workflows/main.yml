@@ -46,12 +46,6 @@ jobs:
           git commit -m "Update XML files"
           git push
         working-directory: ${{ github.workspace }}
-        
-        
-        
-
-
-
 
 
 
