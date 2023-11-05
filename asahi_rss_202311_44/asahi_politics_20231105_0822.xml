@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルの一般政治ニュース、国政、地方政治内閣支持率などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2023 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2023-11-05T16:39:21+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2023-11-05T16:39:21+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC55FSMRC5UTFK003.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC55FXJRC5UTFK007.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC554BVRC5UTFK002.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC46FSSRC4PLZB00M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC46S6DRC4UTFK00L.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC462C1RC4PLZB00H.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC45VXDRC4UTFK007.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC446YXRC4UTFK002.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRC361RZRC3UTFK00G.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASRC55FSMRC5UTFK003.html?ref=rss">
+ <title>菅直人元首相、政界引退を表明　旧民主党結成、福島原発事故など対応</title>
+ <link>https://www.asahi.com/articles/ASRC55FSMRC5UTFK003.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-05T16:39:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRC55FXJRC5UTFK007.html?ref=rss">
+ <title>自民・茂木幹事長「減税しなくても賃金上がる経済循環をつくりたい」</title>
+ <link>https://www.asahi.com/articles/ASRC55FXJRC5UTFK007.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-05T16:32:52+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRC554BVRC5UTFK002.html?ref=rss">
+ <title>安全保障協力の強化で一致、中国を念頭に　日・マレーシア首脳会談</title>
+ <link>https://www.asahi.com/articles/ASRC554BVRC5UTFK002.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-05T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRC46FSSRC4PLZB00M.html?ref=rss">
+ <title>元官房副長官の松井孝治氏、京都市長選に出馬表明の理由は　会見詳報</title>
+ <link>https://www.asahi.com/articles/ASRC46FSSRC4PLZB00M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-04T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRC46S6DRC4UTFK00L.html?ref=rss">
+ <title>泉代表「5年で政権交代。次期衆院選で基盤築き、ホップ、ステップ」</title>
+ <link>https://www.asahi.com/articles/ASRC46S6DRC4UTFK00L.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-04T20:29:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRC462C1RC4PLZB00H.html?ref=rss">
+ <title>京都市長選、松井孝治・元官房副長官が出馬表明「京都に恩返しを」</title>
+ <link>https://www.asahi.com/articles/ASRC462C1RC4PLZB00H.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-04T18:26:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRC45VXDRC4UTFK007.html?ref=rss">
+ <title>「対応できない規制は変える」ライドシェア全国展開へ河野太郎改革相</title>
+ <link>https://www.asahi.com/articles/ASRC45VXDRC4UTFK007.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-04T18:01:53+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRC446YXRC4UTFK002.html?ref=rss">
+ <title>岸田首相の偽動画拡散　「侮辱や攻撃の意図はない」投稿の男性説明</title>
+ <link>https://www.asahi.com/articles/ASRC446YXRC4UTFK002.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-04T15:19:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRC361RZRC3UTFK00G.html?ref=rss">
+ <title>政府、今年度補正予算案を20日に提出へ　経済対策の裏付け財源</title>
+ <link>https://www.asahi.com/articles/ASRC361RZRC3UTFK00G.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2023-11-04T05:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
