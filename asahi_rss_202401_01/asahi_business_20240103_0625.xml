@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのビジネスニュース、経済、産業、金融、財政、為替、株価などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-01-03T15:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-01-03T15:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS134VHFS13ULFA008.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS133RNGS13ULFA001.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS131RMXS13OXIE001.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS125JSVRD0ULFA00J.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRDP6SKPRDHOIPE00S.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRDT6X69RDGOXIE04L.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS134VHFS13ULFA008.html?ref=rss">
+ <title>　JAL機の製造元、エアバスが調査チーム派遣へ　</title>
+ <link>https://www.asahi.com/articles/ASS134VHFS13ULFA008.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS133RNGS13ULFA001.html?ref=rss">
+ <title>米テスラ、EV販売で世界一から陥落　中国BYDが初めて首位に</title>
+ <link>https://www.asahi.com/articles/ASS133RNGS13ULFA001.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T11:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS131RMXS13OXIE001.html?ref=rss">
+ <title>日本航空と全日空、3日は約100便欠航へ　午前中の便を中心に</title>
+ <link>https://www.asahi.com/articles/ASS131RMXS13OXIE001.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T05:38:52+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS125JSVRD0ULFA00J.html?ref=rss">
+ <title>「5類移行」後の新年、初売りに訪日客も続々　外国語のチラシも用意</title>
+ <link>https://www.asahi.com/articles/ASS125JSVRD0ULFA00J.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-02T16:59:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRDP6SKPRDHOIPE00S.html?ref=rss">
+ <title>90年前の織機はきょうも鳴る　14台の合唱、街に響く機械の子守歌</title>
+ <link>https://www.asahi.com/articles/ASRDP6SKPRDHOIPE00S.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-02T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRDT6X69RDGOXIE04L.html?ref=rss">
+ <title>社員の「やる気」育て独自商品→海外進出　竹箸メーカー3代目の挑戦</title>
+ <link>https://www.asahi.com/articles/ASRDT6X69RDGOXIE04L.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-02T09:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
