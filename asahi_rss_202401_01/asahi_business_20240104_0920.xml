@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのビジネスニュース、経済、産業、金融、財政、為替、株価などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-01-04T17:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-01-04T17:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS1455G7S14ULFA00K.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS144PY0S14ULFA00R.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS143V81S14IIPE001.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASRDY7KZ7RDVULFA02T.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS143CWWS14ULFA002.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS136DSGS13ULFA00J.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS13662XS13ULFA00D.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS135GMLRDDIIPE00K.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS134VHFS13ULFA008.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS133RNGS13ULFA001.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS131RMXS13OXIE001.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS1455G7S14ULFA00K.html?ref=rss">
+ <title>3メガ銀、通帳なくても被災者に預金支払い　4損保は対策本部設置</title>
+ <link>https://www.asahi.com/articles/ASS1455G7S14ULFA00K.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-04T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS144PY0S14ULFA00R.html?ref=rss">
+ <title>JAL、150億円損失計上へ　エアバス機全損、海保機との衝突事故</title>
+ <link>https://www.asahi.com/articles/ASS144PY0S14ULFA00R.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-04T14:14:05+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS143V81S14IIPE001.html?ref=rss">
+ <title>「優勝特需もたらしたい」 日本ハム清宮選手が大発会で打鐘 札証</title>
+ <link>https://www.asahi.com/articles/ASS143V81S14IIPE001.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-04T12:04:52+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASRDY7KZ7RDVULFA02T.html?ref=rss">
+ <title>「黒船」の一団は敵か味方か　物言う株主が取締役、未来託す企業たち</title>
+ <link>https://www.asahi.com/articles/ASRDY7KZ7RDVULFA02T.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-04T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS143CWWS14ULFA002.html?ref=rss">
+ <title>日経平均、一時700円超下落でスタート 大発会では異例のもくとう</title>
+ <link>https://www.asahi.com/articles/ASS143CWWS14ULFA002.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-04T10:22:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS136DSGS13ULFA00J.html?ref=rss">
+ <title>石川県で通信不能エリア拡大の恐れ　非常用電力が枯渇　NTT西</title>
+ <link>https://www.asahi.com/articles/ASS136DSGS13ULFA00J.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS13662XS13ULFA00D.html?ref=rss">
+ <title>物流網インフラ混乱　復旧急ぐコンビニ　企業、連休明け再稼働へ点検</title>
+ <link>https://www.asahi.com/articles/ASS13662XS13ULFA00D.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS135GMLRDDIIPE00K.html?ref=rss">
+ <title>新ブランド「北酒」　熟成の決め手はウイスキーに欠かせないあるもの</title>
+ <link>https://www.asahi.com/articles/ASS135GMLRDDIIPE00K.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS134VHFS13ULFA008.html?ref=rss">
+ <title>JAL機の製造元、エアバスが調査チーム派遣へ</title>
+ <link>https://www.asahi.com/articles/ASS134VHFS13ULFA008.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS133RNGS13ULFA001.html?ref=rss">
+ <title>米テスラ、EV販売で世界一から陥落　中国BYDが初めて首位に</title>
+ <link>https://www.asahi.com/articles/ASS133RNGS13ULFA001.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T11:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS131RMXS13OXIE001.html?ref=rss">
+ <title>日本航空と全日空、3日は約100便欠航へ　午前中の便を中心に</title>
+ <link>https://www.asahi.com/articles/ASS131RMXS13OXIE001.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-01-03T05:38:52+09:00</dc:date>
+</item>
+</rdf:RDF>
