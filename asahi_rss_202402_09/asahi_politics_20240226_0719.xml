@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルの一般政治ニュース、国政、地方政治内閣支持率などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-02-26T16:02:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-02-26T16:02:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2M4G5XS2KULZU00Z.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2M4FMDS2KULZU00Y.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2M4F9BS2KULZU00X.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2V41V0S2VUTFK002.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2T7G81S2MPLZB00S.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2L4TC3S2FUZPS001.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2T621WS2RTIPE004.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2P3DTTS2NUTFK007.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2P3DW2S2MUTFK00F.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS2M4D1ZS2HULZU007.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS2M4G5XS2KULZU00Z.html?ref=rss">
+ <title>宮沢喜一が守りたかった「戦後」とは　現代の読者へ日録が問いかける</title>
+ <link>https://www.asahi.com/articles/ASS2M4G5XS2KULZU00Z.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-26T16:02:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2M4FMDS2KULZU00Y.html?ref=rss">
+ <title>72歳で首相就任「遅すぎた」　補佐官型の政治家、宮沢喜一の権力観</title>
+ <link>https://www.asahi.com/articles/ASS2M4FMDS2KULZU00Y.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-26T16:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2M4F9BS2KULZU00X.html?ref=rss">
+ <title>戦後政治を観察、「宮沢喜一日録」を読む　御厨貴さん・原彬久さん</title>
+ <link>https://www.asahi.com/articles/ASS2M4F9BS2KULZU00X.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-26T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2V41V0S2VUTFK002.html?ref=rss">
+ <title>立憲・野田元首相「政倫審の完全公開、指示を」　岸田首相は明言せず</title>
+ <link>https://www.asahi.com/articles/ASS2V41V0S2VUTFK002.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-26T12:19:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2T7G81S2MPLZB00S.html?ref=rss">
+ <title>使用済み紙おむつを資源化、京都府亀岡市で実証実験　一石二鳥狙う</title>
+ <link>https://www.asahi.com/articles/ASS2T7G81S2MPLZB00S.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-26T12:06:53+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2L4TC3S2FUZPS001.html?ref=rss">
+ <title>学校現場での日の丸掲揚、君が代斉唱　親しみと法制化の必要性に落差</title>
+ <link>https://www.asahi.com/articles/ASS2L4TC3S2FUZPS001.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-26T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2T621WS2RTIPE004.html?ref=rss">
+ <title>対馬市長選、現新2氏が立候補　「核のごみ」最終処分場めぐり論戦</title>
+ <link>https://www.asahi.com/articles/ASS2T621WS2RTIPE004.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-25T18:21:22+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2P3DTTS2NUTFK007.html?ref=rss">
+ <title>「心の師」宮沢喜一元首相、政治改革に揺れた内閣　河野洋平氏が語る</title>
+ <link>https://www.asahi.com/articles/ASS2P3DTTS2NUTFK007.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-25T16:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2P3DW2S2MUTFK00F.html?ref=rss">
+ <title>「ウロウロしていると細川政権延命」 宮沢日録に残る河野氏への助言</title>
+ <link>https://www.asahi.com/articles/ASS2P3DW2S2MUTFK00F.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-25T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS2M4D1ZS2HULZU007.html?ref=rss">
+ <title>「外交リアリスト」でもあったハト派・宮沢氏、米国講演で衝撃の提起</title>
+ <link>https://www.asahi.com/articles/ASS2M4D1ZS2HULZU007.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-02-25T04:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
