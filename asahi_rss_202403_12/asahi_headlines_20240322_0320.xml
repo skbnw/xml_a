@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+  <channel rdf:about="http://www3.asahi.com/">
+    <title>朝日新聞デジタル</title>
+    <link>http://www.asahi.com/</link>
+    <description>朝日新聞デジタル</description>
+    <dc:language>ja</dc:language>
+    <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+    <dc:creator>朝日新聞社</dc:creator>
+    <dc:date>2024-03-22T12:02:14+09:00</dc:date>
+    <dc:publisher>朝日新聞社</dc:publisher>
+    <syn:updatePeriod>hourly</syn:updatePeriod>
+    <syn:updateFrequency>1</syn:updateFrequency>
+    <syn:updateBase>2024-03-22T12:02:14+09:00</syn:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3G33H6S36OXIE015.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q0RJPS3QTIPE009M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q3RWCS3QPLZB003.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3L7FTFS21PITB00P.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P67C8S2PTIPE02N.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q3DG7S3NUTIL00D.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q3JQ8S3NUTIL00X.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q26DDS3KTLVB005.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3N4VQ5S38ULZU002.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P66QJS2YPTIL01D.html?ref=rss"/>
+        <rdf:li rdf:resource="http://japan.cnet.com/article/35201793/?tag=as.rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q2V5SS3QUTQP00H.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q2QBFS3QUHBI00C.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3N6KMXS3NUTQP00F.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P5RH3S32PTIL007.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P630MS32PTIL008.html?ref=rss"/>
+        <rdf:li rdf:resource="http://japan.zdnet.com/article/35201772/?tag=as.rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3L6CQMS3LULZU01J.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q349XS3QULFA003.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P61V8S3GULFA01G.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P6TPGS3PULFA011.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q1TXSS3QULFA001.html?ref=rss"/>
+        <rdf:li rdf:resource="http://japan.cnet.com/article/35201791/?tag=as.rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3D5FLCS3DULFA01D.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS2F3WNLS1TUZPS001.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P6V6XS3PUTFK012.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P77KMS3PUTFK00K.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P67CCS3PUTFK00H.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q3TZ1S3QUHBI00P.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q34DZS3PUHBI040.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3Q2V1RS3QUHBI00D.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P7SVPS3PUHBI03B.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P6297S3PUHBI02Y.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3M71JZS3GOXIE023.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P5RGQS3PUCVL00N.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3M73Y1S3KUCVL01H.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3L3S9DS35OXIE00J.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P4FNSS3PULBH002M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P3FPYS3LUDCB007.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3P5T0TS3PULFA005.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3M5W77S3MUHBI01H.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3L6F5TS3LUCVL039.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS3H5S4BS2YUCVL049.html?ref=rss"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.asahi.com/articles/ASS3G33H6S36OXIE015.html?ref=rss">
+    <title>定年後に再び結婚式をした再婚の2人　子に伝えた「ごめん」の理由</title>
+    <link>http://www.asahi.com/articles/ASS3G33H6S36OXIE015.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q0RJPS3QTIPE009M.html?ref=rss">
+    <title>熊本市中心部の繁華街で3人刺され搬送　飲食店店長を現行犯逮捕</title>
+    <link>http://www.asahi.com/articles/ASS3Q0RJPS3QTIPE009M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T11:37:32+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q3RWCS3QPLZB003.html?ref=rss">
+    <title>保津川下り事故、業務上過失致死傷容疑で「かじ」担当の船頭を送検</title>
+    <link>http://www.asahi.com/articles/ASS3Q3RWCS3QPLZB003.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T11:31:24+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3L7FTFS21PITB00P.html?ref=rss">
+    <title>少年院で編んだぬいぐるみ　「人のためにと…」非行少女らの気付き</title>
+    <link>http://www.asahi.com/articles/ASS3L7FTFS21PITB00P.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P67C8S2PTIPE02N.html?ref=rss">
+    <title>レトロな遊具、子どもの笑顔乗せ60年　住宅街の中の小さな遊園地</title>
+    <link>http://www.asahi.com/articles/ASS3P67C8S2PTIPE02N.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q3DG7S3NUTIL00D.html?ref=rss">
+    <title>性暴力被害で苦しむ人に無料セラピーを　クララファン呼びかけ</title>
+    <link>http://www.asahi.com/articles/ASS3Q3DG7S3NUTIL00D.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q3JQ8S3NUTIL00X.html?ref=rss">
+    <title>天皇、皇后両陛下、能登半島地震の被災地入り　避難所を訪問へ</title>
+    <link>http://www.asahi.com/articles/ASS3Q3JQ8S3NUTIL00X.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T11:14:29+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q26DDS3KTLVB005.html?ref=rss">
+    <title>水俣病、原告144人全員の訴えを棄却　熊本地裁</title>
+    <link>http://www.asahi.com/articles/ASS3Q26DDS3KTLVB005.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T11:10:48+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3N4VQ5S38ULZU002.html?ref=rss">
+    <title>京都から輪島へ　とろりとやさしく　漆椀のなかに溶け合う僕の道のり</title>
+    <link>http://www.asahi.com/articles/ASS3N4VQ5S38ULZU002.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T11:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P66QJS2YPTIL01D.html?ref=rss">
+    <title>いつか誰かの憧れになれたら　沖野珠美さんが選んだ「やりたいこと」</title>
+    <link>http://www.asahi.com/articles/ASS3P66QJS2YPTIL01D.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://japan.cnet.com/article/35201793/?tag=as.rss">
+    <title>＜CNET Japan＞微生物が地球のサステナビリティ向上に役立つ可能性--進む宇宙探査技術の開発</title>
+    <link>http://japan.cnet.com/article/35201793/?tag=as.rss</link>
+    <description></description>
+    <dc:subject>デジタル</dc:subject>
+    <dc:date>2023-03-28T11:04:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q2V5SS3QUTQP00H.html?ref=rss">
+    <title>宇野昌磨、今季世界最高点でSP首位　高評価フリップ生んだ「思考」</title>
+    <link>http://www.asahi.com/articles/ASS3Q2V5SS3QUTQP00H.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-03-22T09:30:02+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q2QBFS3QUHBI00C.html?ref=rss">
+    <title>大谷選手は知っていた？　水原氏、「賭博の借金返済頼んだ」から一転</title>
+    <link>http://www.asahi.com/articles/ASS3Q2QBFS3QUHBI00C.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-03-22T08:31:56+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3N6KMXS3NUTQP00F.html?ref=rss">
+    <title>マウンドでつぶやく、「大丈夫」　どん底を脱した選抜優勝投手のいま</title>
+    <link>http://www.asahi.com/articles/ASS3N6KMXS3NUTQP00F.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-03-22T06:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P5RH3S32PTIL007.html?ref=rss">
+    <title>イニエスタら3選手、計21億円の申告漏れ　国税が「居住者」と判断</title>
+    <link>http://www.asahi.com/articles/ASS3P5RH3S32PTIL007.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P630MS32PTIL008.html?ref=rss">
+    <title>イニエスタ選手ら申告漏れ　税額に直結する居住実態、国税が把握へ</title>
+    <link>http://www.asahi.com/articles/ASS3P630MS32PTIL008.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://japan.zdnet.com/article/35201772/?tag=as.rss">
+    <title>＜ZDNet Japan＞さくらと高専機構、包括連携協定--地元に貢献するデジタル人材を育成</title>
+    <link>http://japan.zdnet.com/article/35201772/?tag=as.rss</link>
+    <description></description>
+    <dc:subject>デジタル</dc:subject>
+    <dc:date>2023-03-28T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3L6CQMS3LULZU01J.html?ref=rss">
+    <title>東京駅地下に広がる迷宮　7駅とアクセス、さらに延伸の計画も</title>
+    <link>http://www.asahi.com/articles/ASS3L6CQMS3LULZU01J.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-03-22T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q349XS3QULFA003.html?ref=rss">
+    <title>2月の消費者物価指数、4カ月ぶりに伸び率アップ　電気代の下げ鈍る</title>
+    <link>http://www.asahi.com/articles/ASS3Q349XS3QULFA003.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-03-22T10:45:19+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P61V8S3GULFA01G.html?ref=rss">
+    <title>女性執行役員5人増　伊藤忠副社長に聞く　特例措置に込めた思いとは</title>
+    <link>http://www.asahi.com/articles/ASS3P61V8S3GULFA01G.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-03-22T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P6TPGS3PULFA011.html?ref=rss">
+    <title>大転換「サプライズでやるべきでない」植田日銀の長く周到な地ならし</title>
+    <link>http://www.asahi.com/articles/ASS3P6TPGS3PULFA011.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-03-22T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q1TXSS3QULFA001.html?ref=rss">
+    <title>NYダウ、2日連続で最高値　利下げ期待広がる　アップルは4%下落</title>
+    <link>http://www.asahi.com/articles/ASS3Q1TXSS3QULFA001.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-03-22T05:55:55+09:00</dc:date>
+  </item>
+  <item rdf:about="http://japan.cnet.com/article/35201791/?tag=as.rss">
+    <title>＜CNET Japan＞Fitbit、「チャレンジ」など一部のソーシャル機能を廃止</title>
+    <link>http://japan.cnet.com/article/35201791/?tag=as.rss</link>
+    <description></description>
+    <dc:subject>デジタル</dc:subject>
+    <dc:date>2023-03-28T10:33:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3D5FLCS3DULFA01D.html?ref=rss">
+    <title>自民党は何を保守するのか　60年前の警鐘、30年前からの宿題</title>
+    <link>http://www.asahi.com/articles/ASS3D5FLCS3DULFA01D.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-03-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS2F3WNLS1TUZPS001.html?ref=rss">
+    <title>秘密保護で身辺調査、民間にも広がる法案 今回はどう受け止めるのか</title>
+    <link>http://www.asahi.com/articles/ASS2F3WNLS1TUZPS001.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-03-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P6V6XS3PUTFK012.html?ref=rss">
+    <title>日中関係で「戦略的互恵関係」明記　2024年度版「外交青書」判明</title>
+    <link>http://www.asahi.com/articles/ASS3P6V6XS3PUTFK012.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-03-21T22:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P77KMS3PUTFK00K.html?ref=rss">
+    <title>野党の証人喚問要求、自民は否定的　政倫審出席の「申し立て」も拒否</title>
+    <link>http://www.asahi.com/articles/ASS3P77KMS3PUTFK00K.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-03-21T22:03:28+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P67CCS3PUTFK00H.html?ref=rss">
+    <title>憲法審開催のめど立たず　裏金問題で野党が態度硬化「実態解明が先」</title>
+    <link>http://www.asahi.com/articles/ASS3P67CCS3PUTFK00H.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-03-21T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q3TZ1S3QUHBI00P.html?ref=rss">
+    <title>EU首脳が文書採択、ガザの「停戦」に初言及　ラファ侵攻反対も明記</title>
+    <link>http://www.asahi.com/articles/ASS3Q3TZ1S3QUHBI00P.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-03-22T12:04:22+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q34DZS3PUHBI040.html?ref=rss">
+    <title>AIの安全利用求める決議を初採択　国連総会、193カ国の総意で</title>
+    <link>http://www.asahi.com/articles/ASS3Q34DZS3PUHBI040.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-03-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3Q2V1RS3QUHBI00D.html?ref=rss">
+    <title>ロシア凍結資産の活用、EU首脳が合意　「利益」でウクライナ支援</title>
+    <link>http://www.asahi.com/articles/ASS3Q2V1RS3QUHBI00D.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-03-22T09:17:35+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P7SVPS3PUHBI03B.html?ref=rss">
+    <title>国への親しみ薄くても…北朝鮮サッカー、熱い応援の原動力はどこから</title>
+    <link>http://www.asahi.com/articles/ASS3P7SVPS3PUHBI03B.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-03-22T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P6297S3PUHBI02Y.html?ref=rss">
+    <title>友好の桜、日本の市民団体が5年ぶりに植樹　中国・無錫市</title>
+    <link>http://www.asahi.com/articles/ASS3P6297S3PUHBI02Y.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-03-22T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3M71JZS3GOXIE023.html?ref=rss">
+    <title>私たちはかわいそう？　それでは聞いてください、コロナ禍の青春の歌</title>
+    <link>http://www.asahi.com/articles/ASS3M71JZS3GOXIE023.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-03-22T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P5RGQS3PUCVL00N.html?ref=rss">
+    <title>バッハとラグビーと小澤征爾さん　片山杜秀さんが読み解く調和の源泉</title>
+    <link>http://www.asahi.com/articles/ASS3P5RGQS3PUCVL00N.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2024-03-22T11:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3M73Y1S3KUCVL01H.html?ref=rss">
+    <title>セイジの演奏に刻まれた日本　盟友デュトワが語る小澤征爾さんの本質</title>
+    <link>http://www.asahi.com/articles/ASS3M73Y1S3KUCVL01H.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2024-03-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3L3S9DS35OXIE00J.html?ref=rss">
+    <title>葉加瀬太郎さん育んだ「ルーツレス」なまち　団地で奏でたバイオリン</title>
+    <link>http://www.asahi.com/articles/ASS3L3S9DS35OXIE00J.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2024-03-22T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P4FNSS3PULBH002M.html?ref=rss">
+    <title>福島第一１号機圧力容器の真下、損傷激しく　ドローン撮影動画を公開</title>
+    <link>http://www.asahi.com/articles/ASS3P4FNSS3PULBH002M.html?ref=rss</link>
+    <description></description>
+    <dc:subject></dc:subject>
+    <dc:date>2024-03-22T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P3FPYS3LUDCB007.html?ref=rss">
+    <title>新種の名はスズメノハラヅモリ　買い物途中で偶然みつけた寄生虫</title>
+    <link>http://www.asahi.com/articles/ASS3P3FPYS3LUDCB007.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2024-03-21T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3P5T0TS3PULFA005.html?ref=rss">
+    <title>H3ロケット、3号機などの一部を公開　種子島で組み立てへ</title>
+    <link>http://www.asahi.com/articles/ASS3P5T0TS3PULFA005.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2024-03-21T17:41:59+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3M5W77S3MUHBI01H.html?ref=rss">
+    <title>「日中外交の黒衣」　正常化交渉と民間交流に尽力　南村志郎氏が死去</title>
+    <link>http://www.asahi.com/articles/ASS3M5W77S3MUHBI01H.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-03-20T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3L6F5TS3LUCVL039.html?ref=rss">
+    <title>いのまたむつみさん死去　「テイルズ　オブ」のキャラデザインなど</title>
+    <link>http://www.asahi.com/articles/ASS3L6F5TS3LUCVL039.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-03-18T19:39:45+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS3H5S4BS2YUCVL049.html?ref=rss">
+    <title>小池真理子さん「悲しみは底知れず」　夫の藤田宜永さん亡くして4年</title>
+    <link>http://www.asahi.com/articles/ASS3H5S4BS2YUCVL049.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-03-16T13:30:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
