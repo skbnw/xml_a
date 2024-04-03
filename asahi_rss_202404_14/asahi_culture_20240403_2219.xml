@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのカルチャー情報とニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-04-04T07:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-04-04T07:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS4320WGS43UCVL02WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS432T3HS43UCVL01YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS42622MS41PTLC009.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS425SYSS2DOXIE00B.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS421PKZS42UCVL001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS4165WMS2NOBJB00Y.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS4230Z5S42ULZU00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS307D52S30ULBH001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS3W3JQCS3WOIPE004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS3Z4520S3YUTFL001.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS4320WGS43UCVL02WM.html?ref=rss">
+ <title>神様から現代のヒーローまで、時空を越えた仮面の旅　民博で特別展</title>
+ <link>https://www.asahi.com/articles/ASS4320WGS43UCVL02WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-04T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS432T3HS43UCVL01YM.html?ref=rss">
+ <title>旧統一教会が回答しなかった項目、文科省が再び回答求める</title>
+ <link>https://www.asahi.com/articles/ASS432T3HS43UCVL01YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-03T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS42622MS41PTLC009.html?ref=rss">
+ <title>こんぴら歌舞伎、人手不足で「限界」も　周辺市町との連携で伝統守る</title>
+ <link>https://www.asahi.com/articles/ASS42622MS41PTLC009.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-03T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS425SYSS2DOXIE00B.html?ref=rss">
+ <title>牛1頭分の革、上方落語に欠かせぬ存在に　桂天吾が太鼓職人を訪ねる</title>
+ <link>https://www.asahi.com/articles/ASS425SYSS2DOXIE00B.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-03T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS421PKZS42UCVL001M.html?ref=rss">
+ <title>孤独死した部屋、炎の上の紙飛行機…現代美術で探るコロナ後の世界</title>
+ <link>https://www.asahi.com/articles/ASS421PKZS42UCVL001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-03T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS4165WMS2NOBJB00Y.html?ref=rss">
+ <title>豊橋に「負けヒロイン」探しに来て！駅ビルに書店…進む聖地づくり</title>
+ <link>https://www.asahi.com/articles/ASS4165WMS2NOBJB00Y.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-03T10:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS4230Z5S42ULZU00VM.html?ref=rss">
+ <title>戦国の城、荒砥城と鉢形城を訪ねて　近世の城とは異なる実用本位の姿</title>
+ <link>https://www.asahi.com/articles/ASS4230Z5S42ULZU00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-03T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS307D52S30ULBH001M.html?ref=rss">
+ <title>スマホでもAIでもない「人が発明すべきもの」　富野由悠季の答えは</title>
+ <link>https://www.asahi.com/articles/ASS307D52S30ULBH001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-03T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS3W3JQCS3WOIPE004M.html?ref=rss">
+ <title>築80年の旧旅館でティータイムを　復活への第一歩、店舗オープンへ</title>
+ <link>https://www.asahi.com/articles/ASS3W3JQCS3WOIPE004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-02T16:50:34+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS3Z4520S3YUTFL001.html?ref=rss">
+ <title>亡くなって1年、坂本龍一さんからの宿題　記者が考える「気前よさ」</title>
+ <link>https://www.asahi.com/articles/ASS3Z4520S3YUTFL001.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-04-02T12:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
