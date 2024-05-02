@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+  <channel rdf:about="http://www3.asahi.com/">
+    <title>朝日新聞デジタル</title>
+    <link>http://www.asahi.com/</link>
+    <description>朝日新聞デジタル</description>
+    <dc:language>ja</dc:language>
+    <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+    <dc:creator>朝日新聞社</dc:creator>
+    <dc:date>2024-05-02T22:07:52+09:00</dc:date>
+    <dc:publisher>朝日新聞社</dc:publisher>
+    <syn:updatePeriod>hourly</syn:updatePeriod>
+    <syn:updateFrequency>1</syn:updateFrequency>
+    <syn:updateBase>2024-05-02T22:07:52+09:00</syn:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5234DHS52PJLB004M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523HJNS52UTFL00VM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523TVSS52OIPE01LM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523STPS52TIPE01BM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523F4WS52IIPE00ZM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523FKYS52UTIL01GM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523664S52UNHB00MM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523DQPS52OXIE02SM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5232C4S52UOHB00GM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523DJ7S52UQIP01PM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS521W0BS52PLXB003M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS521VZ2S52PLZU006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS4Z0PPNS4ZUTQP01SM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS515RJ5S51UTQP017M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5153YGS51UTQP01YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523RCTS52OXIE01NM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523QHPS52ULFA00RM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5235YVS52UQIP007M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5232FZS52UQIP007M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS522V49S52ULFA00YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523CQLS52ULFA001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS522TKGS52IIPE00LM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5235RBS52UTIL00WM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS517TT4S51UTFK00KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5141LVS51PIHB00KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS4P54K2S4PUHBI01KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523J1PS52UHBI00QM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523D44S52SFVU2GDM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5235W2S52BQBQ0G2M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS514WW1S51UHBI00YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS523PM5S52OXIE03CM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5235GPS52UCVL02YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS4T5CQVS4TUKJH00QM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS511PNLS51UCVL00KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS512HJFS51ULBH003M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS4Z1PLRS4ZUSPT008M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS4Z4RLGS4ZULBH00KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS521VZ2S52PLZU006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS514H8JS51UCVL02TM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS5163JQS51UCVL03MM.html?ref=rss"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.asahi.com/articles/ASS5234DHS52PJLB004M.html?ref=rss">
+    <title>隆起した海岸に土盛って道路に　住民ら通行開始、国名勝の千枚田近く</title>
+    <link>http://www.asahi.com/articles/ASS5234DHS52PJLB004M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T21:56:44+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523HJNS52UTFL00VM.html?ref=rss">
+    <title>多様な声が届くように　能登復興に向け「意思決定の場」に女性を</title>
+    <link>http://www.asahi.com/articles/ASS523HJNS52UTFL00VM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T21:15:22+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523TVSS52OIPE01LM.html?ref=rss">
+    <title>名鉄電車と日本酒がコラボ　愛知県内の4銘柄、1合缶入りで販売</title>
+    <link>http://www.asahi.com/articles/ASS523TVSS52OIPE01LM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T21:05:59+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523STPS52TIPE01BM.html?ref=rss">
+    <title>拒否難しい患者、性的虐待「怖かった」　国立大牟田病院が会見で謝罪</title>
+    <link>http://www.asahi.com/articles/ASS523STPS52TIPE01BM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523F4WS52IIPE00ZM.html?ref=rss">
+    <title>接見禁止の容疑者に電話許す　弁護士を業務停止処分　札幌弁護士会</title>
+    <link>http://www.asahi.com/articles/ASS523F4WS52IIPE00ZM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523FKYS52UTIL01GM.html?ref=rss">
+    <title>三笠宮家の彬子さま、能登の漆芸支援のためクラファン立ち上げ</title>
+    <link>http://www.asahi.com/articles/ASS523FKYS52UTIL01GM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523664S52UNHB00MM.html?ref=rss">
+    <title>育休明け部下に「今までさぼっていた」　海保管理職をパワハラで処分</title>
+    <link>http://www.asahi.com/articles/ASS523664S52UNHB00MM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523DQPS52OXIE02SM.html?ref=rss">
+    <title>落とし物が見つかったのにうれしそうでは……直感から駅員の着服発覚</title>
+    <link>http://www.asahi.com/articles/ASS523DQPS52OXIE02SM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5232C4S52UOHB00GM.html?ref=rss">
+    <title>担任や同級生による中1生徒いじめ、第三者委を設置へ　新潟県田上町</title>
+    <link>http://www.asahi.com/articles/ASS5232C4S52UOHB00GM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523DJ7S52UQIP01PM.html?ref=rss">
+    <title>天皇ご一家　御料牧場で静養　雅子さまが子馬に手を振る場面も</title>
+    <link>http://www.asahi.com/articles/ASS523DJ7S52UQIP01PM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T19:19:52+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS521W0BS52PLXB003M.html?ref=rss">
+    <title>「香川県の宝、渡辺雄太選手と共に」　地元B3香川が正式オファー</title>
+    <link>http://www.asahi.com/articles/ASS521W0BS52PLXB003M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-05-02T16:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS521VZ2S52PLZU006M.html?ref=rss">
+    <title>元日本高野連会長の奥島孝康さん死去　早稲田大学総長も務める</title>
+    <link>http://www.asahi.com/articles/ASS521VZ2S52PLZU006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-05-02T15:02:55+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS4Z0PPNS4ZUTQP01SM.html?ref=rss">
+    <title>引退後やりたい仕事1位の会社経営　実現させた元中日投手が語る苦難</title>
+    <link>http://www.asahi.com/articles/ASS4Z0PPNS4ZUTQP01SM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-05-02T14:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS515RJ5S51UTQP017M.html?ref=rss">
+    <title>西武・若林楽人が復活印象づける2発　痛み乗り越え吹っ切れ得た自信</title>
+    <link>http://www.asahi.com/articles/ASS515RJ5S51UTQP017M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-05-02T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5153YGS51UTQP01YM.html?ref=rss">
+    <title>日替わり立役者　今夜はオスナ　燕が海外選手の活躍で今季初の3連勝</title>
+    <link>http://www.asahi.com/articles/ASS5153YGS51UTQP01YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-05-02T08:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523RCTS52OXIE01NM.html?ref=rss">
+    <title>高速道路の看板をパーティションに再生「風雨に耐えた表情生かす」</title>
+    <link>http://www.asahi.com/articles/ASS523RCTS52OXIE01NM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-05-02T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523QHPS52ULFA00RM.html?ref=rss">
+    <title>訪日客好調で増収増益、ANAとJAL　理想は1ドル＝125円？</title>
+    <link>http://www.asahi.com/articles/ASS523QHPS52ULFA00RM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-05-02T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5235YVS52UQIP007M.html?ref=rss">
+    <title>「介入です！」ディーラーも騒然、今回は3兆円規模か　政府の余力は</title>
+    <link>http://www.asahi.com/articles/ASS5235YVS52UQIP007M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-05-02T20:08:26+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5232FZS52UQIP007M.html?ref=rss">
+    <title>円急騰、3兆円規模の「覆面介入」か　効果の持続性には疑問も</title>
+    <link>http://www.asahi.com/articles/ASS5232FZS52UQIP007M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-05-02T19:59:30+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS522V49S52ULFA00YM.html?ref=rss">
+    <title>追加利上げ「物価上ぶれあり得る」との意見　日銀３月会合の議事要旨</title>
+    <link>http://www.asahi.com/articles/ASS522V49S52ULFA00YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-05-02T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523CQLS52ULFA001M.html?ref=rss">
+    <title>首相、AIの国際枠組みの設立表明　49カ国・地域で友好グループ</title>
+    <link>http://www.asahi.com/articles/ASS523CQLS52ULFA001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-05-02T19:27:37+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS522TKGS52IIPE00LM.html?ref=rss">
+    <title>長谷川岳議員との出張面談、過去分も突出　0回もいる中…　札幌市</title>
+    <link>http://www.asahi.com/articles/ASS522TKGS52IIPE00LM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-05-02T19:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5235RBS52UTIL00WM.html?ref=rss">
+    <title>海自ヘリ2機「衝突」と断定　同系統機、1機での訓練飛行を再開へ</title>
+    <link>http://www.asahi.com/articles/ASS5235RBS52UTIL00WM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-05-02T19:08:15+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS517TT4S51UTFK00KM.html?ref=rss">
+    <title>創価学会員「何を今さら」島根補選敗北にみる自公関係25年の現在地</title>
+    <link>http://www.asahi.com/articles/ASS517TT4S51UTFK00KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-05-02T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5141LVS51PIHB00KM.html?ref=rss">
+    <title>「史上最年少市長」が打ち出した、いじめ対策　就任１年の成果と学び</title>
+    <link>http://www.asahi.com/articles/ASS5141LVS51PIHB00KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-05-02T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS4P54K2S4PUHBI01KM.html?ref=rss">
+    <title>【速報中】ロシア軍、投降意思のウクライナ兵15人殺害　人権団体</title>
+    <link>http://www.asahi.com/articles/ASS4P54K2S4PUHBI01KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-05-02T21:44:59+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523J1PS52UHBI00QM.html?ref=rss">
+    <title>梨泰院の雑踏事故、「事故原因を再調査」　韓国国会が特別法案可決</title>
+    <link>http://www.asahi.com/articles/ASS523J1PS52UHBI00QM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-05-02T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523D44S52SFVU2GDM.html?ref=rss">
+    <title>ガザ交渉、ハマス2日にも回答か　ラファ侵攻なら「交渉ストップ」</title>
+    <link>http://www.asahi.com/articles/ASS523D44S52SFVU2GDM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-05-02T19:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5235W2S52BQBQ0G2M.html?ref=rss">
+    <title>「日本は外国人嫌い」　バイデン米大統領が発言、移民受け入れめぐり</title>
+    <link>http://www.asahi.com/articles/ASS5235W2S52BQBQ0G2M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-05-02T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS514WW1S51UHBI00YM.html?ref=rss">
+    <title>米国のデモ、反戦運動が起きた60年代との違いは　大統領選にも影響</title>
+    <link>http://www.asahi.com/articles/ASS514WW1S51UHBI00YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-05-02T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS523PM5S52OXIE03CM.html?ref=rss">
+    <title>国重要無形民俗文化財「御船祭」で祭用の船が人に接触　4人重軽傷</title>
+    <link>http://www.asahi.com/articles/ASS523PM5S52OXIE03CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-05-02T20:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5235GPS52UCVL02YM.html?ref=rss">
+    <title>叡王戦第３局で伊藤七段が勝利　藤井叡王２連敗で初失冠の窮地に</title>
+    <link>http://www.asahi.com/articles/ASS5235GPS52UCVL02YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2024-05-02T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS4T5CQVS4TUKJH00QM.html?ref=rss">
+    <title>宇野亞喜良さんが描くミステリアスな女性たち　90歳の大規模個展</title>
+    <link>http://www.asahi.com/articles/ASS4T5CQVS4TUKJH00QM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2024-05-02T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS511PNLS51UCVL00KM.html?ref=rss">
+    <title>漠然とした夢より「復讐」を　マンガ「カグラバチ」作者インタビュー</title>
+    <link>http://www.asahi.com/articles/ASS511PNLS51UCVL00KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2024-05-02T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS512HJFS51ULBH003M.html?ref=rss">
+    <title>石炭廃止目標に「政策に大きな変更の必要ない」　経産省の主張の背景</title>
+    <link>http://www.asahi.com/articles/ASS512HJFS51ULBH003M.html?ref=rss</link>
+    <description></description>
+    <dc:subject></dc:subject>
+    <dc:date>2024-05-01T17:11:29+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS4Z1PLRS4ZUSPT008M.html?ref=rss">
+    <title>部品や材料の約７割は、日本製だった　「ダビンチ」が伝える教訓</title>
+    <link>http://www.asahi.com/articles/ASS4Z1PLRS4ZUSPT008M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2024-05-01T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS4Z4RLGS4ZULBH00KM.html?ref=rss">
+    <title>石炭火力廃止へ「埋まる外堀」　狭まる抜け道、G7で孤立する日本</title>
+    <link>http://www.asahi.com/articles/ASS4Z4RLGS4ZULBH00KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject></dc:subject>
+    <dc:date>2024-05-01T01:28:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS521VZ2S52PLZU006M.html?ref=rss">
+    <title>元日本高野連会長の奥島孝康さん死去　早稲田大学総長も務める</title>
+    <link>http://www.asahi.com/articles/ASS521VZ2S52PLZU006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-05-02T15:02:55+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS514H8JS51UCVL02TM.html?ref=rss">
+    <title>ピアニストのフジコ・ヘミングさん死去　「ラ・カンパネラ」で旋風</title>
+    <link>http://www.asahi.com/articles/ASS514H8JS51UCVL02TM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-05-02T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS5163JQS51UCVL03MM.html?ref=rss">
+    <title>人々の心動かした真実の響き　フジコ・ヘミングさんが弾いた人生賛歌</title>
+    <link>http://www.asahi.com/articles/ASS5163JQS51UCVL03MM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-05-02T07:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
