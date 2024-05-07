@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのカルチャー情報とニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-05-07T15:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-05-07T15:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS522GN0S52UCVL044M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS5432QXS54PIHB01PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS4Z4Q7KS3MULZU001.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS4Z3TG3S4ZPOMB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS521F0VS52UCVL032M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS540512S54PIHB019M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS510FBSS51UCVL02KM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS522GN0S52UCVL044M.html?ref=rss">
+ <title>「『雪舟展』ではありません！」とうたう雪舟展　京都国立博物館で</title>
+ <link>https://www.asahi.com/articles/ASS522GN0S52UCVL044M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-05-07T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS5432QXS54PIHB01PM.html?ref=rss">
+ <title>芸能人守るため、たかまつななさんは声あげた 「メディアも動いて」</title>
+ <link>https://www.asahi.com/articles/ASS5432QXS54PIHB01PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-05-06T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS4Z4Q7KS3MULZU001.html?ref=rss">
+ <title>体で考えて描く横尾忠則　大学には行けず独学　「過去は悔やまない」</title>
+ <link>https://www.asahi.com/articles/ASS4Z4Q7KS3MULZU001.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-05-06T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS4Z3TG3S4ZPOMB002M.html?ref=rss">
+ <title>「木国」から消えた筏流し　薄れる川と人のつながり、水底に沈む記憶</title>
+ <link>https://www.asahi.com/articles/ASS4Z3TG3S4ZPOMB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-05-06T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS521F0VS52UCVL032M.html?ref=rss">
+ <title>青葉市子さん「孤独の先で共鳴したい」　思い浮かぶ祖母の存在</title>
+ <link>https://www.asahi.com/articles/ASS521F0VS52UCVL032M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-05-06T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS540512S54PIHB019M.html?ref=rss">
+ <title>「認めてやんないと」カルーセル麻紀さんの至言　時代の荒波を生きた</title>
+ <link>https://www.asahi.com/articles/ASS540512S54PIHB019M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-05-05T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS510FBSS51UCVL02KM.html?ref=rss">
+ <title>「完全中継」で根強い人気、サンテレビが開局55年　特別番組もアレ</title>
+ <link>https://www.asahi.com/articles/ASS510FBSS51UCVL02KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-05-05T16:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
