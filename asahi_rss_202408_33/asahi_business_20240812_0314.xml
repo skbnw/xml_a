@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのビジネスニュース、経済、産業、金融、財政、為替、株価などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-08-12T12:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-08-12T12:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS872F7LS87ULFA017M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS881FGGS88ULFA00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS890628S89PLZB00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS882GYKS88ULFA024M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS882BV5S88ULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS882FSTS88ULFA022M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8B1CPWS8BPUZB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS863F65S86ULFA00DM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS872F7LS87ULFA017M.html?ref=rss">
+ <title>無料お子さま撮影会、待ち受けるのはFP　「相談の場」広がるしかけ</title>
+ <link>https://www.asahi.com/articles/ASS872F7LS87ULFA017M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-12T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS881FGGS88ULFA00WM.html?ref=rss">
+ <title>日産99%減益、トヨタ・ホンダは最高益　米市場で明暗、4～6月期</title>
+ <link>https://www.asahi.com/articles/ASS881FGGS88ULFA00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-12T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS890628S89PLZB00XM.html?ref=rss">
+ <title>京都・よーじや、イメチェンに活路　どん底から脱・観光依存に動く</title>
+ <link>https://www.asahi.com/articles/ASS890628S89PLZB00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-12T08:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS882GYKS88ULFA024M.html?ref=rss">
+ <title>「排ガス浄化」得意な日本ガイシに聞く　脱エンジン怖くないですか</title>
+ <link>https://www.asahi.com/articles/ASS882GYKS88ULFA024M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-12T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS882BV5S88ULFA004M.html?ref=rss">
+ <title>そこに必要とされるトイレがある　日本の2大メーカー、次は世界へ</title>
+ <link>https://www.asahi.com/articles/ASS882BV5S88ULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-11T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS882FSTS88ULFA022M.html?ref=rss">
+ <title>世界にまだ残る、トイレの過酷な現実　中満泉・国連事務次長の思い</title>
+ <link>https://www.asahi.com/articles/ASS882FSTS88ULFA022M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-11T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8B1CPWS8BPUZB001M.html?ref=rss">
+ <title>産経新聞、富山での発行を9月末で休止　サンスポ、夕刊フジも</title>
+ <link>https://www.asahi.com/articles/ASS8B1CPWS8BPUZB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-10T13:39:50+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS863F65S86ULFA00DM.html?ref=rss">
+ <title>「金太郎飴」抜け出せるか　電機大手、デジタル関連のブランド乱立</title>
+ <link>https://www.asahi.com/articles/ASS863F65S86ULFA00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-10T13:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
