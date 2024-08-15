@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+  <channel rdf:about="http://www3.asahi.com/">
+    <title>朝日新聞デジタル</title>
+    <link>http://www.asahi.com/</link>
+    <description>朝日新聞デジタル</description>
+    <dc:language>ja</dc:language>
+    <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+    <dc:creator>朝日新聞社</dc:creator>
+    <dc:date>2024-08-15T19:05:58+09:00</dc:date>
+    <dc:publisher>朝日新聞社</dc:publisher>
+    <syn:updatePeriod>hourly</syn:updatePeriod>
+    <syn:updateFrequency>1</syn:updateFrequency>
+    <syn:updateBase>2024-08-15T19:05:58+09:00</syn:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H36DFS8HULOB013M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2SX8S8HUTIL00CM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H0VJXS8HUTIL00NM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2V54S8HOXIE031M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2PM6S8HOIPE00MM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2FP3S8HPOMB008M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H1DJCS8HUTIL00SM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8G10NKS8GUTIL005M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2CWVS8HPTIL00HM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2THZS8HUTIL022M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2TB9S8HUTQP006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H3222S8HOXIE035M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS892T7FS89PQIP03CM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8933LNS89UQIP02YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS892S2KS89PQIP023M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H1PGJS8HULFA001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H0CZCS8HULFA00ZM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H0VRBS8HULFA003M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS883H0JS88ULFA00CM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8G7XHVS8GULFA004M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2HBSS8HUTFK00KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H01CFS8HUTFK002M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H1JM1S8HOXIE00NM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H1G36S8HULFA005M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H0VS0S8HUTFK001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2TK3S8HUHBI01NM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS834FWWS83UHBI016M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H243YS8HBQBQ1C3M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8G2QDXS8GUHBI01RM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H0T10S8HUHBI00QM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS891HDXS89UPQJ00KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8G3JD3S8GUCVL03WM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8F7J32S8FUCVL005M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8G2ST3S8GPLBJ001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8F449PS8FPLBJ006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8G23RVS8GPLBJ004M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8F30P7S8FPLBJ002M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8H2CLQS8HUHBI01GM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8F54Z5S8FPTIL00PM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASS8F7WC9S8FUHBI00CM.html?ref=rss"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H36DFS8HULOB013M.html?ref=rss">
+    <title>川遊び中の30代男性が死亡　神奈川県南足柄市の酒匂川</title>
+    <link>http://www.asahi.com/articles/ASS8H36DFS8HULOB013M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T19:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2SX8S8HUTIL00CM.html?ref=rss">
+    <title>「素振り」だった1週間　巨大地震注意、自治体に求められた判断</title>
+    <link>http://www.asahi.com/articles/ASS8H2SX8S8HUTIL00CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H0VJXS8HUTIL00NM.html?ref=rss">
+    <title>【交通情報まとめ】東北、上越、山形新幹線で一部運休　台風7号</title>
+    <link>http://www.asahi.com/articles/ASS8H0VJXS8HUTIL00NM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T18:32:58+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2V54S8HOXIE031M.html?ref=rss">
+    <title>上野動物園など都所管の15施設、16日は終日閉園　台風7号接近で</title>
+    <link>http://www.asahi.com/articles/ASS8H2V54S8HOXIE031M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T18:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2PM6S8HOIPE00MM.html?ref=rss">
+    <title>ニセ警官信じて金塊購入、1770万円相当盗まれる　70代女性被害</title>
+    <link>http://www.asahi.com/articles/ASS8H2PM6S8HOIPE00MM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T18:14:22+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2FP3S8HPOMB008M.html?ref=rss">
+    <title>人と鹿のよい共生を…奈良県が暴力動画拡散で声明「直接接触避けて」</title>
+    <link>http://www.asahi.com/articles/ASS8H2FP3S8HPOMB008M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T18:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H1DJCS8HUTIL00SM.html?ref=rss">
+    <title>もし「巨大地震警戒」が出たら、「注意」で求めない事前避難も</title>
+    <link>http://www.asahi.com/articles/ASS8H1DJCS8HUTIL00SM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8G10NKS8GUTIL005M.html?ref=rss">
+    <title>【交通情報まとめ】東海道新幹線、16日は東京―名古屋で終日運休</title>
+    <link>http://www.asahi.com/articles/ASS8G10NKS8GUTIL005M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T17:54:47+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2CWVS8HPTIL00HM.html?ref=rss">
+    <title>「市民攻撃する卑劣な行為」　市議から差別的言動と提訴の女性が陳述</title>
+    <link>http://www.asahi.com/articles/ASS8H2CWVS8HPTIL00HM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T17:53:41+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2THZS8HUTIL022M.html?ref=rss">
+    <title>東海道新幹線、徐行規制を解除　巨大地震注意終了で　JR東海</title>
+    <link>http://www.asahi.com/articles/ASS8H2THZS8HUTIL022M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T17:44:06+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2TB9S8HUTQP006M.html?ref=rss">
+    <title>大谷翔平が30球団本塁打に王手　ア・リーグ14球団目は衝撃的一発</title>
+    <link>http://www.asahi.com/articles/ASS8H2TB9S8HUTQP006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-08-15T18:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H3222S8HOXIE035M.html?ref=rss">
+    <title>「迷いなく振れた」「今日が一番苦しかった」　早実エース　中村心大</title>
+    <link>http://www.asahi.com/articles/ASS8H3222S8HOXIE035M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-08-15T18:17:57+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS892T7FS89PQIP03CM.html?ref=rss">
+    <title>選手と一緒に人生懸ける　ブラサカのガイドが探るフラットな関係性</title>
+    <link>http://www.asahi.com/articles/ASS892T7FS89PQIP03CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-08-15T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8933LNS89UQIP02YM.html?ref=rss">
+    <title>選手と一緒に人生を賭ける楽しさ　ゴール裏から声出すブラサカガイド</title>
+    <link>http://www.asahi.com/articles/ASS8933LNS89UQIP02YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-08-15T17:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS892S2KS89PQIP023M.html?ref=rss">
+    <title>電動車いすの友人が「後ろ乗ってく？」　留学した北欧のフラットさ</title>
+    <link>http://www.asahi.com/articles/ASS892S2KS89PQIP023M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2024-08-15T17:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H1PGJS8HULFA001M.html?ref=rss">
+    <title>次の追加利上げ「来春以降」　元日銀理事、市場混乱で「振り出しに」</title>
+    <link>http://www.asahi.com/articles/ASS8H1PGJS8HULFA001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-08-15T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H0CZCS8HULFA00ZM.html?ref=rss">
+    <title>プラス成長でも見通せぬ「好循環」　岸田首相が掲げた目標は道半ば</title>
+    <link>http://www.asahi.com/articles/ASS8H0CZCS8HULFA00ZM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-08-15T15:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H0VRBS8HULFA003M.html?ref=rss">
+    <title>物価高で名目GDP600兆円超え、アベノミクス達成も届かぬ実力</title>
+    <link>http://www.asahi.com/articles/ASS8H0VRBS8HULFA003M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-08-15T12:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS883H0JS88ULFA00CM.html?ref=rss">
+    <title>便利さの半面、「犯罪利用口座」のマトに　ネット銀の認識や対策は</title>
+    <link>http://www.asahi.com/articles/ASS883H0JS88ULFA00CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-08-15T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8G7XHVS8GULFA004M.html?ref=rss">
+    <title>実質GDP、年3.1％成長 2四半期ぶりプラス　名目600兆円超</title>
+    <link>http://www.asahi.com/articles/ASS8G7XHVS8GULFA004M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2024-08-15T09:19:20+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2HBSS8HUTFK00KM.html?ref=rss">
+    <title>斎藤経産相、総裁選に意欲　河野氏は「いつか経験生かせる日来れば」</title>
+    <link>http://www.asahi.com/articles/ASS8H2HBSS8HUTFK00KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-08-15T17:06:40+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H01CFS8HUTFK002M.html?ref=rss">
+    <title>木原稔防衛相、終戦の日に靖国神社に参拝　韓国「時代錯誤的」と反発</title>
+    <link>http://www.asahi.com/articles/ASS8H01CFS8HUTFK002M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-08-15T14:51:26+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H1JM1S8HOXIE00NM.html?ref=rss">
+    <title>兵庫県職員アンケート6700人回答　知事のパワハラ疑惑など尋ねる</title>
+    <link>http://www.asahi.com/articles/ASS8H1JM1S8HOXIE00NM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-08-15T14:30:48+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H1G36S8HULFA005M.html?ref=rss">
+    <title>斎藤経産相、総裁選に意欲　出馬要請「数多く寄せられた」</title>
+    <link>http://www.asahi.com/articles/ASS8H1G36S8HULFA005M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-08-15T13:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H0VS0S8HUTFK001M.html?ref=rss">
+    <title>岸田首相「閣僚も気兼ねなく堂々と論戦を」　自民党総裁選で呼びかけ</title>
+    <link>http://www.asahi.com/articles/ASS8H0VS0S8HUTFK001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2024-08-15T12:31:06+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2TK3S8HUHBI01NM.html?ref=rss">
+    <title>「民主化の象徴」アウンサンスーチー氏の住宅競売、また落札者現れず</title>
+    <link>http://www.asahi.com/articles/ASS8H2TK3S8HUHBI01NM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-08-15T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS834FWWS83UHBI016M.html?ref=rss">
+    <title>【速報中】イラン、停戦合意なら報復見送りの可能性　ロイター</title>
+    <link>http://www.asahi.com/articles/ASS834FWWS83UHBI016M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-08-15T17:00:40+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H243YS8HBQBQ1C3M.html?ref=rss">
+    <title>接戦7州のうち5州でハリス氏先行　米世論調査、追われるトランプ氏</title>
+    <link>http://www.asahi.com/articles/ASS8H243YS8HBQBQ1C3M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-08-15T16:48:44+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8G2QDXS8GUHBI01RM.html?ref=rss">
+    <title>「越境攻撃は政治的作戦」　ウクライナの軍事アナリストが語る狙い</title>
+    <link>http://www.asahi.com/articles/ASS8G2QDXS8GUHBI01RM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-08-15T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H0T10S8HUHBI00QM.html?ref=rss">
+    <title>米コロンビア大の学長辞任　イスラエル抗議のデモ対応で批判集める</title>
+    <link>http://www.asahi.com/articles/ASS8H0T10S8HUHBI00QM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2024-08-15T12:39:06+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS891HDXS89UPQJ00KM.html?ref=rss">
+    <title>「厭戦」とは最後の1滴にならぬこと　92歳の辻真先さんから若者へ</title>
+    <link>http://www.asahi.com/articles/ASS891HDXS89UPQJ00KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2024-08-15T12:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8G3JD3S8GUCVL03WM.html?ref=rss">
+    <title>銃声のない戦争ドラマ　「昔はおれと同い年だった田中さんとの友情」</title>
+    <link>http://www.asahi.com/articles/ASS8G3JD3S8GUCVL03WM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8F7J32S8FUCVL005M.html?ref=rss">
+    <title>歌い継がれる「愛の讃歌」　日本に息づくシャンソン、生命力の源は</title>
+    <link>http://www.asahi.com/articles/ASS8F7J32S8FUCVL005M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2024-08-15T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8G2ST3S8GPLBJ001M.html?ref=rss">
+    <title>ストーンヘンジ巨石、産地は750キロ先　驚く研究者、どう運んだ？</title>
+    <link>http://www.asahi.com/articles/ASS8G2ST3S8GPLBJ001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2024-08-15T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8F449PS8FPLBJ006M.html?ref=rss">
+    <title>「違うパターンの想像を」臨時情報の経験を防災向上に　矢守克也さん</title>
+    <link>http://www.asahi.com/articles/ASS8F449PS8FPLBJ006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T17:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8G23RVS8GPLBJ004M.html?ref=rss">
+    <title>南海トラフ臨時情報、どの程度の対応がよいか議論を　福和伸夫さん</title>
+    <link>http://www.asahi.com/articles/ASS8G23RVS8GPLBJ004M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T17:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8F30P7S8FPLBJ002M.html?ref=rss">
+    <title>日向灘の地震、独自の特徴とM8級リスク　南海トラフ地震との関係は</title>
+    <link>http://www.asahi.com/articles/ASS8F30P7S8FPLBJ002M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2024-08-15T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8H2CLQS8HUHBI01GM.html?ref=rss">
+    <title>米俳優ジーナ・ローランズさんが死去　「こわれゆく女」などで主演</title>
+    <link>http://www.asahi.com/articles/ASS8H2CLQS8HUHBI01GM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-08-15T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8F54Z5S8FPTIL00PM.html?ref=rss">
+    <title>大阪高検トップの上冨敏伸検事長が死去</title>
+    <link>http://www.asahi.com/articles/ASS8F54Z5S8FPTIL00PM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-08-14T11:33:37+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASS8F7WC9S8FUHBI00CM.html?ref=rss">
+    <title>ブラジル在住被爆者の森田隆さん死去　在外被爆者の「格差」是正に道</title>
+    <link>http://www.asahi.com/articles/ASS8F7WC9S8FUHBI00CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2024-08-14T09:08:09+09:00</dc:date>
+  </item>
+</rdf:RDF>
