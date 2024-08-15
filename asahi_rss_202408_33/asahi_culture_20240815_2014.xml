@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのカルチャー情報とニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-08-15T20:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-08-15T20:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8H2T81S8HUCVL00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS891HDXS89UPQJ00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8G3JD3S8GUCVL03WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8F7J32S8FUCVL005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8G2ST3S8GPLBJ001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8F3DBYS8FUCVL02YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8F32MNS8FIIPE00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8F1TMYS8FUCVL02XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8F2CWHS8FOXIE04PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8F7GBJS8FUCVL003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS8H2T81S8HUCVL00KM.html?ref=rss">
+ <title>将棋・朝日杯　石川出身の竹下アマが「かまいたち」戦法をとった理由</title>
+ <link>https://www.asahi.com/articles/ASS8H2T81S8HUCVL00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-15T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS891HDXS89UPQJ00KM.html?ref=rss">
+ <title>「厭戦」とは最後の1滴にならぬこと　92歳の辻真先さんから若者へ</title>
+ <link>https://www.asahi.com/articles/ASS891HDXS89UPQJ00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-15T12:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8G3JD3S8GUCVL03WM.html?ref=rss">
+ <title>銃声のない戦争ドラマ　「昔はおれと同い年だった田中さんとの友情」</title>
+ <link>https://www.asahi.com/articles/ASS8G3JD3S8GUCVL03WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-15T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8F7J32S8FUCVL005M.html?ref=rss">
+ <title>歌い継がれる「愛の讃歌」　日本に息づくシャンソン、生命力の源は</title>
+ <link>https://www.asahi.com/articles/ASS8F7J32S8FUCVL005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-15T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8G2ST3S8GPLBJ001M.html?ref=rss">
+ <title>ストーンヘンジ巨石、産地は750キロ先　驚く研究者、どう運んだ？</title>
+ <link>https://www.asahi.com/articles/ASS8G2ST3S8GPLBJ001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-15T00:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8F3DBYS8FUCVL02YM.html?ref=rss">
+ <title>「ジャーニー」結成50年　支持され続ける「人と人を結びつける曲」</title>
+ <link>https://www.asahi.com/articles/ASS8F3DBYS8FUCVL02YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-14T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8F32MNS8FIIPE00LM.html?ref=rss">
+ <title>北海道・登別でアイヌ神謡集の知里幸恵を記念するフォーラム　9月に</title>
+ <link>https://www.asahi.com/articles/ASS8F32MNS8FIIPE00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-14T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8F1TMYS8FUCVL02XM.html?ref=rss">
+ <title>「虎に翼」花江は先進的で戦う専業主婦　カギとなるのは「優しい夫」</title>
+ <link>https://www.asahi.com/articles/ASS8F1TMYS8FUCVL02XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-14T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8F2CWHS8FOXIE04PM.html?ref=rss">
+ <title>沖縄戦で全滅の部隊の名簿が新潟に　元市長は将兵の最期を伝え続けた</title>
+ <link>https://www.asahi.com/articles/ASS8F2CWHS8FOXIE04PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-14T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8F7GBJS8FUCVL003M.html?ref=rss">
+ <title>「意地」から「命題」の7年　佐々木勇気八段が藤井聡太竜王に挑む</title>
+ <link>https://www.asahi.com/articles/ASS8F7GBJS8FUCVL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-08-14T09:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
