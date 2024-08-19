@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのビジネスニュース、経済、産業、金融、財政、為替、株価などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-08-19T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-08-19T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS883T83S88ULFA02VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8J3FGRS8JPJLB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8K42V8S8KULFA025M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8734R4S87ULLI001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS853D45S85ULFA00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8H10B8S8HULFA02MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8B42R4S8BUTFL008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8L05VHS8LULFA00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8J24B2S8JOXIE035M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS8H2QQ1S8HDIFI006M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS883T83S88ULFA02VM.html?ref=rss">
+ <title>冷蔵庫の野菜室、「真ん中」か「下」か　変わり続ける両派の勢力図</title>
+ <link>https://www.asahi.com/articles/ASS883T83S88ULFA02VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-19T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8J3FGRS8JPJLB007M.html?ref=rss">
+ <title>能登半島地震で低迷続いた有効求人倍率　事業再開で好転の兆しも</title>
+ <link>https://www.asahi.com/articles/ASS8J3FGRS8JPJLB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-19T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8K42V8S8KULFA025M.html?ref=rss">
+ <title>日銀の追加利上げ「景気みて慎重に進めるべき」　自民党・越智隆雄氏</title>
+ <link>https://www.asahi.com/articles/ASS8K42V8S8KULFA025M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-19T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8734R4S87ULLI001M.html?ref=rss">
+ <title>謎のモヤモヤ　社内メールで気づいた男性更年期　企業など支援の動き</title>
+ <link>https://www.asahi.com/articles/ASS8734R4S87ULLI001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-19T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS853D45S85ULFA00JM.html?ref=rss">
+ <title>皮を革に変える「なめし」技術の極意とは　日々異なる条件と格闘</title>
+ <link>https://www.asahi.com/articles/ASS853D45S85ULFA00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-19T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8H10B8S8HULFA02MM.html?ref=rss">
+ <title>労働組合の「未来」を創る報告書　連合と連合総研、目標設定など提言</title>
+ <link>https://www.asahi.com/articles/ASS8H10B8S8HULFA02MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-19T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8B42R4S8BUTFL008M.html?ref=rss">
+ <title>強調された「不公平感」　金融所得の保険料算定　議論開始もハードル</title>
+ <link>https://www.asahi.com/articles/ASS8B42R4S8BUTFL008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-19T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8L05VHS8LULFA00LM.html?ref=rss">
+ <title>ハリス氏「マクドナルドでバイト」中間層アピール　公約はバラマキ色</title>
+ <link>https://www.asahi.com/articles/ASS8L05VHS8LULFA00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-18T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8J24B2S8JOXIE035M.html?ref=rss">
+ <title>ビットコイン採掘が再エネ促進につながる？　東電子会社が実証実験</title>
+ <link>https://www.asahi.com/articles/ASS8J24B2S8JOXIE035M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-18T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS8H2QQ1S8HDIFI006M.html?ref=rss">
+ <title>【解説人語】LINEヤフー資本関係見直し？　背景に日韓関係が</title>
+ <link>https://www.asahi.com/articles/ASS8H2QQ1S8HDIFI006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-08-18T13:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
