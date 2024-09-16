@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのビジネスニュース、経済、産業、金融、財政、為替、株価などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-09-16T15:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-09-16T15:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS9C71ZLS9CUHBI00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS9F1T7DS9FULFA03QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS9D13PDS9DULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS9D440QS9DTLVB00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASS9G2W8SS9GUHBI00LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASS9C71ZLS9CUHBI00ZM.html?ref=rss">
+ <title>AI検索、報道機関と「共存」模索　米新興企業幹部「75社と協議」</title>
+ <link>https://www.asahi.com/articles/ASS9C71ZLS9CUHBI00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-09-16T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS9F1T7DS9FULFA03QM.html?ref=rss">
+ <title>敬老の日、免許返納の高齢者に車の寄付呼びかけ　被災地などで活用へ</title>
+ <link>https://www.asahi.com/articles/ASS9F1T7DS9FULFA03QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-09-16T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS9D13PDS9DULFA004M.html?ref=rss">
+ <title>地域手当「大くくり化」、自治体に衝撃　広がる格差、人材流出懸念</title>
+ <link>https://www.asahi.com/articles/ASS9D13PDS9DULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-09-16T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS9D440QS9DTLVB00QM.html?ref=rss">
+ <title>かき氷にも和菓子にも、たっぷり包む熊本愛　老舗かばん店が衣替え</title>
+ <link>https://www.asahi.com/articles/ASS9D440QS9DTLVB00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-09-15T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASS9G2W8SS9GUHBI00LM.html?ref=rss">
+ <title>米の「阻止」判断、大統領選後に先送りか　日鉄のUSスチール買収</title>
+ <link>https://www.asahi.com/articles/ASS9G2W8SS9GUHBI00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2024-09-14T18:16:53+09:00</dc:date>
+</item>
+</rdf:RDF>
