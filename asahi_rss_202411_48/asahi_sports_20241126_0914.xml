@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのスポーツニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-11-26T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-11-26T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCV21TJSCVPTQP00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCV1P1CSCVUTQP003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCT4368SCTPTQP006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCT2VWLSCTUTQP00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCT33ZTSCTUTQP00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCT1CWHSCTPTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCS3TRFSCSUQIP02DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCS3TQWSCSUTQP015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCS3D19SCSUTQP029M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCS3HBHSCSUTQP028M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASSCV21TJSCVPTQP00KM.html?ref=rss">
+ <title>「アライバ」も認める紅林弘太郎　日の丸背負った22歳の成長曲線</title>
+ <link>https://www.asahi.com/articles/ASSCV21TJSCVPTQP00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-26T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCV1P1CSCVUTQP003M.html?ref=rss">
+ <title>楽天退団表明の田中将大　大幅減俸提示に「居場所ないんじゃないか」</title>
+ <link>https://www.asahi.com/articles/ASSCV1P1CSCVUTQP003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-26T14:23:44+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCT4368SCTPTQP006M.html?ref=rss">
+ <title>広島の名物スカウトが引退へ　黒田投手らを発掘した苑田聡彦さん</title>
+ <link>https://www.asahi.com/articles/ASSCT4368SCTPTQP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-26T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCT2VWLSCTUTQP00DM.html?ref=rss">
+ <title>神宮大会優勝の横浜　主将の貪欲な姿勢がもたらしたチームの変化</title>
+ <link>https://www.asahi.com/articles/ASSCT2VWLSCTUTQP00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-25T19:27:07+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCT33ZTSCTUTQP00XM.html?ref=rss">
+ <title>プロ野球ベストナイン鷹から6人選出　有原、De山本ら初受賞</title>
+ <link>https://www.asahi.com/articles/ASSCT33ZTSCTUTQP00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-25T19:23:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCT1CWHSCTPTQP001M.html?ref=rss">
+ <title>横浜高が優勝　松坂大輔を擁した1997年以来2度目　明治神宮大会</title>
+ <link>https://www.asahi.com/articles/ASSCT1CWHSCTPTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-25T13:25:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCS3TRFSCSUQIP02DM.html?ref=rss">
+ <title>「やり返す」豊昇龍も綱とりチャンス　「一人横綱」に終止符打てるか</title>
+ <link>https://www.asahi.com/articles/ASSCS3TRFSCSUQIP02DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-25T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCS3TQWSCSUTQP015M.html?ref=rss">
+ <title>「辛抱できれば」　耐えた琴桜が初の賜杯　祖父を追いかけ綱とりへ</title>
+ <link>https://www.asahi.com/articles/ASSCS3TQWSCSUTQP015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-24T21:24:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCS3D19SCSUTQP029M.html?ref=rss">
+ <title>岩田寛は「笑わない男」　透ける自らへの厳しさ、めざす先にあるもの</title>
+ <link>https://www.asahi.com/articles/ASSCS3D19SCSUTQP029M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-24T19:56:50+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSCS3HBHSCSUTQP028M.html?ref=rss">
+ <title>楽天の田中将大投手が退団表明　来季年俸で折り合わず自由契約扱いへ</title>
+ <link>https://www.asahi.com/articles/ASSCS3HBHSCSUTQP028M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2024-11-24T19:48:12+09:00</dc:date>
+</item>
+</rdf:RDF>
