@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのカルチャー情報とニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-12-09T12:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-12-09T12:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSCY4HWQSCYUTIL008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSD63HFVSD6POMB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSD8354GSD8PQIP01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSD625S7SD6UCVL00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSD33R27SD3TOLB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSD772M6SD7UCVL035M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSD52RB5SD5UCVL02LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASSCY4HWQSCYUTIL008M.html?ref=rss">
+ <title>改憲や再軍備が話題になると　原武史氏が読み解く「象徴天皇の実像」</title>
+ <link>https://www.asahi.com/articles/ASSCY4HWQSCYUTIL008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-09T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSD63HFVSD6POMB003M.html?ref=rss">
+ <title>郡山城は前方後円墳の上に築かれた？　石材や埴輪片が意味するものは</title>
+ <link>https://www.asahi.com/articles/ASSD63HFVSD6POMB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-09T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSD8354GSD8PQIP01HM.html?ref=rss">
+ <title>将棋の藤井七冠と羽生九段が甲子園で対局　「かっとばせ～」の声援も</title>
+ <link>https://www.asahi.com/articles/ASSD8354GSD8PQIP01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-08T19:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSD625S7SD6UCVL00SM.html?ref=rss">
+ <title>登場人物700人超、不倫も復讐も　「韓ドラの原型」世界初の完訳</title>
+ <link>https://www.asahi.com/articles/ASSD625S7SD6UCVL00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-08T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSD33R27SD3TOLB003M.html?ref=rss">
+ <title>B29との空戦から80年、慰霊碑に加わった3人の操縦士の名前</title>
+ <link>https://www.asahi.com/articles/ASSD33R27SD3TOLB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-08T13:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSD772M6SD7UCVL035M.html?ref=rss">
+ <title>ハン・ガンさん、ノーベル賞で講演　「言語は私たちをつなぐ糸」</title>
+ <link>https://www.asahi.com/articles/ASSD772M6SD7UCVL035M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-08T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSD52RB5SD5UCVL02LM.html?ref=rss">
+ <title>明菜さん、西田さんから学んだ愛　香取慎吾さんが語るレジェンド</title>
+ <link>https://www.asahi.com/articles/ASSD52RB5SD5UCVL02LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-08T08:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
