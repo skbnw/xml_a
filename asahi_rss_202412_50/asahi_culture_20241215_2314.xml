@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのカルチャー情報とニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-12-15T12:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-12-15T12:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDC3G42SDCPTIL00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDF12VLSDFULLI005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDG3FNKSDGPIHB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDG24JWSDGUTNB006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDC3GYZSDCDIFI002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDB3PP7SDBUCVL00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDC56G4SDCUCVL044M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDB3SDRSDBUCVL02ZM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASSDC3G42SDCPTIL00KM.html?ref=rss">
+ <title>日本人と済州人の問答も　落語「代書」完全版　生誕地で上演へ</title>
+ <link>https://www.asahi.com/articles/ASSDC3G42SDCPTIL00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-15T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDF12VLSDFULLI005M.html?ref=rss">
+ <title>「リアルな色鉛筆画」見つけた才能　いじめ、不登校…SNSが救いに</title>
+ <link>https://www.asahi.com/articles/ASSDF12VLSDFULLI005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-15T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDG3FNKSDGPIHB001M.html?ref=rss">
+ <title>内藤剛志さんの大石内蔵助は気さく系？「楽しかったので…」笑顔多く</title>
+ <link>https://www.asahi.com/articles/ASSDG3FNKSDGPIHB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-14T21:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDG24JWSDGUTNB006M.html?ref=rss">
+ <title>「原爆の図」の丸木美術館が来年9月に休館　2027年再オープンへ</title>
+ <link>https://www.asahi.com/articles/ASSDG24JWSDGUTNB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-14T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDC3GYZSDCDIFI002M.html?ref=rss">
+ <title>【マンガ動画】UFOの歴史　フライング・ソーサーから現代まで</title>
+ <link>https://www.asahi.com/articles/ASSDC3GYZSDCDIFI002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-14T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDB3PP7SDBUCVL00BM.html?ref=rss">
+ <title>企業直営の川村記念美術館、赤字の末に縮小方針　影に「物言う株主」</title>
+ <link>https://www.asahi.com/articles/ASSDB3PP7SDBUCVL00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-14T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDC56G4SDCUCVL044M.html?ref=rss">
+ <title>【そもそも解説】企業が関わる美術館、二つの運営方式　閉館する例も</title>
+ <link>https://www.asahi.com/articles/ASSDC56G4SDCUCVL044M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-14T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDB3SDRSDBUCVL02ZM.html?ref=rss">
+ <title>企業と美術館のあるべき姿は　ビジネスだけで計れぬ価値、識者に聞く</title>
+ <link>https://www.asahi.com/articles/ASSDB3SDRSDBUCVL02ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-14T10:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
