@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのカルチャー情報とニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2024 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2024-12-16T18:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2024-12-16T18:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDJ2SCGSDJUCVL00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDJ0QFCSDJUCVL00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDF4WRCSDFPLZB00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDC3G42SDCPTIL00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDF12VLSDFULLI005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDG3FNKSDGPIHB001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASSDJ2SCGSDJUCVL00DM.html?ref=rss">
+ <title>タイ版「おっさんずラブ」放送決定　来年1月6日から日本でも配信</title>
+ <link>https://www.asahi.com/articles/ASSDJ2SCGSDJUCVL00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-16T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDJ0QFCSDJUCVL00SM.html?ref=rss">
+ <title>大河「光る君へ」期間平均10.7％　配信の平均視聴者数は歴代最高</title>
+ <link>https://www.asahi.com/articles/ASSDJ0QFCSDJUCVL00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-16T11:25:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDF4WRCSDFPLZB00JM.html?ref=rss">
+ <title>兵庫最大の前方後円墳に再び光　謎残る五色塚古墳復元整備から50年</title>
+ <link>https://www.asahi.com/articles/ASSDF4WRCSDFPLZB00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-16T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDC3G42SDCPTIL00KM.html?ref=rss">
+ <title>日本人と済州人の問答も　落語「代書」完全版　生誕地で上演へ</title>
+ <link>https://www.asahi.com/articles/ASSDC3G42SDCPTIL00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-15T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDF12VLSDFULLI005M.html?ref=rss">
+ <title>「リアルな色鉛筆画」見つけた才能　いじめ、不登校…SNSが救いに</title>
+ <link>https://www.asahi.com/articles/ASSDF12VLSDFULLI005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-15T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDG3FNKSDGPIHB001M.html?ref=rss">
+ <title>内藤剛志さんの大石内蔵助は気さく系？「楽しかったので…」笑顔多く</title>
+ <link>https://www.asahi.com/articles/ASSDG3FNKSDGPIHB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2024-12-14T21:20:00+09:00</dc:date>
+</item>
+</rdf:RDF>
