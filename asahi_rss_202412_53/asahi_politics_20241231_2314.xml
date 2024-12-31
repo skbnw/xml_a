@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルの一般政治ニュース、国政、地方政治内閣支持率などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-01-01T06:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-01-01T06:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSD024YFSD0ULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDY3194SDYPIHB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDZ4CH2SDZUTFK015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDX25SSSDXUTFK007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDY1VKBSDYTOLB00KM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASSD024YFSD0ULFA004M.html?ref=rss">
+ <title>石破首相「可能な限り幅広い合意形成を図る」　年頭所感を発表</title>
+ <link>https://www.asahi.com/articles/ASSD024YFSD0ULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-01T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDY3194SDYPIHB005M.html?ref=rss">
+ <title>兵庫県政混迷、異例の1年　51年ぶり百条委、知事への不信任決議</title>
+ <link>https://www.asahi.com/articles/ASSDY3194SDYPIHB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-12-31T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDZ4CH2SDZUTFK015M.html?ref=rss">
+ <title>石破首相の訪米、2月以降を模索　トランプ氏の就任前の面会見送り</title>
+ <link>https://www.asahi.com/articles/ASSDZ4CH2SDZUTFK015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-12-30T22:49:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDX25SSSDXUTFK007M.html?ref=rss">
+ <title>石橋湛山に学ぶならば　首相の言葉に足らざるもの</title>
+ <link>https://www.asahi.com/articles/ASSDX25SSSDXUTFK007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-12-30T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDY1VKBSDYTOLB00KM.html?ref=rss">
+ <title>「水陸両用」作戦で島嶼防衛、九州で進む海自と陸自の統合運用強化</title>
+ <link>https://www.asahi.com/articles/ASSDY1VKBSDYTOLB00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2024-12-30T08:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
