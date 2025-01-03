@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのビジネスニュース、経済、産業、金融、財政、為替、株価などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-01-03T15:47:33+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-01-03T15:47:33+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST131TVLT13ULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW2WDTSDWULFA01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST131FZST13UHBI00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW346GSDWPLFA003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW2V8WSDWPLFA00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST125FJCT12UHBI014M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST121P80T12ULFA003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST122V23T12UHBI00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW1DV3SDWULFA03FM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST131TVLT13ULFA004M.html?ref=rss">
+ <title>百貨店の初売り、「3日から」が増加　広がる働き方改革</title>
+ <link>https://www.asahi.com/articles/AST131TVLT13ULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T15:47:33+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDW2WDTSDWULFA01RM.html?ref=rss">
+ <title>米英よりも根付かなかった王道　資産運用の「敗北」から見えたもの</title>
+ <link>https://www.asahi.com/articles/ASSDW2WDTSDWULFA01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST131FZST13UHBI00BM.html?ref=rss">
+ <title>日鉄のUSスチール買収「認めず」　バイデン氏が3日発表か、米報道</title>
+ <link>https://www.asahi.com/articles/AST131FZST13UHBI00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T13:41:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDW346GSDWPLFA003M.html?ref=rss">
+ <title>大阪万博の前売り券販売「目標達成、難しい」　関経連・松本会長</title>
+ <link>https://www.asahi.com/articles/ASSDW346GSDWPLFA003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T12:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDW2V8WSDWPLFA00GM.html?ref=rss">
+ <title>大阪・関西万博、開幕まで100日　パビリオンようやく姿あらわす</title>
+ <link>https://www.asahi.com/articles/ASSDW2V8WSDWPLFA00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T09:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST125FJCT12UHBI014M.html?ref=rss">
+ <title>テスラ世界販売178万台、初の前年割れ　中国勢との競争激化で</title>
+ <link>https://www.asahi.com/articles/AST125FJCT12UHBI014M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST121P80T12ULFA003M.html?ref=rss">
+ <title>ドコモ、「goo」など一部サービスに不具合　サイバー攻撃原因</title>
+ <link>https://www.asahi.com/articles/AST121P80T12ULFA003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-02T19:15:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST122V23T12UHBI00GM.html?ref=rss">
+ <title>中国BYD、24年の世界販売台数4割増　ホンダ・日産超えの見通し</title>
+ <link>https://www.asahi.com/articles/AST122V23T12UHBI00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-02T18:14:35+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDW1DV3SDWULFA03FM.html?ref=rss">
+ <title>日系メーカーは変革を起こせるか　業界激変、21世紀のクルマの行方</title>
+ <link>https://www.asahi.com/articles/ASSDW1DV3SDWULFA03FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-02T15:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
