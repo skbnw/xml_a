@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのカルチャー情報とニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-01-02T12:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-01-02T12:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW4TZ9SDWUCVL02HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDV2JJ3SDVOXIE00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDV2DQJSDVUCVL02ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSD04S31SD0UCVL00VM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASSDW4TZ9SDWUCVL02HM.html?ref=rss">
+ <title>ローマ字表記、70年ぶり改定へ意見公募　文化庁が「ヘボン式」案</title>
+ <link>https://www.asahi.com/articles/ASSDW4TZ9SDWUCVL02HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-02T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDV2JJ3SDVOXIE00WM.html?ref=rss">
+ <title>「宇宙兄弟」の作者、小山宙哉さん　漫画が始まった2025年を語る</title>
+ <link>https://www.asahi.com/articles/ASSDV2JJ3SDVOXIE00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-01T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDV2DQJSDVUCVL02ZM.html?ref=rss">
+ <title>2025年の新春詠　朝日歌壇・俳壇選者が新年に詠む20作品</title>
+ <link>https://www.asahi.com/articles/ASSDV2DQJSDVUCVL02ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-01T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSD04S31SD0UCVL00VM.html?ref=rss">
+ <title>KinKi KidsがDOMOTOへ改名　YouTubeで発表</title>
+ <link>https://www.asahi.com/articles/ASSD04S31SD0UCVL00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-01T00:04:32+09:00</dc:date>
+</item>
+</rdf:RDF>
