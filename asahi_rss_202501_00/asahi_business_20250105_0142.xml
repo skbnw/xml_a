@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのビジネスニュース、経済、産業、金融、財政、為替、株価などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-01-05T10:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-01-05T10:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW3QFCSDWULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST143K3QT14ULFA005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW21FCSDWOXIE03GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST140VZHT14UHBI018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST140G8CT14ULFA00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST131FZST13UHBI00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST134J5DT13UHBI01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST131TVLT13ULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW2WDTSDWULFA01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW346GSDWPLFA003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASSDW3QFCSDWULFA004M.html?ref=rss">
+ <title>描けない「リニアが走る未来」　車両は順調、でも工事はトラブル続き</title>
+ <link>https://www.asahi.com/articles/ASSDW3QFCSDWULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-05T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST143K3QT14ULFA005M.html?ref=rss">
+ <title>買収阻まれた日鉄、展望は　USスチールCEOも反発「日本を侮辱」</title>
+ <link>https://www.asahi.com/articles/AST143K3QT14ULFA005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-04T20:24:58+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDW21FCSDWOXIE03GM.html?ref=rss">
+ <title>ネジよ月へ　宇宙に夢託す町工場の挑戦　「下町ロケット」を現実に</title>
+ <link>https://www.asahi.com/articles/ASSDW21FCSDWOXIE03GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-04T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST140VZHT14UHBI018M.html?ref=rss">
+ <title>日鉄の買収禁止、持ち出された安全保障の論理　米大統領の異様な状況</title>
+ <link>https://www.asahi.com/articles/AST140VZHT14UHBI018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-04T12:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST140G8CT14ULFA00PM.html?ref=rss">
+ <title>日本製鉄、米政府を提訴へ　USスチール買収禁止「明らかに政治的」</title>
+ <link>https://www.asahi.com/articles/AST140G8CT14ULFA00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-04T10:46:30+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST131FZST13UHBI00BM.html?ref=rss">
+ <title>日本製鉄によるUSスチール買収計画を認めず　バイデン大統領が発表</title>
+ <link>https://www.asahi.com/articles/AST131FZST13UHBI00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T23:33:52+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST134J5DT13UHBI01XM.html?ref=rss">
+ <title>USスチール買収計画、なぜこじれた？　三つのキーワードで読み解く</title>
+ <link>https://www.asahi.com/articles/AST134J5DT13UHBI01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T23:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST131TVLT13ULFA004M.html?ref=rss">
+ <title>百貨店の初売り、「3日から」が増加　広がる働き方改革</title>
+ <link>https://www.asahi.com/articles/AST131TVLT13ULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T15:47:33+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDW2WDTSDWULFA01RM.html?ref=rss">
+ <title>米英よりも根付かなかった王道　資産運用の「敗北」から見えたもの</title>
+ <link>https://www.asahi.com/articles/ASSDW2WDTSDWULFA01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDW346GSDWPLFA003M.html?ref=rss">
+ <title>大阪万博の前売り券販売「目標達成、難しい」　関経連・松本会長</title>
+ <link>https://www.asahi.com/articles/ASSDW346GSDWPLFA003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-01-03T12:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
