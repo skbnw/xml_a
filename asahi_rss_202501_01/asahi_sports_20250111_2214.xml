@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのスポーツニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-01-12T07:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-01-12T07:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B3V5FT1BOXIE04CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1C3PWMT1CUTQP00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1C42KMT1CUTQP00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASSDW2CPRSDWPTQP008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B43Q9T1BULOB009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B44YMT1BUTQP008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B3DY1T1BPLXB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B3DMST1BPTQP00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B3CWPT1BUOHB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B2HQVT1BPTQP001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST1B3V5FT1BOXIE04CM.html?ref=rss">
+ <title>陸上800メートルに関西の新星2人　狙うは9月の世界陸上東京大会</title>
+ <link>https://www.asahi.com/articles/AST1B3V5FT1BOXIE04CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-12T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1C3PWMT1CUTQP00VM.html?ref=rss">
+ <title>スター2人に集まる「ドーピング」の質問　全豪オープンに落とす影</title>
+ <link>https://www.asahi.com/articles/AST1C3PWMT1CUTQP00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-12T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1C42KMT1CUTQP00DM.html?ref=rss">
+ <title>高校サッカー、前橋育英と流通経大柏が決勝へ　7大会前と同カード</title>
+ <link>https://www.asahi.com/articles/AST1C42KMT1CUTQP00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-11T21:40:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASSDW2CPRSDWPTQP008M.html?ref=rss">
+ <title>あなたに合うスポーツ、AIが見つけます　適性をゲーム感覚で測定</title>
+ <link>https://www.asahi.com/articles/ASSDW2CPRSDWPTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-11T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1B43Q9T1BULOB009M.html?ref=rss">
+ <title>「大きなクモが出た」で110番　不要不急控えて　ハマの署長も訴え</title>
+ <link>https://www.asahi.com/articles/AST1B43Q9T1BULOB009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-11T10:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1B44YMT1BUTQP008M.html?ref=rss">
+ <title>全国高校サッカー、準決勝は6大会ぶりの「中6日」 4強の戦略は</title>
+ <link>https://www.asahi.com/articles/AST1B44YMT1BUTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-11T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1B3DY1T1BPLXB008M.html?ref=rss">
+ <title>「関係ないと思わずに生活を」　巨人・浅野翔吾が地元で一日警察署長</title>
+ <link>https://www.asahi.com/articles/AST1B3DY1T1BPLXB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-10T20:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1B3DMST1BPTQP00HM.html?ref=rss">
+ <title>7イニング制の実施可否について議論　日本高野連が検討会議を開催</title>
+ <link>https://www.asahi.com/articles/AST1B3DMST1BPTQP00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-10T19:50:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1B3CWPT1BUOHB007M.html?ref=rss">
+ <title>「新潟史上最高へ」J1新潟新監督が目標語る　パスサッカーは継承へ</title>
+ <link>https://www.asahi.com/articles/AST1B3CWPT1BUOHB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-10T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1B2HQVT1BPTQP001M.html?ref=rss">
+ <title>選抜大会の入場行進曲はOmoinotake「幾億光年」　3月開幕</title>
+ <link>https://www.asahi.com/articles/AST1B2HQVT1BPTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-10T18:30:56+09:00</dc:date>
+</item>
+</rdf:RDF>
