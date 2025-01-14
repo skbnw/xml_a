@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルの一般政治ニュース、国政、地方政治内閣支持率などに関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-01-14T17:41:41+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-01-14T17:41:41+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1G2S2XT1GUTFK008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1G13WST1GUTFK00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST19254FT19ULLI00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1G1JLWT1GULFA00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1F0H79T1FUTFK003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B1PT4T1BUQIP02PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1B2124T1BUTIL001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1D2VZJT1DUTFK00BM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST1G2S2XT1GUTFK008M.html?ref=rss">
+ <title>石破茂首相「広すぎて…」就任3カ月、議員宿舎から公邸へ引っ越し</title>
+ <link>https://www.asahi.com/articles/AST1G2S2XT1GUTFK008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-14T17:41:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1G13WST1GUTFK00RM.html?ref=rss">
+ <title>政治改革、2025年の課題は　与野党は合意を探れ　東大・谷口教授</title>
+ <link>https://www.asahi.com/articles/AST1G13WST1GUTFK00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-14T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST19254FT19ULLI00KM.html?ref=rss">
+ <title>「正しいこと」が難しい、大局観失うメディア　選挙で一喜一憂しない</title>
+ <link>https://www.asahi.com/articles/AST19254FT19ULLI00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-14T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1G1JLWT1GULFA00XM.html?ref=rss">
+ <title>三原大臣、選択的別姓の導入に前向き「あくまで選択肢を増やすもの」</title>
+ <link>https://www.asahi.com/articles/AST1G1JLWT1GULFA00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-14T14:17:53+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1F0H79T1FUTFK003M.html?ref=rss">
+ <title>首相、USスチール買収阻止めぐり「懸念払拭を」　バイデン氏に要請</title>
+ <link>https://www.asahi.com/articles/AST1F0H79T1FUTFK003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-13T11:08:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1B1PT4T1BUQIP02PM.html?ref=rss">
+ <title>議員を送迎する公務員の運転手　現金手渡しで給与明細に記さない事情</title>
+ <link>https://www.asahi.com/articles/AST1B1PT4T1BUQIP02PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-13T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1B2124T1BUTIL001M.html?ref=rss">
+ <title>40年続く「超過勤務手当」の手渡し　現役運転手「裏金のようだ」</title>
+ <link>https://www.asahi.com/articles/AST1B2124T1BUTIL001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-13T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1D2VZJT1DUTFK00BM.html?ref=rss">
+ <title>離島奪還の降下訓練、11カ国参加　中谷防衛相も11メートルから</title>
+ <link>https://www.asahi.com/articles/AST1D2VZJT1DUTFK00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-01-12T18:46:00+09:00</dc:date>
+</item>
+</rdf:RDF>
