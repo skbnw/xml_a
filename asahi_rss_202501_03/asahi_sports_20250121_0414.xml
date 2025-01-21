@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのスポーツニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-01-21T12:30:56+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-01-21T12:30:56+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1P12KKT1PUTQP00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1N41XPT1NUTQP01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1N3SFCT1NUTQP00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1N32P8T1NUTQP018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1N20P5T1NUTQP00KM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST1P12KKT1PUTQP00GM.html?ref=rss">
+ <title>イチロー氏、なお満票で米野球殿堂入りの可能性　日本時間22日発表</title>
+ <link>https://www.asahi.com/articles/AST1P12KKT1PUTQP00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-21T12:30:56+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1N41XPT1NUTQP01SM.html?ref=rss">
+ <title>テニス界の「天才少女」はどこへ　減った10代　「焦ることはない」</title>
+ <link>https://www.asahi.com/articles/AST1N41XPT1NUTQP01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-21T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1N3SFCT1NUTQP00JM.html?ref=rss">
+ <title>顔をゆがめた豊昇龍、綱とり厳しく 八角理事長「続けることだよね」</title>
+ <link>https://www.asahi.com/articles/AST1N3SFCT1NUTQP00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-20T21:15:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1N32P8T1NUTQP018M.html?ref=rss">
+ <title>「銅メダリスト」ではない肩書をつかんだ　羽賀龍之介の幸せな引き際</title>
+ <link>https://www.asahi.com/articles/AST1N32P8T1NUTQP018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-20T18:36:37+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1N20P5T1NUTQP00KM.html?ref=rss">
+ <title>ヤクルトの「逆輸入」新人根岸辰昇　米国の大学で学んだ大事なこと</title>
+ <link>https://www.asahi.com/articles/AST1N20P5T1NUTQP00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-01-20T16:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
