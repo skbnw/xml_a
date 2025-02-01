@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞デジタル</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のニュースサイト、朝日新聞デジタルのカルチャー情報とニュースのページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-02-01T08:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-02-01T08:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1Z3FQBT1ZUCVL026M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST103G33T10UCVL03FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1033P8T10UCVL02YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1Z447DT1ZUOHB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1Y216FT1YPXLB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1Z3D1JT1ZUCVL01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1Z1S7YT1ZUPQJ00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1Z53FCT1ZUCVL03XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST1Z3CSDT1ZTZNB004M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST1Z3FQBT1ZUCVL026M.html?ref=rss">
+ <title>新生ヴァレンティノはミケーレ節全開　ユイマナカザトは未来に思いを</title>
+ <link>https://www.asahi.com/articles/AST1Z3FQBT1ZUCVL026M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-01T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST103G33T10UCVL03FM.html?ref=rss">
+ <title>政府がデジタルアーカイブ戦略策定へ　アニメやマンガも重視</title>
+ <link>https://www.asahi.com/articles/AST103G33T10UCVL03FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-31T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1033P8T10UCVL02YM.html?ref=rss">
+ <title>囲碁一家から5代目のプロ棋士に　17歳の関山穂香さん、採用決まる</title>
+ <link>https://www.asahi.com/articles/AST1033P8T10UCVL02YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-31T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1Z447DT1ZUOHB001M.html?ref=rss">
+ <title>上杉謙信役に松平健さん　第100回謙信公祭で　初の謙信役</title>
+ <link>https://www.asahi.com/articles/AST1Z447DT1ZUOHB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-31T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1Y216FT1YPXLB008M.html?ref=rss">
+ <title>妻が突然、卵巣がんに　専門医が患者の家族になって知った「舞台裏」</title>
+ <link>https://www.asahi.com/articles/AST1Y216FT1YPXLB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-31T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1Z3D1JT1ZUCVL01LM.html?ref=rss">
+ <title>中谷美紀さん「現実を忘れる時間を・・」　パリ・オートクチュール</title>
+ <link>https://www.asahi.com/articles/AST1Z3D1JT1ZUCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-31T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1Z1S7YT1ZUPQJ00BM.html?ref=rss">
+ <title>戦争前夜？　「室町無頼」の入江悠監督が「NO」を映画に刻むわけ</title>
+ <link>https://www.asahi.com/articles/AST1Z1S7YT1ZUPQJ00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-31T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1Z53FCT1ZUCVL03XM.html?ref=rss">
+ <title>囲碁名人リーグ　「台風の目」福岡七段、開幕2連勝で首位並立</title>
+ <link>https://www.asahi.com/articles/AST1Z53FCT1ZUCVL03XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-31T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST1Z3CSDT1ZTZNB004M.html?ref=rss">
+ <title>体臭を失った時、ヒトは　コロナ禍に着想　「無臭社会」を問うアート</title>
+ <link>https://www.asahi.com/articles/AST1Z3CSDT1ZTZNB004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-01-31T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
