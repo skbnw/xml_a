@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-02-11T11:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-02-11T11:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2B3C94T2BUTQP00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2510BMT25TLVB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2B25CHT2BOIPE01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST297V44T29UTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST29258NT29TNAB002M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST2B3C94T2BUTQP00PM.html?ref=rss">
+ <title>西武・渡部聖弥の武器は「賢さ」　もしも日本シリーズの第7戦で……</title>
+ <link>https://www.asahi.com/articles/AST2B3C94T2BUTQP00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-02-11T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2510BMT25TLVB003M.html?ref=rss">
+ <title>台湾のサンダルでフルマラソン　「軽くてフワフワ」　愛される理由</title>
+ <link>https://www.asahi.com/articles/AST2510BMT25TLVB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-02-11T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2B25CHT2BOIPE01BM.html?ref=rss">
+ <title>アジア大会経費、識者「なぜ増額か説明を」　内部からも公表求める声</title>
+ <link>https://www.asahi.com/articles/AST2B25CHT2BOIPE01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-02-11T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST297V44T29UTQP002M.html?ref=rss">
+ <title>恩師が抱く「唯一無二」の期待　DeNA森敬斗は「10割」をめざす</title>
+ <link>https://www.asahi.com/articles/AST297V44T29UTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-02-10T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST29258NT29TNAB002M.html?ref=rss">
+ <title>延岡西日本マラソン、湯浅仁選手が自己ベスト2時間9分43秒で優勝</title>
+ <link>https://www.asahi.com/articles/AST29258NT29TNAB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-02-09T16:10:39+09:00</dc:date>
+</item>
+</rdf:RDF>
