@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-02-16T20:48:24+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-02-16T20:48:24+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2J32G5T2JUCVL00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2J350ZT2JUCVL00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2H7QX2T2HUCVL01QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2H4H53T2HPITB009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2H4FZVT2HUCVL01GM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST2J32G5T2JUCVL00QM.html?ref=rss">
+ <title>28歳の斎藤優希三段が新記録16連勝でプロ入り　師匠「素直で…」</title>
+ <link>https://www.asahi.com/articles/AST2J32G5T2JUCVL00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-16T20:48:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2J350ZT2JUCVL00BM.html?ref=rss">
+ <title>挑戦者の永瀬九段が藤井王将に勝って1勝3敗に　将棋・王将戦第4局</title>
+ <link>https://www.asahi.com/articles/AST2J350ZT2JUCVL00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-16T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2H7QX2T2HUCVL01QM.html?ref=rss">
+ <title>永瀬拓矢「ずっと片思いじゃつらい」　運命と生命、現代と藤井聡太</title>
+ <link>https://www.asahi.com/articles/AST2H7QX2T2HUCVL01QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-16T09:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2H4H53T2HPITB009M.html?ref=rss">
+ <title>締め込み姿の男衆が宝木の争奪戦　岡山の伝統行事「西大寺会陽」</title>
+ <link>https://www.asahi.com/articles/AST2H4H53T2HPITB009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-16T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2H4FZVT2HUCVL01GM.html?ref=rss">
+ <title>令和ロマン・高比良くるまさんが謝罪　オンラインカジノ関与認める</title>
+ <link>https://www.asahi.com/articles/AST2H4FZVT2HUCVL01GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-15T22:46:57+09:00</dc:date>
+</item>
+</rdf:RDF>
