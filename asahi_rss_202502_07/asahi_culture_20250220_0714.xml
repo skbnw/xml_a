@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-02-20T16:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-02-20T16:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2M4302T2MPTIL008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2M1VH2T2MUQIP01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2M1SLJT2MUCVL01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2G1S5PT2GUCVL031M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2L1D78T2LUQIP01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2L2TK6T2LUCVL02DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2L21PMT2LPOMB00SM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST2M4302T2MPTIL008M.html?ref=rss">
+ <title>芸人マルセ太郎とは　娘の梨花さんが原点・猪飼野でトークライブ</title>
+ <link>https://www.asahi.com/articles/AST2M4302T2MPTIL008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-20T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2M1VH2T2MUQIP01NM.html?ref=rss">
+ <title>応募倍率は10倍超　満席の議場に響く名フィルの美しき「カノン」</title>
+ <link>https://www.asahi.com/articles/AST2M1VH2T2MUQIP01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-19T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2M1SLJT2MUCVL01XM.html?ref=rss">
+ <title>令和ロマン高比良さん「当面の間、芸能活動を自粛」松井さんは継続</title>
+ <link>https://www.asahi.com/articles/AST2M1SLJT2MUCVL01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-19T14:47:22+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2G1S5PT2GUCVL031M.html?ref=rss">
+ <title>フジ10時間超会見を中継の「イット」　プロデューサーが語る裏側</title>
+ <link>https://www.asahi.com/articles/AST2G1S5PT2GUCVL031M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-19T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2L1D78T2LUQIP01BM.html?ref=rss">
+ <title>「交番代わり」だった駅前の書店　創業102年、20日に閉店へ</title>
+ <link>https://www.asahi.com/articles/AST2L1D78T2LUQIP01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-19T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2L2TK6T2LUCVL02DM.html?ref=rss">
+ <title>BPO、人権侵害認めず　洲本市元課長に不正指摘のサンテレビ報道</title>
+ <link>https://www.asahi.com/articles/AST2L2TK6T2LUCVL02DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-18T17:54:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2L21PMT2LPOMB00SM.html?ref=rss">
+ <title>4区画まとめた広大な施設は離宮？　奈文研が平城宮東南の調査開始</title>
+ <link>https://www.asahi.com/articles/AST2L21PMT2LPOMB00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-02-18T17:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
