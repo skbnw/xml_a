@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「ビジネスニュース、経済、産業、金融、財政、為替、株価など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-02-25T04:35:59+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-02-25T04:35:59+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2S64JTT2SUHBI02VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2S4H8QT2SUTIL00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2F32JMT2FULFA00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST2M20N4T2MULFA00QM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST2S64JTT2SUHBI02VM.html?ref=rss">
+ <title>アップル、過去最大75兆円の米国内投資 トランプ氏の関税も影響か</title>
+ <link>https://www.asahi.com/articles/AST2S64JTT2SUHBI02VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-02-25T04:35:59+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2S4H8QT2SUTIL00KM.html?ref=rss">
+ <title>ビックカメラ、下請け業者への支払い5億円減額か　公取委が勧告へ</title>
+ <link>https://www.asahi.com/articles/AST2S4H8QT2SUTIL00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-02-24T22:44:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2F32JMT2FULFA00TM.html?ref=rss">
+ <title>マネジャーでは限界…ソニー、業界の常識覆す「歌手のメンタルケア」</title>
+ <link>https://www.asahi.com/articles/AST2F32JMT2FULFA00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-02-24T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST2M20N4T2MULFA00QM.html?ref=rss">
+ <title>「食」も雰囲気も…米国のセブン、日本と全然違う　ノウハウ導入急ぐ</title>
+ <link>https://www.asahi.com/articles/AST2M20N4T2MULFA00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-02-23T10:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
