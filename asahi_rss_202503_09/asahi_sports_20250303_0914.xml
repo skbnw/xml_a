@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-03-03T17:50:30+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-03-03T17:50:30+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST332RKYT33UJUB00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3126HST31UTQP00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST312CXPT31UJUB00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST322VNMT32UTQP00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST32312QT32UTQP00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST32122XT32UQIP00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST31435KT31UTQP016M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST312V7PT31UQIP02WM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST332RKYT33UJUB00GM.html?ref=rss">
+ <title>佐々木朗希投手、山林火災の地元に1千万円など寄付　大船渡高出身</title>
+ <link>https://www.asahi.com/articles/AST332RKYT33UJUB00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-03T17:50:30+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3126HST31UTQP00MM.html?ref=rss">
+ <title>15歳7カ月のFC東京・北原槙、J1史上最年少デビュー記録を更新</title>
+ <link>https://www.asahi.com/articles/AST3126HST31UTQP00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-03T09:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST312CXPT31UJUB00FM.html?ref=rss">
+ <title>バスケ、サッカー、ラグビーのクラブが相互応援　岩手の集客狙う</title>
+ <link>https://www.asahi.com/articles/AST312CXPT31UJUB00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-02T19:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST322VNMT32UTQP00CM.html?ref=rss">
+ <title>東京マラソン、女子日本勢トップは安藤　集大成へ「あきらめない」</title>
+ <link>https://www.asahi.com/articles/AST322VNMT32UTQP00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-02T18:47:31+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST32312QT32UTQP00GM.html?ref=rss">
+ <title>世界陸上の代表選考 　小山はほぼ決定、吉田は確実　残る1枠は</title>
+ <link>https://www.asahi.com/articles/AST32312QT32UTQP00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-02T18:28:44+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST32122XT32UQIP00HM.html?ref=rss">
+ <title>東京マラソン、日本勢トップは市山翼10位　女子は安藤友香11位</title>
+ <link>https://www.asahi.com/articles/AST32122XT32UQIP00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-02T12:30:53+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST31435KT31UTQP016M.html?ref=rss">
+ <title>ゴール直前のアクシデント　0.2秒、銅届かず　スキー複合混合団体</title>
+ <link>https://www.asahi.com/articles/AST31435KT31UTQP016M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-01T22:10:20+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST312V7PT31UQIP02WM.html?ref=rss">
+ <title>「弟に負けられない」　ミラノ五輪目指すスノボ・木村葵来が逆転優勝</title>
+ <link>https://www.asahi.com/articles/AST312V7PT31UQIP02WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-01T20:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
