@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-03-05T20:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-03-05T20:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST350VC2T35PPZB00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST343T84T34UTQP00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST351TV9T35PLZB00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST342Q64T34PTQP005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3433WMT34UTQP01GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST334QS3T33UTQP00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST330GQLT33UTQP00BM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST350VC2T35PPZB00GM.html?ref=rss">
+ <title>好調ファジ　スタジアムの通信状況やトイレ不足課題　岡山県が対策へ</title>
+ <link>https://www.asahi.com/articles/AST350VC2T35PPZB00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-05T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST343T84T34UTQP00BM.html?ref=rss">
+ <title>バスケB1滋賀が見いだす「勝機」と「商機」　狙うアジア市場の拡大</title>
+ <link>https://www.asahi.com/articles/AST343T84T34UTQP00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-05T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST351TV9T35PLZB00VM.html?ref=rss">
+ <title>部員2人に体罰、龍谷大平安の原田英彦監督が退職　甲子園で優勝経験</title>
+ <link>https://www.asahi.com/articles/AST351TV9T35PLZB00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-05T15:24:22+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST342Q64T34PTQP005M.html?ref=rss">
+ <title>マツダスタジアム、芝生を全面張り替え　9年ぶり、新シーズン前に</title>
+ <link>https://www.asahi.com/articles/AST342Q64T34PTQP005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-05T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3433WMT34UTQP01GM.html?ref=rss">
+ <title>現役ドラフト経験、ロッテ愛斗が一発　定位置獲りへ「今年は見返す」</title>
+ <link>https://www.asahi.com/articles/AST3433WMT34UTQP01GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-04T21:18:28+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST334QS3T33UTQP00NM.html?ref=rss">
+ <title>ゴルフ関東学連、ガバナンス不全で選手出場枠減　健全な学連運営とは</title>
+ <link>https://www.asahi.com/articles/AST334QS3T33UTQP00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-04T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST330GQLT33UTQP00BM.html?ref=rss">
+ <title>大学生が動き、責任は大人がとる　バスケットにみる学生連盟の理想</title>
+ <link>https://www.asahi.com/articles/AST330GQLT33UTQP00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-04T12:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
