@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-03-10T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-03-10T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3B0PKCT3BUCVL00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3B0S92T3BUCVL00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST394CYJT39UCVL01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3932P2T39UCVL043M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST351HKTT35UJUB00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST381C5RT38UCVL024M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST3B0PKCT3BUCVL00DM.html?ref=rss">
+ <title>後藤洋平のコレクション日記　ヨウジヤマモト　聞きたかった紫の理由</title>
+ <link>https://www.asahi.com/articles/AST3B0PKCT3BUCVL00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-10T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3B0S92T3BUCVL00PM.html?ref=rss">
+ <title>ダウンタウンの浜田雅功さんが体調不良で一時休養　復帰時期は未定</title>
+ <link>https://www.asahi.com/articles/AST3B0S92T3BUCVL00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-10T11:41:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST394CYJT39UCVL01SM.html?ref=rss">
+ <title>なぜ藤井聡太は「王者の一手」とは異なる手を指したのか　王将4連覇</title>
+ <link>https://www.asahi.com/articles/AST394CYJT39UCVL01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-09T22:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3932P2T39UCVL043M.html?ref=rss">
+ <title>将棋ウォーズ枠の古田選手、初出場で初優勝　朝日アマ名人戦全国大会</title>
+ <link>https://www.asahi.com/articles/AST3932P2T39UCVL043M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-09T18:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST351HKTT35UJUB00KM.html?ref=rss">
+ <title>なぜ先祖は幽霊を語ったか　「遠野物語」の子孫が語る震災と癒やし</title>
+ <link>https://www.asahi.com/articles/AST351HKTT35UJUB00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-09T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST381C5RT38UCVL024M.html?ref=rss">
+ <title>将棋の齊藤優希三段、奨励会三段リーグ新記録　17勝1敗でプロへ</title>
+ <link>https://www.asahi.com/articles/AST381C5RT38UCVL024M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-08T20:28:37+09:00</dc:date>
+</item>
+</rdf:RDF>
