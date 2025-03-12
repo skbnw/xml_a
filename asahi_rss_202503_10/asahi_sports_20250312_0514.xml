@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-03-12T11:45:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-03-12T11:45:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3C2FC6T3CPTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3C42KZT3CUTQP00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3C3HW8T3CUTQP00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST392VRWT39PTQP007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3B3RGNT3BUTQP00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3B1RSPT3BPJLB006M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST3C2FC6T3CPTQP001M.html?ref=rss">
+ <title>「ヘキサスロン」って何？　六つの種目で、遊びながら体を動かす</title>
+ <link>https://www.asahi.com/articles/AST3C2FC6T3CPTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-12T11:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3C42KZT3CUTQP00XM.html?ref=rss">
+ <title>異例の「遅さ」で決まったバレー女子新監督　協会は迷走、幻のプラン</title>
+ <link>https://www.asahi.com/articles/AST3C42KZT3CUTQP00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-12T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3C3HW8T3CUTQP00NM.html?ref=rss">
+ <title>3・11は「大事な日」、成長誓う福島出身の白熊　大相撲春場所</title>
+ <link>https://www.asahi.com/articles/AST3C3HW8T3CUTQP00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-12T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST392VRWT39PTQP007M.html?ref=rss">
+ <title>悔しかった昨季の成績を糧に　キャンプで見た阪神・中野拓夢の姿勢</title>
+ <link>https://www.asahi.com/articles/AST392VRWT39PTQP007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-11T11:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3B3RGNT3BUTQP00DM.html?ref=rss">
+ <title>「5連敗中」だったカド番大関の琴桜に初日　大相撲春場所2日目</title>
+ <link>https://www.asahi.com/articles/AST3B3RGNT3BUTQP00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-11T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3B1RSPT3BPJLB006M.html?ref=rss">
+ <title>「こっからやきね」サッカーの「高知家」J初勝利、ファンも歓喜</title>
+ <link>https://www.asahi.com/articles/AST3B1RSPT3BPJLB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-10T16:10:23+09:00</dc:date>
+</item>
+</rdf:RDF>
