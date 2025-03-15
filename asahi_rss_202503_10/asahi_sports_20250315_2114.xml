@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-03-15T21:49:43+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-03-15T21:49:43+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3H3K4KT3HUTQP00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3H3JQ7T3HUTQP010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3H33HCT3HUTQP00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3G227LT3GUTQP00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3G15Z3T3GUTQP00MM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST3H3K4KT3HUTQP00CM.html?ref=rss">
+ <title>大谷特大アーチ、観客からどよめき　巨人とのプレシーズン試合制する</title>
+ <link>https://www.asahi.com/articles/AST3H3K4KT3HUTQP00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-15T21:49:43+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3H3JQ7T3HUTQP010M.html?ref=rss">
+ <title>悔しい敗戦で始まった成長の4年　カーリング女子、黒星発進も手応え</title>
+ <link>https://www.asahi.com/articles/AST3H3JQ7T3HUTQP010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-15T21:45:44+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3H33HCT3HUTQP00RM.html?ref=rss">
+ <title>横浜FC、4試合ぶりゴールで快勝　J1でも「俺たちはやってやる」</title>
+ <link>https://www.asahi.com/articles/AST3H33HCT3HUTQP00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-15T19:58:02+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3G227LT3GUTQP00JM.html?ref=rss">
+ <title>ビギナーにもバレーボールを続けてほしいから　中学生大会の一工夫</title>
+ <link>https://www.asahi.com/articles/AST3G227LT3GUTQP00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-15T09:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3G15Z3T3GUTQP00MM.html?ref=rss">
+ <title>ヤクルトの開幕投手は奥川　6年目で初「びっくり。自分でいいのか」</title>
+ <link>https://www.asahi.com/articles/AST3G15Z3T3GUTQP00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-14T13:46:32+09:00</dc:date>
+</item>
+</rdf:RDF>
