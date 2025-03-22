@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-03-23T07:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-03-23T07:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3Q51Y4T3QUTQP02HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3H2PKZT3HPTQP006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3P4H1BT3PUTQP02CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3P4JB1T3PUTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3P1TZ5T3PUCVL015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3K46MGT3KUTQP01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3P04QHT3PUTQP008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3N7X8NT3NUTQP02QM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST3Q51Y4T3QUTQP02HM.html?ref=rss">
+ <title>モーグル堀島が「銀」、無念の途中棄権で2冠逃すも打倒王者へ収穫</title>
+ <link>https://www.asahi.com/articles/AST3Q51Y4T3QUTQP02HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-23T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3H2PKZT3HPTQP006M.html?ref=rss">
+ <title>「ずっとヒール役よ」　朝5時半にスマホを…馬淵史郎監督が抱く葛藤</title>
+ <link>https://www.asahi.com/articles/AST3H2PKZT3HPTQP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-22T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3P4H1BT3PUTQP02CM.html?ref=rss">
+ <title>苦手だった英語も武器に　米国で急成長を遂げた陸上・石井優吉の確信</title>
+ <link>https://www.asahi.com/articles/AST3P4H1BT3PUTQP02CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-22T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3P4JB1T3PUTQP001M.html?ref=rss">
+ <title>カーリング女子、五輪切符持ち越し　吉村が悔やむ「長丁場の戦い方」</title>
+ <link>https://www.asahi.com/articles/AST3P4JB1T3PUTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-21T22:58:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3P1TZ5T3PUCVL015M.html?ref=rss">
+ <title>サッカーW杯最終予選、関東の視聴率は世帯21.7%　一方MLBは</title>
+ <link>https://www.asahi.com/articles/AST3P1TZ5T3PUCVL015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-21T14:52:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3K46MGT3KUTQP01CM.html?ref=rss">
+ <title>館山昌平さん、社会人監督デビューへ　活動深める東北で気づいた思い</title>
+ <link>https://www.asahi.com/articles/AST3K46MGT3KUTQP01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-21T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3P04QHT3PUTQP008M.html?ref=rss">
+ <title>4票で落選した渡辺守成氏「想定と違う。ショック」　IOC会長選</title>
+ <link>https://www.asahi.com/articles/AST3P04QHT3PUTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-21T10:36:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3N7X8NT3NUTQP02QM.html?ref=rss">
+ <title>IOC新会長のコベントリー氏　当選は「組織の進化を示すシグナル」</title>
+ <link>https://www.asahi.com/articles/AST3N7X8NT3NUTQP02QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-03-21T09:20:15+09:00</dc:date>
+</item>
+</rdf:RDF>
