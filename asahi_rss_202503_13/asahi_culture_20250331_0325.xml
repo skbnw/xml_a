@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-03-31T12:15:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-03-31T12:15:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST300ST5T30UCVL00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST300P87T30UCVL00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST300G85T30UCVL00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3Z2C9WT3ZUCVL03KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3Z1TZ3T3ZPIHB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST3Z3178T3ZUCVL00JM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST300ST5T30UCVL00CM.html?ref=rss">
+ <title>朝ドラ「おむすび」歴代最低13・1％　「ウェルかめ」を下回る</title>
+ <link>https://www.asahi.com/articles/AST300ST5T30UCVL00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-31T12:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST300P87T30UCVL00QM.html?ref=rss">
+ <title>テレビ朝日の個人視聴率、年度平均で初の3冠　世帯も3年連続で3冠</title>
+ <link>https://www.asahi.com/articles/AST300P87T30UCVL00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-31T11:13:31+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST300G85T30UCVL00FM.html?ref=rss">
+ <title>ロン・ティボー国際コンのピアノ部門、神原雅治さんが4位入賞</title>
+ <link>https://www.asahi.com/articles/AST300G85T30UCVL00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-31T11:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3Z2C9WT3ZUCVL03KM.html?ref=rss">
+ <title>フジ第三者委報告書きょう公表　トラブルの組織的関与認めるかに注目</title>
+ <link>https://www.asahi.com/articles/AST3Z2C9WT3ZUCVL03KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-31T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3Z1TZ3T3ZPIHB001M.html?ref=rss">
+ <title>宝塚音楽学校で合格発表　2000年以降最も低い倍率11.75倍</title>
+ <link>https://www.asahi.com/articles/AST3Z1TZ3T3ZPIHB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-30T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST3Z3178T3ZUCVL00JM.html?ref=rss">
+ <title>詰将棋解答選手権、藤井聡太名人・竜王がパーフェクトで6度目の優勝</title>
+ <link>https://www.asahi.com/articles/AST3Z3178T3ZUCVL00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-03-30T18:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
