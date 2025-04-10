@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-04-10T09:40:32+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-04-10T09:40:32+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST494VM0T49PTIL00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST497T5MT49UTQP024M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST497KC2T49UHBI00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST491CT7T49UHBI010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST482SPST48UTQP00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST483H23T48IIPE00TM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST494VM0T49PTIL00GM.html?ref=rss">
+ <title>オリックスの山岡泰輔投手を書類送検　オンラインカジノで賭博容疑</title>
+ <link>https://www.asahi.com/articles/AST494VM0T49PTIL00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-10T09:40:32+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST497T5MT49UTQP024M.html?ref=rss">
+ <title>28年ロス五輪、女子が初の過半数に　サッカーはチーム数が男女逆転</title>
+ <link>https://www.asahi.com/articles/AST497T5MT49UTQP024M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-10T08:43:52+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST497KC2T49UHBI00VM.html?ref=rss">
+ <title>元中日ブランコ氏死亡のナイトクラブ事故、死者124人に　屋根崩落</title>
+ <link>https://www.asahi.com/articles/AST497KC2T49UHBI00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-10T08:09:08+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST491CT7T49UHBI010M.html?ref=rss">
+ <title>元中日トニ・ブランコさん死亡　ドミニカ共和国のナイトクラブ事故で</title>
+ <link>https://www.asahi.com/articles/AST491CT7T49UHBI010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-09T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST482SPST48UTQP00HM.html?ref=rss">
+ <title>ロシア人FWがNHLで最多得点　プーチン氏も祝福、戸惑う声も</title>
+ <link>https://www.asahi.com/articles/AST482SPST48UTQP00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-09T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST483H23T48IIPE00TM.html?ref=rss">
+ <title>ジェイソン・ブラウン選手が小児病院を訪問「僕のスケートの原動力」</title>
+ <link>https://www.asahi.com/articles/AST483H23T48IIPE00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-08T20:05:00+09:00</dc:date>
+</item>
+</rdf:RDF>
