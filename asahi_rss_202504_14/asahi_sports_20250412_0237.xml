@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-04-12T11:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-04-12T11:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4C23WFT4CUTQP010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4C4Q7RT4CPTQP00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4C4QJ6T4CUTQP00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4C32Z5T4CPQIP01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4C269TT4COXIE01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4B5KB6T4BUTQP00VM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST4C23WFT4CUTQP010M.html?ref=rss">
+ <title>楽天・松井友飛、涙の夜以来の先発　「ゾゾマリンの屈辱」乗り越えた</title>
+ <link>https://www.asahi.com/articles/AST4C23WFT4CUTQP010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-12T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4C4Q7RT4CPTQP00WM.html?ref=rss">
+ <title>厚みを増した阪神打線の鮮やかな逆転勝ち　「さらに結束を高めて…」</title>
+ <link>https://www.asahi.com/articles/AST4C4Q7RT4CPTQP00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-12T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4C4QJ6T4CUTQP00RM.html?ref=rss">
+ <title>日本ハム20年ぶりの代打サヨナラアーチ　郡司裕也、勝負強さ発揮</title>
+ <link>https://www.asahi.com/articles/AST4C4QJ6T4CUTQP00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-12T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4C32Z5T4CPQIP01KM.html?ref=rss">
+ <title>パルクールパフォーマーが跳ぶ、登る忍者ショー　京都・太秦映画村</title>
+ <link>https://www.asahi.com/articles/AST4C32Z5T4CPQIP01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-11T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4C269TT4COXIE01LM.html?ref=rss">
+ <title>83歳で8千m峰挑戦、途中で断念　近藤和美さん「体力不足だった」</title>
+ <link>https://www.asahi.com/articles/AST4C269TT4COXIE01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-11T16:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4B5KB6T4BUTQP00VM.html?ref=rss">
+ <title>「壁なくしたい」東大野球部初の女性主務の情熱　東京六大学100年</title>
+ <link>https://www.asahi.com/articles/AST4B5KB6T4BUTQP00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-11T13:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>

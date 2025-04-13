@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-04-11T06:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-04-11T06:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4B4DNYT4BUEFT00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4B3HJKT4BIIPE00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4B3Q9DT4BULFA013M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4B3HZ2T4BOXIE044M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4B319XT4BUTFK00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST492CM0T49UTFK01DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST493D1KT49OXIE06PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST492DC1T49UTFK01WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST493R83T49UTFK00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST493DB2T49OXIE03WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST492SQNT49UTFK002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST492PW5T49UTFK003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST482PT5T48UTFK01TM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST4B4DNYT4BUEFT00RM.html?ref=rss">
+ <title>一律給付の舞台裏　「消費減税は自民が割れる」森山氏、首相を説得</title>
+ <link>https://www.asahi.com/articles/AST4B4DNYT4BUEFT00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-11T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4B3HJKT4BIIPE00ZM.html?ref=rss">
+ <title>国民民主擁立の新顔が記者会見、支持母体は｢与党崩しに最善の道｣</title>
+ <link>https://www.asahi.com/articles/AST4B3HJKT4BIIPE00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-10T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4B3Q9DT4BULFA013M.html?ref=rss">
+ <title>トランプ関税、赤沢大臣が来週にも訪米へ　先行き不透明な対米交渉</title>
+ <link>https://www.asahi.com/articles/AST4B3Q9DT4BULFA013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-10T20:20:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4B3HZ2T4BOXIE044M.html?ref=rss">
+ <title>交野市が「万博首長連合」を脱退　市長「説明責任果たせない」と主張</title>
+ <link>https://www.asahi.com/articles/AST4B3HZ2T4BOXIE044M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-10T20:05:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4B319XT4BUTFK00NM.html?ref=rss">
+ <title>｢政府は法制上の措置を｣　国民民主が｢若者減税法案｣を提出</title>
+ <link>https://www.asahi.com/articles/AST4B319XT4BUTFK00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-10T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST492CM0T49UTFK01DM.html?ref=rss">
+ <title>選挙の偽情報規制、表現の自由と難しい線引き　収益得る仕組みも論点</title>
+ <link>https://www.asahi.com/articles/AST492CM0T49UTFK01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-10T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST493D1KT49OXIE06PM.html?ref=rss">
+ <title>維新が大阪で参院選公認決定、2議席確保なるか焦点　立国は連携決裂</title>
+ <link>https://www.asahi.com/articles/AST493D1KT49OXIE06PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-10T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST492DC1T49UTFK01WM.html?ref=rss">
+ <title>国民全員に現金5万円給付、政府・与党が検討　米関税措置など踏まえ</title>
+ <link>https://www.asahi.com/articles/AST492DC1T49UTFK01WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-09T21:08:43+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST493R83T49UTFK00SM.html?ref=rss">
+ <title>現金給付「本当に困る人に届かない」　消えた慎重論「関税は国難」</title>
+ <link>https://www.asahi.com/articles/AST493R83T49UTFK00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-09T20:52:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST493DB2T49OXIE03WM.html?ref=rss">
+ <title>トランプ関税、日本の自治体に危機感　「地震の復興に冷や水」心配も</title>
+ <link>https://www.asahi.com/articles/AST493DB2T49OXIE03WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-09T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST492SQNT49UTFK002M.html?ref=rss">
+ <title>政治とカネは｢一時休戦｣　立憲｢関税問題は国難になりかねない｣</title>
+ <link>https://www.asahi.com/articles/AST492SQNT49UTFK002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-09T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST492PW5T49UTFK003M.html?ref=rss">
+ <title>国民・古川氏｢無理やりだと対立｣　選択的別姓の今国会決着に慎重</title>
+ <link>https://www.asahi.com/articles/AST492PW5T49UTFK003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-09T17:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST482PT5T48UTFK01TM.html?ref=rss">
+ <title>誤情報飛び交った知事選、「民主主義が壊された」　自治体対応に限界</title>
+ <link>https://www.asahi.com/articles/AST482PT5T48UTFK01TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-09T17:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
