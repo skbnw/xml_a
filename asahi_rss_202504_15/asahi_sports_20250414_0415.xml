@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-04-14T11:59:24+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-04-14T11:59:24+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4G0P3WT4GUTQP007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4G0BRXT4GUTQP005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4F3R1RT4FPTQP00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4F3JPJT4FUTQP00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4D4FJ4T4DOJQI0PNM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4D3VNZT4DUQIP00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4D2RGRT4DPITB003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST4G0P3WT4GUTQP007M.html?ref=rss">
+ <title>みんな待っていたマキロイの初優勝　14年前の自分にかけたい言葉は</title>
+ <link>https://www.asahi.com/articles/AST4G0P3WT4GUTQP007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-14T11:59:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4G0BRXT4GUTQP005M.html?ref=rss">
+ <title>マキロイが生涯グランドスラム　史上6人目、マスターズゴルフ初制覇</title>
+ <link>https://www.asahi.com/articles/AST4G0BRXT4GUTQP005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-14T10:15:59+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4F3R1RT4FPTQP00PM.html?ref=rss">
+ <title>広島が巨人に3連勝　守護神・栗林が攻めの投球で最後を締める</title>
+ <link>https://www.asahi.com/articles/AST4F3R1RT4FPTQP00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-13T20:30:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4F3JPJT4FUTQP00DM.html?ref=rss">
+ <title>杉山愛監督称賛の「エースらしい完勝」　団体戦苦手だった内島の成長</title>
+ <link>https://www.asahi.com/articles/AST4F3JPJT4FUTQP00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-13T20:07:49+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4D4FJ4T4DOJQI0PNM.html?ref=rss">
+ <title>DeNA、侍コンビで連敗脱出　不振でも固定、三浦監督の期待に奮起</title>
+ <link>https://www.asahi.com/articles/AST4D4FJ4T4DOJQI0PNM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-12T22:45:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4D3VNZT4DUQIP00XM.html?ref=rss">
+ <title>鈴木、山口が優勝　中1選手が自己ベスト　日本初開催のパラ水泳WS</title>
+ <link>https://www.asahi.com/articles/AST4D3VNZT4DUQIP00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-12T21:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4D2RGRT4DPITB003M.html?ref=rss">
+ <title>J1初の中国ダービー、知事対決は広島に軍配　試合は岡山が1点守る</title>
+ <link>https://www.asahi.com/articles/AST4D2RGRT4DPITB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-12T18:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
