@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-04-17T08:26:45+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-04-17T08:26:45+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4J7QNTT4JUTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4J35LQT4JPTQP009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4J0BRRT4JUOOB00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4H0TJTT4HPQIP00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4H24MZT4HUKJH00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4H4GQGT4HPTQP00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4H258DT4HUTQP00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4H059ST4HUTQP004M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST4J7QNTT4JUTQP001M.html?ref=rss">
+ <title>八村塁「優勝するピースはそろった」　 NBAプレーオフを前に会見</title>
+ <link>https://www.asahi.com/articles/AST4J7QNTT4JUTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-17T08:26:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4J35LQT4JPTQP009M.html?ref=rss">
+ <title>データを取りたくて「良い物」探し　りくりゅう、国別対抗戦を前に</title>
+ <link>https://www.asahi.com/articles/AST4J35LQT4JPTQP009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-16T19:25:29+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4J0BRRT4JUOOB00KM.html?ref=rss">
+ <title>ノルディック渡部暁が、スキーの殿堂入り報告　「最後はミラノで…」</title>
+ <link>https://www.asahi.com/articles/AST4J0BRRT4JUOOB00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-16T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4H0TJTT4HPQIP00JM.html?ref=rss">
+ <title>「伝説の剛腕」母校にまっすぐ恩返し　関大野球部・山口高志さん</title>
+ <link>https://www.asahi.com/articles/AST4H0TJTT4HPQIP00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-16T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4H24MZT4HUKJH00WM.html?ref=rss">
+ <title>「熱闘甲子園」のキャスター陣を発表　今年も斎藤佑樹さんら3人</title>
+ <link>https://www.asahi.com/articles/AST4H24MZT4HUKJH00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-16T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4H4GQGT4HPTQP00JM.html?ref=rss">
+ <title>阪神・才木浩人、さえた「もう一つの武器」　タイトル独占へまず1勝</title>
+ <link>https://www.asahi.com/articles/AST4H4GQGT4HPTQP00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-15T22:40:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4H258DT4HUTQP00LM.html?ref=rss">
+ <title>ライバルに助言、温めた「新庄戦法」　寺田明日香がもたらしたもの</title>
+ <link>https://www.asahi.com/articles/AST4H258DT4HUTQP00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-15T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4H059ST4HUTQP004M.html?ref=rss">
+ <title>ハードルの寺田明日香が今季で第一線を退く　出産を経て五輪に出場</title>
+ <link>https://www.asahi.com/articles/AST4H059ST4HUTQP004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-15T10:27:59+09:00</dc:date>
+</item>
+</rdf:RDF>
