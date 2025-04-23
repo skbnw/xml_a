@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-04-23T16:10:19+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-04-23T16:10:19+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4R25K3T4RUOOB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Q3H4PT4QOIPE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Q1JC9T4QUTQP008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Q4HRRT4QUTQP020M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Q4DP0T4QUTQP034M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4P33WST4PUTQP00LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST4R25K3T4RUOOB008M.html?ref=rss">
+ <title>過去の大会で市が赤字隠し、秋のマラソン大会が中止に　長野県松本市</title>
+ <link>https://www.asahi.com/articles/AST4R25K3T4RUOOB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-23T16:10:19+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Q3H4PT4QOIPE001M.html?ref=rss">
+ <title>「民意」と「契約」どちらが重い？豊橋の新アリーナ、議論は平行線</title>
+ <link>https://www.asahi.com/articles/AST4Q3H4PT4QOIPE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-23T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Q1JC9T4QUTQP008M.html?ref=rss">
+ <title>主力欠く打線で35歳が存在感　ソフトバンク・中村晃が語る言葉</title>
+ <link>https://www.asahi.com/articles/AST4Q1JC9T4QUTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-23T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Q4HRRT4QUTQP020M.html?ref=rss">
+ <title>楽天・浅村栄斗を変えた意識　時に輝き、「真に受け」戸惑った時も</title>
+ <link>https://www.asahi.com/articles/AST4Q4HRRT4QUTQP020M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-23T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Q4DP0T4QUTQP034M.html?ref=rss">
+ <title>巨人・岡本　リーグトップに並ぶ7号　好調の要因は改善した食生活</title>
+ <link>https://www.asahi.com/articles/AST4Q4DP0T4QUTQP034M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-22T22:53:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4P33WST4PUTQP00LM.html?ref=rss">
+ <title>北口榛花、坂本花織らが日本の「シンボル」に　渡部暁斗は持論を展開</title>
+ <link>https://www.asahi.com/articles/AST4P33WST4PUTQP00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-04-21T18:46:01+09:00</dc:date>
+</item>
+</rdf:RDF>
