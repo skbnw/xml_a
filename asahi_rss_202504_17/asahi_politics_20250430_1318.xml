@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-04-30T20:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-04-30T20:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Z3QN0T4ZUQIP00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Z3CF7T4ZOXIE04GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Z2155T4ZUTFK01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Z0NYKT4ZUTFK01ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Y4D6ZT4YUTFK00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4Y2FKTT4YUTFK008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4T14J7T4TUZPS001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST4Z3QN0T4ZUQIP00KM.html?ref=rss">
+ <title>石破首相、消費減税に慎重姿勢　「高所得、高額消費も負担軽減」</title>
+ <link>https://www.asahi.com/articles/AST4Z3QN0T4ZUQIP00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-30T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Z3CF7T4ZOXIE04GM.html?ref=rss">
+ <title>大成建設に最大1億4千万円の違約金請求へ 東京・世田谷区庁舎工事</title>
+ <link>https://www.asahi.com/articles/AST4Z3CF7T4ZOXIE04GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-30T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Z2155T4ZUTFK01BM.html?ref=rss">
+ <title>企業団体献金の議論、約束果たされぬまま　与野党が党利党略を優先</title>
+ <link>https://www.asahi.com/articles/AST4Z2155T4ZUTFK01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-30T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Z0NYKT4ZUTFK01ZM.html?ref=rss">
+ <title>選択的別姓導入、立憲が法改正案を衆院提出　「子の姓は婚姻時」に</title>
+ <link>https://www.asahi.com/articles/AST4Z0NYKT4ZUTFK01ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-30T11:59:13+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Y4D6ZT4YUTFK00KM.html?ref=rss">
+ <title>日比首脳会談、トランプ関税も話題　石破首相「よりよい解決目指す」</title>
+ <link>https://www.asahi.com/articles/AST4Y4D6ZT4YUTFK00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-30T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4Y2FKTT4YUTFK008M.html?ref=rss">
+ <title>「新たなパンダ貸与を」森山氏が中国共産党3位に打診　中国の返答は</title>
+ <link>https://www.asahi.com/articles/AST4Y2FKTT4YUTFK008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-29T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4T14J7T4TUZPS001M.html?ref=rss">
+ <title>消費減税が多数派でも、社会保障に悪影響が出る不安も6割の世論</title>
+ <link>https://www.asahi.com/articles/AST4T14J7T4TUZPS001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-04-29T07:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
