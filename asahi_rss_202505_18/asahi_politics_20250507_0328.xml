@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-05-07T12:12:36+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-05-07T12:12:36+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5710SBT57ULFA00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4L3C9DT4LULOB012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4V41PZT4VPIHB00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4X1VYYT4XOXIE00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4L2SPQT4LULOB011M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST521BV5T52ULOB011M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST4L2F8JT4LULOB010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5546B7T55UTFK00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST550SWMT55UTFK001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST5710SBT57ULFA00KM.html?ref=rss">
+ <title>「嵐」のグループ活動終了、林官房長官「大きな存在だった」</title>
+ <link>https://www.asahi.com/articles/AST5710SBT57ULFA00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-07T12:12:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4L3C9DT4LULOB012M.html?ref=rss">
+ <title>なぜ空母を保有するのか　外交で圧力を生む存在意義と「中国の脅威」</title>
+ <link>https://www.asahi.com/articles/AST4L3C9DT4LULOB012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-07T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4V41PZT4VPIHB00NM.html?ref=rss">
+ <title>ざわざわ続く斎藤県政…主な告訴・告発、被害届まとめ　捜査の要点は</title>
+ <link>https://www.asahi.com/articles/AST4V41PZT4VPIHB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-07T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4X1VYYT4XOXIE00TM.html?ref=rss">
+ <title>法政大教授が語る傍聴ルール改正　 時代に対応したアップデートとは</title>
+ <link>https://www.asahi.com/articles/AST4X1VYYT4XOXIE00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-07T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4L2SPQT4LULOB011M.html?ref=rss">
+ <title>新たな戦闘機導入と艦艇の改造　進むハードの準備と定まらぬ運用構想</title>
+ <link>https://www.asahi.com/articles/AST4L2SPQT4LULOB011M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-06T12:02:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST521BV5T52ULOB011M.html?ref=rss">
+ <title>【そもそも解説】都庁より大きい護衛艦とは、他艦への給油に手術室も</title>
+ <link>https://www.asahi.com/articles/AST521BV5T52ULOB011M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-06T12:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST4L2F8JT4LULOB010M.html?ref=rss">
+ <title>5秒で戦闘機が空へ　空母化した護衛艦で記者が見た「歴史的な瞬間」</title>
+ <link>https://www.asahi.com/articles/AST4L2F8JT4LULOB010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-06T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5546B7T55UTFK00GM.html?ref=rss">
+ <title>石破首相「自動車関税、絶対のめない」　米関税めぐり民放番組で発言</title>
+ <link>https://www.asahi.com/articles/AST5546B7T55UTFK00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-05T22:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST550SWMT55UTFK001M.html?ref=rss">
+ <title>オンラインカジノ規制強化、自・立が法改正協議へ　誘導広告など対象</title>
+ <link>https://www.asahi.com/articles/AST550SWMT55UTFK001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-05-05T12:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
