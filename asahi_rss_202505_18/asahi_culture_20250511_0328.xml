@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-05-11T08:55:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-05-11T08:55:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5944DRT59OXIE04FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST583VG7T58TIPE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST593Q0WT59UCVL041M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5842FHT58PTIL00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5744V4T57UCVL03SM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST5944DRT59OXIE04FM.html?ref=rss">
+ <title>万博「大屋根リング」で1万人規模のマーチング、華やかな音色と衣装</title>
+ <link>https://www.asahi.com/articles/AST5944DRT59OXIE04FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-11T08:55:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST583VG7T58TIPE001M.html?ref=rss">
+ <title>芸大生を育んだ12年の被災地通い　「残酷な曲」に教えられた使命</title>
+ <link>https://www.asahi.com/articles/AST583VG7T58TIPE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-11T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST593Q0WT59UCVL041M.html?ref=rss">
+ <title>【詳報】藤井聡太名人、千日手の打開「考えなかった」　名人戦3連勝</title>
+ <link>https://www.asahi.com/articles/AST593Q0WT59UCVL041M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-10T19:35:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5842FHT58PTIL00PM.html?ref=rss">
+ <title>同級生38人被爆死　被爆者の台本もとに朗読劇を「劇的語り部」に</title>
+ <link>https://www.asahi.com/articles/AST5842FHT58PTIL00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-10T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5744V4T57UCVL03SM.html?ref=rss">
+ <title>【詳報】藤井聡太名人に多い選択肢　解説の豊島将之九段「後手持ち」</title>
+ <link>https://www.asahi.com/articles/AST5744V4T57UCVL03SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-09T19:54:47+09:00</dc:date>
+</item>
+</rdf:RDF>
