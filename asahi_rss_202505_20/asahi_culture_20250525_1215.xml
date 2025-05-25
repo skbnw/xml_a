@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-05-25T19:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-05-25T19:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5T26DVT5TPIHB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5N3R4LT5NUTQP01ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5T0HDZT5TOXIE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5S3Q17T5SPQIP00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5T04MNT5TUCVL00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5R3S35T5ROXIE02PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5R3HNFT5RPLZB00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST5R3PZNT5RUCVL050M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST5T26DVT5TPIHB002M.html?ref=rss">
+ <title>斎藤知事が武者行列で楠木正成役に　沿道には知事批判のプラカードも</title>
+ <link>https://www.asahi.com/articles/AST5T26DVT5TPIHB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-25T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5N3R4LT5NUTQP01ZM.html?ref=rss">
+ <title>芸名は斉藤和巳から　元宝塚・和海しょうが感じた歌劇と野球の共通点</title>
+ <link>https://www.asahi.com/articles/AST5N3R4LT5NUTQP01ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-25T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5T0HDZT5TOXIE001M.html?ref=rss">
+ <title>万博で「アーリーゲート」開始　混雑回避で5分前にオープン</title>
+ <link>https://www.asahi.com/articles/AST5T0HDZT5TOXIE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-25T10:57:28+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5S3Q17T5SPQIP00QM.html?ref=rss">
+ <title>学問の神にゆかりの「大福梅」　実の収穫始まる　京都・北野天満宮</title>
+ <link>https://www.asahi.com/articles/AST5S3Q17T5SPQIP00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-25T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5T04MNT5TUCVL00SM.html?ref=rss">
+ <title>カンヌ映画祭、イランのパナヒ監督作に最高賞　監督は3大映画祭制覇</title>
+ <link>https://www.asahi.com/articles/AST5T04MNT5TUCVL00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-25T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5R3S35T5ROXIE02PM.html?ref=rss">
+ <title>能楽と最先端の映像芸術、音楽がコラボ　万博で日本古来の神々が舞う</title>
+ <link>https://www.asahi.com/articles/AST5R3S35T5ROXIE02PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-25T09:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5R3HNFT5RPLZB00DM.html?ref=rss">
+ <title>京の花街・宮川町の「顔」、生まれ変わった　新しい歌舞練場完成</title>
+ <link>https://www.asahi.com/articles/AST5R3HNFT5RPLZB00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-23T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST5R3PZNT5RUCVL050M.html?ref=rss">
+ <title>中居氏側がフジ第三者委に証拠開示を再要求　回答に「承服できない」</title>
+ <link>https://www.asahi.com/articles/AST5R3PZNT5RUCVL050M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-05-23T20:20:00+09:00</dc:date>
+</item>
+</rdf:RDF>
