@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+  <channel rdf:about="http://www3.asahi.com/">
+    <title>朝日新聞</title>
+    <link>http://www.asahi.com/</link>
+    <description>朝日新聞のデジタル版全ジャンルの最新ニュースです。</description>
+    <dc:language>ja</dc:language>
+    <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+    <dc:creator>朝日新聞社</dc:creator>
+    <dc:date>2025-06-03T22:21:36+09:00</dc:date>
+    <dc:publisher>朝日新聞社</dc:publisher>
+    <syn:updatePeriod>hourly</syn:updatePeriod>
+    <syn:updateFrequency>1</syn:updateFrequency>
+    <syn:updateBase>2025-06-03T22:21:36+09:00</syn:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632QVFT63OHGB005M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633HN2T63TIPE01CM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632W3PT63IIPE015M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633F4ST63TIPE01NM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633VLMT63PIHB016M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632GL9T63OIPE00QM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633PZJT63OIPE00CM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6331HDT63OIPE011M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633K4DT63OXIE047M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633HYQT63PTIL00LM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633R7PT63UTQP033M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632T3ST63OXIE02TM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633PLHT63UTFK01GM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632PP6T63OHGB009M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632TJHT63PTQP00FM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6342P7T63ULFA011M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633HZKT63ULFA01WM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6245HST62ULFA016M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6332V4T63ULFA019M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6330W2T63ULFA01HM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633QY0T63ULOB01DM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633SVGT63UTFK00HM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633RBZT63OXIE03XM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633R8LT63UTFK01KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633PLHT63UTFK01GM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633DQTT63UHBI03VM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST633J6HT63UHBI03RM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6334K8T63UHBI03TM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632J2TT63DIFI00BM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632T1LT63UHBI00PM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST623FWBT62PLZB007M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST632QR8T63UCVL03DM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6325NBT63UCVL035M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST631SX2T63UCVL01KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST5W2W5XT5WTIPE00VM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST622RNFT62PUUB004M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST5Z2GJLT5ZONFB001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6314V3T63ULZU01JM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST631Q2TT63UDCB01RM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/AST6301HKT63UTQP03BM.html?ref=rss"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.asahi.com/articles/AST632QVFT63OHGB005M.html?ref=rss">
+    <title>岐阜のリニアトンネル湧水対策工事、鹿児島の崩落事故受け中止に</title>
+    <link>http://www.asahi.com/articles/AST632QVFT63OHGB005M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T21:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633HN2T63TIPE01CM.html?ref=rss">
+    <title>雲仙・普賢岳の大火砕流から34年　「いのりの日」安らかに</title>
+    <link>http://www.asahi.com/articles/AST633HN2T63TIPE01CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST632W3PT63IIPE015M.html?ref=rss">
+    <title>死者想定は最大7500人、北海道が公表　日本海沿岸の地震津波</title>
+    <link>http://www.asahi.com/articles/AST632W3PT63IIPE015M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633F4ST63TIPE01NM.html?ref=rss">
+    <title>福岡「天神地下街」で一時停電　150店舗が休業、利用者ら避難</title>
+    <link>http://www.asahi.com/articles/AST633F4ST63TIPE01NM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T20:56:14+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633VLMT63PIHB016M.html?ref=rss">
+    <title>朝日新聞阪神支局に「令和赤報隊」名の文書送った疑い　静岡の男逮捕</title>
+    <link>http://www.asahi.com/articles/AST633VLMT63PIHB016M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T20:53:47+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST632GL9T63OIPE00QM.html?ref=rss">
+    <title>名古屋市の集合住宅に女性の遺体　住人の男は県外で死亡</title>
+    <link>http://www.asahi.com/articles/AST632GL9T63OIPE00QM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T20:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633PZJT63OIPE00CM.html?ref=rss">
+    <title>元警察官に有罪判決　検察側「4千回、盗撮」と言及　名古屋地裁</title>
+    <link>http://www.asahi.com/articles/AST633PZJT63OIPE00CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T20:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6331HDT63OIPE011M.html?ref=rss">
+    <title>名古屋市でニホンカモシカ捕獲　東山動植物園で飼育後、山へ</title>
+    <link>http://www.asahi.com/articles/AST6331HDT63OIPE011M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T20:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633K4DT63OXIE047M.html?ref=rss">
+    <title>万博リング、200メートル現状保存の方向で了承　代案で南側保存も</title>
+    <link>http://www.asahi.com/articles/AST633K4DT63OXIE047M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T20:21:01+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633HYQT63PTIL00LM.html?ref=rss">
+    <title>大阪・忠岡町の前町長を在宅起訴　入札情報を漏らすなどした罪で</title>
+    <link>http://www.asahi.com/articles/AST633HYQT63PTIL00LM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T19:49:38+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633R7PT63UTQP033M.html?ref=rss">
+    <title>「ONにはあうんの呼吸がある」王貞治と長嶋茂雄、黄金コンビの歩み</title>
+    <link>http://www.asahi.com/articles/AST633R7PT63UTQP033M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2025-06-03T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST632T3ST63OXIE02TM.html?ref=rss">
+    <title>ミスターが愛したおでん、売れたホームランバー　社会を照らした巨星</title>
+    <link>http://www.asahi.com/articles/AST632T3ST63OXIE02TM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633PLHT63UTFK01GM.html?ref=rss">
+    <title>「明るい太陽みたいな人だった」　石破首相、長嶋茂雄さんをしのぶ</title>
+    <link>http://www.asahi.com/articles/AST633PLHT63UTFK01GM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-06-03T20:32:48+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST632PP6T63OHGB009M.html?ref=rss">
+    <title>長嶋茂雄さん、立大時代から気さくな人柄　仲間の地元で臨時ノックも</title>
+    <link>http://www.asahi.com/articles/AST632PP6T63OHGB009M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST632TJHT63PTQP00FM.html?ref=rss">
+    <title>長嶋茂雄さん死去　球界、悲しみと感謝「体の一部を取られたよう」</title>
+    <link>http://www.asahi.com/articles/AST632TJHT63PTQP00FM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2025-06-03T18:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6342P7T63ULFA011M.html?ref=rss">
+    <title>トヨタなど4.7兆円投じ源流企業を非公開化へ　買収規模は国内最大</title>
+    <link>http://www.asahi.com/articles/AST6342P7T63ULFA011M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-06-03T22:05:39+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633HZKT63ULFA01WM.html?ref=rss">
+    <title>日銀総裁、利上げ路線を維持　物価上昇率2%「芽は育ち続けている」</title>
+    <link>http://www.asahi.com/articles/AST633HZKT63ULFA01WM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-06-03T19:58:42+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6245HST62ULFA016M.html?ref=rss">
+    <title>入札で放出の備蓄米、買い戻し検討　和歌山と北海道で1500円差も</title>
+    <link>http://www.asahi.com/articles/AST6245HST62ULFA016M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-06-03T19:15:42+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6332V4T63ULFA019M.html?ref=rss">
+    <title>富士通、ATM事業撤退へ　半世紀の歴史に幕「デジタル化に注力」</title>
+    <link>http://www.asahi.com/articles/AST6332V4T63ULFA019M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-06-03T18:50:22+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6330W2T63ULFA01HM.html?ref=rss">
+    <title>日本経済、再び「需要不足」に　内閣府が1～3月期の推計値を公表</title>
+    <link>http://www.asahi.com/articles/AST6330W2T63ULFA01HM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-06-03T18:16:53+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633QY0T63ULOB01DM.html?ref=rss">
+    <title>横浜市長選、自民が独自候補の擁立を断念　現職・山中氏の支援も視野</title>
+    <link>http://www.asahi.com/articles/AST633QY0T63ULOB01DM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-06-03T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633SVGT63UTFK00HM.html?ref=rss">
+    <title>自民、選択的夫婦別姓の「考え方」を報告　党議拘束で党内あつれき</title>
+    <link>http://www.asahi.com/articles/AST633SVGT63UTFK00HM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-06-03T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633RBZT63OXIE03XM.html?ref=rss">
+    <title>「前総務部長の刑事告発を」　兵庫県議会、主要4会派が県に申し入れ</title>
+    <link>http://www.asahi.com/articles/AST633RBZT63OXIE03XM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-06-03T20:45:08+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633R8LT63UTFK01KM.html?ref=rss">
+    <title>立憲・小川氏「余計なお世話だ」　国民・玉木氏と「舌戦」が激化</title>
+    <link>http://www.asahi.com/articles/AST633R8LT63UTFK01KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-06-03T20:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633PLHT63UTFK01GM.html?ref=rss">
+    <title>「明るい太陽みたいな人だった」　石破首相、長嶋茂雄さんをしのぶ</title>
+    <link>http://www.asahi.com/articles/AST633PLHT63UTFK01GM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-06-03T20:32:48+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633DQTT63UHBI03VM.html?ref=rss">
+    <title>「李在明氏の一番の懸念は司法改革」　専門家に聞く韓国新政権の課題</title>
+    <link>http://www.asahi.com/articles/AST633DQTT63UHBI03VM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-06-03T23:59:09+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST633J6HT63UHBI03RM.html?ref=rss">
+    <title>李在明・韓国新大統領、日本への姿勢は？ 「実用外交」に警戒と楽観</title>
+    <link>http://www.asahi.com/articles/AST633J6HT63UHBI03RM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-06-03T23:57:58+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6334K8T63UHBI03TM.html?ref=rss">
+    <title>小学校出て少年工に…「韓国のトランプ」とも　李在明・新大統領とは</title>
+    <link>http://www.asahi.com/articles/AST6334K8T63UHBI03TM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-06-03T23:55:08+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST632J2TT63DIFI00BM.html?ref=rss">
+    <title>【解説人語】韓国大統領選で語られなかったこと　直面する二つの問題</title>
+    <link>http://www.asahi.com/articles/AST632J2TT63DIFI00BM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-06-03T23:51:25+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST632T1LT63UHBI00PM.html?ref=rss">
+    <title>【更新中】韓国大統領選、李在明氏が当選確実　3年ぶり進歩系政権</title>
+    <link>http://www.asahi.com/articles/AST632T1LT63UHBI00PM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-06-03T23:49:44+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST623FWBT62PLZB007M.html?ref=rss">
+    <title>琵琶湖疏水が国宝へ　船で徒歩で記者が散策　130年の歴史を体感</title>
+    <link>http://www.asahi.com/articles/AST623FWBT62PLZB007M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST632QR8T63UCVL03DM.html?ref=rss">
+    <title>「長嶋茂雄は野球の星に帰りました」　長男の一茂さんがコメント</title>
+    <link>http://www.asahi.com/articles/AST632QR8T63UCVL03DM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2025-06-03T17:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6325NBT63UCVL035M.html?ref=rss">
+    <title>朝ドラ「風、薫る」ヒロインに上坂樹里さん　見上愛さんとダブル主演</title>
+    <link>http://www.asahi.com/articles/AST6325NBT63UCVL035M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2025-06-03T16:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST631SX2T63UCVL01KM.html?ref=rss">
+    <title>フジ第三者委が中居氏側の要求を再び拒否　見解の隔たり「埋め難い」</title>
+    <link>http://www.asahi.com/articles/AST631SX2T63UCVL01KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-03T15:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST5W2W5XT5WTIPE00VM.html?ref=rss">
+    <title>牛を悩ます吸血ハエ抑制、救世主はハチ　九大発企業が挑む感染症対策</title>
+    <link>http://www.asahi.com/articles/AST5W2W5XT5WTIPE00VM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2025-06-03T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST622RNFT62PUUB004M.html?ref=rss">
+    <title>ディープフェイクポルノ規制条例、「過料5万円以下」導入へ　鳥取県</title>
+    <link>http://www.asahi.com/articles/AST622RNFT62PUUB004M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-06-02T18:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST5Z2GJLT5ZONFB001M.html?ref=rss">
+    <title>「上手になる自分が好き」ドローンレースで初優勝、高2が描く次の夢</title>
+    <link>http://www.asahi.com/articles/AST5Z2GJLT5ZONFB001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2025-06-02T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6314V3T63ULZU01JM.html?ref=rss">
+    <title>五輪予選前のお茶会、病院で明かした夜…長嶋さん取材で浮かぶ思い出</title>
+    <link>http://www.asahi.com/articles/AST6314V3T63ULZU01JM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2025-06-03T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST631Q2TT63UDCB01RM.html?ref=rss">
+    <title>「我が長嶋茂雄は永久に不滅」　物まねのプリティ長嶋さんも悼む</title>
+    <link>http://www.asahi.com/articles/AST631Q2TT63UDCB01RM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2025-06-03T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/AST6301HKT63UTQP03BM.html?ref=rss">
+    <title>長嶋茂雄さんが死去、89歳　「ミスタープロ野球」の元巨人監督</title>
+    <link>http://www.asahi.com/articles/AST6301HKT63UTQP03BM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2025-06-03T09:24:52+09:00</dc:date>
+  </item>
+</rdf:RDF>
