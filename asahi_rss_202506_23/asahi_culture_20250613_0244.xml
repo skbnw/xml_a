@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-06-13T11:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-06-13T11:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6B0RJQT6BOXIE04XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6D33WLT6DUCVL04CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6D21X9T6DOIPE00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6D2GQ3T6DOIPE00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6C31FFT6CUCVL024M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6C2SWXT6CUCVL01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6C053HT6CUCVL00QM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST6B0RJQT6BOXIE04XM.html?ref=rss">
+ <title>万博案内役務める車いすユーザー「違和感」消すことで広げたい可能性</title>
+ <link>https://www.asahi.com/articles/AST6B0RJQT6BOXIE04XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-13T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6D33WLT6DUCVL04CM.html?ref=rss">
+ <title>この仕事の報酬額は？　事前に知る人は半数以下　芸能従事者への調査</title>
+ <link>https://www.asahi.com/articles/AST6D33WLT6DUCVL04CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-13T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6D21X9T6DOIPE00KM.html?ref=rss">
+ <title>ミュージカル「ある男」愛知で上演へ　X役の小池徹平さんが意気込み</title>
+ <link>https://www.asahi.com/articles/AST6D21X9T6DOIPE00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-12T19:05:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6D2GQ3T6DOIPE00YM.html?ref=rss">
+ <title>「ポケふた」ゲットだぜ!　愛知の5市に設置、名古屋はあのキャラ</title>
+ <link>https://www.asahi.com/articles/AST6D2GQ3T6DOIPE00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-12T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6C31FFT6CUCVL024M.html?ref=rss">
+ <title>芥川賞と直木賞、候補作が決まる　選考会は7月16日</title>
+ <link>https://www.asahi.com/articles/AST6C31FFT6CUCVL024M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-12T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6C2SWXT6CUCVL01XM.html?ref=rss">
+ <title>フジテレビ、アナウンサーがオンラインカジノを利用　「深く反省」</title>
+ <link>https://www.asahi.com/articles/AST6C2SWXT6CUCVL01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-11T18:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6C053HT6CUCVL00QM.html?ref=rss">
+ <title>長嶋茂雄さんの「他力」に感動　忘れがたい対話、五木寛之さんが寄稿</title>
+ <link>https://www.asahi.com/articles/AST6C053HT6CUCVL00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-11T12:10:00+09:00</dc:date>
+</item>
+</rdf:RDF>
