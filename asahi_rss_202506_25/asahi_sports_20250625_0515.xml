@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-06-25T11:59:08+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-06-25T11:59:08+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6T0SXJT6TSFVU0ZXM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6S1J4XT6SULFA01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6R36LHT6RPLZB00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6R3CDYT6RUOHB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6R31X1T6RIIPE00QM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST6T0SXJT6TSFVU0ZXM.html?ref=rss">
+ <title>大谷翔平が日米通算300本塁打、日本選手で3人目　27号2ラン</title>
+ <link>https://www.asahi.com/articles/AST6T0SXJT6TSFVU0ZXM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-25T11:59:08+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6S1J4XT6SULFA01HM.html?ref=rss">
+ <title>大谷選手共演にミスターの思い　最後の「セコムしてますか」CM秘話</title>
+ <link>https://www.asahi.com/articles/AST6S1J4XT6SULFA01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-25T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6R36LHT6RPLZB00CM.html?ref=rss">
+ <title>監督を志したきっかけは「後悔」　高校野球育成功労賞の南部さん</title>
+ <link>https://www.asahi.com/articles/AST6R36LHT6RPLZB00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-25T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6R3CDYT6RUOHB001M.html?ref=rss">
+ <title>低迷のJ1新潟、樹森監督を解任　「絶対落とせない」新監督の危機感</title>
+ <link>https://www.asahi.com/articles/AST6R3CDYT6RUOHB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-23T19:17:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6R31X1T6RIIPE00QM.html?ref=rss">
+ <title>札幌ドーム新社長の一問一答「5大ドームでスクラム、海外から誘致」</title>
+ <link>https://www.asahi.com/articles/AST6R31X1T6RIIPE00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-23T19:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
