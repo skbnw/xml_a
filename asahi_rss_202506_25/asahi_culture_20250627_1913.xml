@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-06-27T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-06-27T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6W2QXKT6WPLZB00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6W13CDT6WOHGB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6W2QBDT6WUCVL03FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6W03SDT6WUCVL00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6V1VKKT6VPLZB00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6V2DM4T6VUCVL01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6V0GTLT6VUCVL04RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6T224PT6TUTFL01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6T3WD9T6TUGTB00TM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST6W2QXKT6WPLZB00DM.html?ref=rss">
+ <title>京都五花街の芸舞妓が勢ぞろい　南座で合同公演「都の賑い」</title>
+ <link>https://www.asahi.com/articles/AST6W2QXKT6WPLZB00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-27T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6W13CDT6WOHGB001M.html?ref=rss">
+ <title>やなせたかし先生の「うながっぱ」、ピカピカのアルミ合金製に</title>
+ <link>https://www.asahi.com/articles/AST6W13CDT6WOHGB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-27T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6W2QBDT6WUCVL03FM.html?ref=rss">
+ <title>「STARTO」井ノ原取締役も退任　新社長に元フジ専務の鈴木氏</title>
+ <link>https://www.asahi.com/articles/AST6W2QBDT6WUCVL03FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-27T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6W03SDT6WUCVL00CM.html?ref=rss">
+ <title>ヨウジヤマモト　パリで見せた「NO　MORE　WAR」の祈り</title>
+ <link>https://www.asahi.com/articles/AST6W03SDT6WUCVL00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-27T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6V1VKKT6VPLZB00NM.html?ref=rss">
+ <title>桓武天皇が遷都の長岡京　首都建設で墳丘削る？　長岡宮跡で円墳2基</title>
+ <link>https://www.asahi.com/articles/AST6V1VKKT6VPLZB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-26T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6V2DM4T6VUCVL01BM.html?ref=rss">
+ <title>日テレHD、外部評価委員会を設置へ　国分太一さん問題の対応受けて</title>
+ <link>https://www.asahi.com/articles/AST6V2DM4T6VUCVL01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-26T17:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6V0GTLT6VUCVL04RM.html?ref=rss">
+ <title>福間香奈女流王位が7連覇　親交深い空手家の訃報に涙「信念を心に」</title>
+ <link>https://www.asahi.com/articles/AST6V0GTLT6VUCVL04RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-26T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6T224PT6TUTFL01NM.html?ref=rss">
+ <title>3万年前、黒潮攻略し丸木舟で日本へ　実験を重ね驚いた「生身の力」</title>
+ <link>https://www.asahi.com/articles/AST6T224PT6TUTFL01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-26T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6T3WD9T6TUGTB00TM.html?ref=rss">
+ <title>福島県がTOKIOに声明「解散後も力貸して」　松岡さんは謝罪電話</title>
+ <link>https://www.asahi.com/articles/AST6T3WD9T6TUGTB00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-06-25T21:20:00+09:00</dc:date>
+</item>
+</rdf:RDF>
