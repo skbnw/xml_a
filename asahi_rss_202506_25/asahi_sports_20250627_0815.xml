@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-06-27T12:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-06-27T12:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6V4V5KT6VUTQP00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6V4ST0T6VUTQP00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6V21WWT6VUTQP006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6T2JHPT6TUTQP005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6T3FZJT6TUTQP01DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST6T1PGDT6TUTQP00KM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST6V4V5KT6VUTQP00PM.html?ref=rss">
+ <title>独立掲げ36年、政治家会長を選んだJOC　国民の支持取り戻すには</title>
+ <link>https://www.asahi.com/articles/AST6V4V5KT6VUTQP00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-27T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6V4ST0T6VUTQP00CM.html?ref=rss">
+ <title>JOC新会長、異例の選挙で決まった背景　女性初、橋本聖子氏が就任</title>
+ <link>https://www.asahi.com/articles/AST6V4ST0T6VUTQP00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-27T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6V21WWT6VUTQP006M.html?ref=rss">
+ <title>J随一の資金力誇る浦和レッズでも…　層と質で世界に劣る厳しい現実</title>
+ <link>https://www.asahi.com/articles/AST6V21WWT6VUTQP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-26T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6T2JHPT6TUTQP005M.html?ref=rss">
+ <title>日本陸連、新会長にマラソン五輪メダリストの有森裕子氏　女性初</title>
+ <link>https://www.asahi.com/articles/AST6T2JHPT6TUTQP005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-25T20:18:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6T3FZJT6TUTQP01DM.html?ref=rss">
+ <title>ディップがバスケ参画、B3さいたまを子会社化「下克上にひかれる」</title>
+ <link>https://www.asahi.com/articles/AST6T3FZJT6TUTQP01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-25T19:57:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST6T1PGDT6TUTQP00KM.html?ref=rss">
+ <title>高津監督とは「一蓮托生」、途中交代なし　ヤクルト球団社長が明言</title>
+ <link>https://www.asahi.com/articles/AST6T1PGDT6TUTQP00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-06-25T15:20:11+09:00</dc:date>
+</item>
+</rdf:RDF>
