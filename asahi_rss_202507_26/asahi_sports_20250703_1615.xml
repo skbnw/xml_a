@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-07-03T23:18:41+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-07-03T23:18:41+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST734K7RT73UTQP00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7245HFT72PLPB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST724SHGT72UTQP01WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST723GT4T72UTQP00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST721H0RT72UTQP00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST721C7YT72UHBI013M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST734K7RT73UTQP00ZM.html?ref=rss">
+ <title>長女の2歳の誕生日を祝い、母の幸せに浸る大坂、8年ぶり3回戦進出</title>
+ <link>https://www.asahi.com/articles/AST734K7RT73UTQP00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-03T23:18:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7245HFT72PLPB005M.html?ref=rss">
+ <title>J3高知の秋田豊監督が休養　選手らパワハラ訴え調査委設置　元代表</title>
+ <link>https://www.asahi.com/articles/AST7245HFT72PLPB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-03T10:30:01+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST724SHGT72UTQP01WM.html?ref=rss">
+ <title>天理大ラグビー部が活動停止　部員の薬物事件受け、部長らも処分</title>
+ <link>https://www.asahi.com/articles/AST724SHGT72UTQP01WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-02T23:46:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST723GT4T72UTQP00XM.html?ref=rss">
+ <title>クールな22歳が喜び爆発　6年前のジュニア王者が窮地で貫いた戦略</title>
+ <link>https://www.asahi.com/articles/AST723GT4T72UTQP00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-02T19:52:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST721H0RT72UTQP00QM.html?ref=rss">
+ <title>川崎の高井幸大が移籍に言及　監督が振り返る「一皮むけた」瞬間</title>
+ <link>https://www.asahi.com/articles/AST721H0RT72UTQP00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-02T14:44:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST721C7YT72UHBI013M.html?ref=rss">
+ <title>米国の名門大、トランス女性の女性スポーツ参加を禁止　米政権と合意</title>
+ <link>https://www.asahi.com/articles/AST721C7YT72UHBI013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-02T13:27:34+09:00</dc:date>
+</item>
+</rdf:RDF>
