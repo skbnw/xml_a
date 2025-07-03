@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-07-03T10:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-07-03T10:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST724R2ST72UCVL01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7243ZWT72PLZB00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST724HZLT72UCVL03WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST722PSCT72PLZB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST72221DT72UCVL01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7133L8T71PQIP016M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST712W3FT71PLZB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST711J2JT71TIPE014M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST724R2ST72UCVL01KM.html?ref=rss">
+ <title>王谷晶さんと柚木麻子さん、受賞なら日本作品で初　英ダガー賞発表へ</title>
+ <link>https://www.asahi.com/articles/AST724R2ST72UCVL01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-03T10:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7243ZWT72PLZB00MM.html?ref=rss">
+ <title>万博に京都・滋賀の7寺院　世界遺産も国宝も　秘仏レプリカ展示</title>
+ <link>https://www.asahi.com/articles/AST7243ZWT72PLZB00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-03T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST724HZLT72UCVL03WM.html?ref=rss">
+ <title>世界麻雀、日本チームは最高3位　白鳥翔「まさかとは思っていない」</title>
+ <link>https://www.asahi.com/articles/AST724HZLT72UCVL03WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-02T22:58:19+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST722PSCT72PLZB001M.html?ref=rss">
+ <title>「山一番」前祭は占出山、後祭は役行者山　京都・祇園祭のくじ取り式</title>
+ <link>https://www.asahi.com/articles/AST722PSCT72PLZB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-02T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST72221DT72UCVL01LM.html?ref=rss">
+ <title>TOKIO解散で株式会社を廃業へ　福島のアウトドア施設も閉園</title>
+ <link>https://www.asahi.com/articles/AST72221DT72UCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-02T15:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7133L8T71PQIP016M.html?ref=rss">
+ <title>襲名披露の八代目尾上菊五郎さんらが「船乗り込み」　大阪に夏の訪れ</title>
+ <link>https://www.asahi.com/articles/AST7133L8T71PQIP016M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-01T19:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST712W3FT71PLZB001M.html?ref=rss">
+ <title>京都・祇園祭が幕開け　長刀鉾の稚児ら八坂神社で「お千度の儀」</title>
+ <link>https://www.asahi.com/articles/AST712W3FT71PLZB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-01T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST711J2JT71TIPE014M.html?ref=rss">
+ <title>【推しの子】と八番山笠がコラボ　博多祇園山笠が開幕　15日まで</title>
+ <link>https://www.asahi.com/articles/AST711J2JT71TIPE014M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-01T17:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
