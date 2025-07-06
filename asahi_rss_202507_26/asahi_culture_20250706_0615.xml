@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-07-06T13:34:13+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-07-06T13:34:13+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST754G43T75PLZB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7615F1T76UCVL00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST752VPHT75PLFA001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST752PDMT75PLZB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST744FQ6T74UCVL05YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7433WHT74UCVL03HM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST754G43T75PLZB007M.html?ref=rss">
+ <title>こうの史代さんがライブペインティング　描いたのは…名探偵コナン</title>
+ <link>https://www.asahi.com/articles/AST754G43T75PLZB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-06T13:34:13+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7615F1T76UCVL00VM.html?ref=rss">
+ <title>フジテレビが検証番組、中居氏問題「場当たり的対応」　日枝氏は出ず</title>
+ <link>https://www.asahi.com/articles/AST7615F1T76UCVL00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-06T13:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST752VPHT75PLFA001M.html?ref=rss">
+ <title>古代建築を軸に日中文化交流語る　万博中国館でイベント</title>
+ <link>https://www.asahi.com/articles/AST752VPHT75PLFA001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-05T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST752PDMT75PLZB005M.html?ref=rss">
+ <title>世の平安願い「太平の舞」　京都・祇園祭　長刀鉾の稚児「99点」</title>
+ <link>https://www.asahi.com/articles/AST752PDMT75PLZB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-05T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST744FQ6T74UCVL05YM.html?ref=rss">
+ <title>「テキストでアクション、成功したな」　ダガー賞の王谷さん一問一答</title>
+ <link>https://www.asahi.com/articles/AST744FQ6T74UCVL05YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-04T23:25:03+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7433WHT74UCVL03HM.html?ref=rss">
+ <title>将棋連盟新会長が初昇級「ビックリ」　就任1カ月の清水市代女流七段</title>
+ <link>https://www.asahi.com/articles/AST7433WHT74UCVL03HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-04T18:49:52+09:00</dc:date>
+</item>
+</rdf:RDF>
