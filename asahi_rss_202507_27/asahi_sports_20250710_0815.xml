@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-07-10T10:45:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-07-10T10:45:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST742HZ9T74UHMC003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7B023JT7BUTQP00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST751S37T75UHBI007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST782W78T78UTQP01CM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST742HZ9T74UHMC003M.html?ref=rss">
+ <title>米の熱波に直撃されたサッカーのクラブ・ワールドカップ</title>
+ <link>https://www.asahi.com/articles/AST742HZ9T74UHMC003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-10T10:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7B023JT7BUTQP00PM.html?ref=rss">
+ <title>藤浪晋太郎の獲得へ、DeNAが調査　米大リーグ傘下3Aを自由契約</title>
+ <link>https://www.asahi.com/articles/AST7B023JT7BUTQP00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-10T09:39:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST751S37T75UHBI007M.html?ref=rss">
+ <title>クロマティさんにも取材　日米の野球「外交」、日本出身監督に聞く</title>
+ <link>https://www.asahi.com/articles/AST751S37T75UHBI007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-09T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST782W78T78UTQP01CM.html?ref=rss">
+ <title>川崎の高井幸大がトットナムに移籍　5年契約、移籍金10億円報道も</title>
+ <link>https://www.asahi.com/articles/AST782W78T78UTQP01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-08T18:15:07+09:00</dc:date>
+</item>
+</rdf:RDF>
