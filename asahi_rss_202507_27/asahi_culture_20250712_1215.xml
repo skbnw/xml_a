@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-07-11T16:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-07-11T16:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7C0RCHT7CUCVL00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7C1H1HT7CUCVL010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7B4WQPT7BUCVL045M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7B454DT7BUCVL055M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7832SNT78UQIP02PM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST7C0RCHT7CUCVL00MM.html?ref=rss">
+ <title>八代弥七段、31歳で八段昇段　将棋順位戦、悲願の初昇級目指す</title>
+ <link>https://www.asahi.com/articles/AST7C0RCHT7CUCVL00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-11T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7C1H1HT7CUCVL010M.html?ref=rss">
+ <title>TBS系番組「熱狂マニアさん！」は「放送倫理違反」　BPO意見書</title>
+ <link>https://www.asahi.com/articles/AST7C1H1HT7CUCVL010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-11T14:02:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7B4WQPT7BUCVL045M.html?ref=rss">
+ <title>バーキン愛用の「バーキン」　日本人コレクターが15億円で落札</title>
+ <link>https://www.asahi.com/articles/AST7B4WQPT7BUCVL045M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-11T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7B454DT7BUCVL055M.html?ref=rss">
+ <title>囲碁名人リーグ、陥落4人確定　5敗目喫した広瀬七段がリーグ落ち</title>
+ <link>https://www.asahi.com/articles/AST7B454DT7BUCVL055M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-10T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7832SNT78UQIP02PM.html?ref=rss">
+ <title>「人間とは命とは」　葛藤とともに封印した写真、50年ぶりに公開</title>
+ <link>https://www.asahi.com/articles/AST7832SNT78UQIP02PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-10T21:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
