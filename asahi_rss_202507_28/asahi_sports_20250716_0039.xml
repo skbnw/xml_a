@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-07-16T09:15:41+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-07-16T09:15:41+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7H7TZNT7HUTQP020M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7H3K2ZT7HOIPE00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7H2W2GT7HUTQP01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7G2GJRT7GOXIE022M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7H2RFRT7HUQIP006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7H2Q75T7HUTQP01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7G7H5HT7GUTQP01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7B76QQT7BUHBI00CM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST7H7TZNT7HUTQP020M.html?ref=rss">
+ <title>【更新中】ドジャース大谷翔平、1番・DHで球宴に先発　２年連続アーチ出るか</title>
+ <link>https://www.asahi.com/articles/AST7H7TZNT7HUTQP020M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-16T09:15:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7H3K2ZT7HOIPE00RM.html?ref=rss">
+ <title>どうなる新アリーナ？豊橋市民の決断は…迫る住民投票、期日前は増</title>
+ <link>https://www.asahi.com/articles/AST7H3K2ZT7HOIPE00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-16T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7H2W2GT7HUTQP01KM.html?ref=rss">
+ <title>大谷翔平がプレーする球場は「次世代型の代表例」　MLB球宴開催地</title>
+ <link>https://www.asahi.com/articles/AST7H2W2GT7HUTQP01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-16T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7G2GJRT7GOXIE022M.html?ref=rss">
+ <title>「申請しても返事が」　提携先も盤石でなく…フィギュアの著作権問題</title>
+ <link>https://www.asahi.com/articles/AST7G2GJRT7GOXIE022M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-16T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7H2RFRT7HUQIP006M.html?ref=rss">
+ <title>大谷翔平、2年連続のアーチ描けるか　HR量産につながる姿勢の変化</title>
+ <link>https://www.asahi.com/articles/AST7H2RFRT7HUQIP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-15T18:37:20+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7H2Q75T7HUTQP01MM.html?ref=rss">
+ <title>藤浪晋太郎がDeNAと契約合意　3年ぶり日本球界復帰へ</title>
+ <link>https://www.asahi.com/articles/AST7H2Q75T7HUTQP01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-15T17:54:13+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7G7H5HT7GUTQP01SM.html?ref=rss">
+ <title>大谷翔平は1番DH、あすオールスター　会見でWBCや子育てを語る</title>
+ <link>https://www.asahi.com/articles/AST7G7H5HT7GUTQP01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-15T07:47:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7B76QQT7BUHBI00CM.html?ref=rss">
+ <title>トランプ政権の移民摘発、余波はドジャースに　期待背負うリスクとは</title>
+ <link>https://www.asahi.com/articles/AST7B76QQT7BUHBI00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-14T13:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
