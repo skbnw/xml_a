@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-07-22T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-07-22T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7Q2QXMT7QUTQP00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7Q0FKYT7QUTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7K31D6T7KUHBI01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7P320XT7PUHBI01FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7N4H4HT7NUTQP00CM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST7Q2QXMT7QUTQP00XM.html?ref=rss">
+ <title>大谷翔平35号HRで自らの失点帳消し　打順変更に「9番でもいい」</title>
+ <link>https://www.asahi.com/articles/AST7Q2QXMT7QUTQP00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-22T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7Q0FKYT7QUTQP001M.html?ref=rss">
+ <title>「二刀流」大谷翔平、3試合連続の35号2ラン　投げては3回1失点</title>
+ <link>https://www.asahi.com/articles/AST7Q0FKYT7QUTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-22T14:02:06+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7K31D6T7KUHBI01LM.html?ref=rss">
+ <title>サッカー賭博のため？日本選手「わざとイエロー」か　罪深き「脚本」</title>
+ <link>https://www.asahi.com/articles/AST7K31D6T7KUHBI01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-21T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7P320XT7PUHBI01FM.html?ref=rss">
+ <title>故意にイエロー　豪州で起訴の檀崎被告、自身でも賭博か　裁判所出頭</title>
+ <link>https://www.asahi.com/articles/AST7P320XT7PUHBI01FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-21T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7N4H4HT7NUTQP00CM.html?ref=rss">
+ <title>小川智大、リベロ争いで「負けないように」　バレー男子、米国に快勝</title>
+ <link>https://www.asahi.com/articles/AST7N4H4HT7NUTQP00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-07-21T07:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
