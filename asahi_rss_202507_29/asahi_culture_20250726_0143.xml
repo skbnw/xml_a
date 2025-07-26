@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-07-26T10:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-07-26T10:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7T3WG2T7TUCVL02VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7T15FFT7TOXIE039M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7T1RNKT7TPJLB00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7T1QFFT7TUCVL006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7S7VYBT7SUCVL01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7S433HT7SUQIP012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7S423TT7SUCVL020M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST7S1CZTT7SPOMB003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST7T3WG2T7TUCVL02VM.html?ref=rss">
+ <title>ホラーマンガ家の伊藤潤二さんが米国のアイズナー賞で殿堂入り</title>
+ <link>https://www.asahi.com/articles/AST7T3WG2T7TUCVL02VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-26T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7T15FFT7TOXIE039M.html?ref=rss">
+ <title>大阪の夏の風物詩「天神祭」本宮迎える　奉納花火も夜空を彩る</title>
+ <link>https://www.asahi.com/articles/AST7T15FFT7TOXIE039M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-25T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7T1RNKT7TPJLB00XM.html?ref=rss">
+ <title>笠形の「木の埴輪」金沢で出土、前方後方墳で国内初　起源探る資料に</title>
+ <link>https://www.asahi.com/articles/AST7T1RNKT7TPJLB00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-25T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7T1QFFT7TUCVL006M.html?ref=rss">
+ <title>フジロックフェス、今年も開幕　「おとぼけビ～バ～」など熱演</title>
+ <link>https://www.asahi.com/articles/AST7T1QFFT7TUCVL006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-25T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7S7VYBT7SUCVL01NM.html?ref=rss">
+ <title>浜田青陵賞に島根大・岩本崇さん　鏡を研究、高精度な古墳編年を整備</title>
+ <link>https://www.asahi.com/articles/AST7S7VYBT7SUCVL01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-25T14:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7S433HT7SUQIP012M.html?ref=rss">
+ <title>「トラック野郎」からアートに　大谷石採石場跡地にデコトラ集結</title>
+ <link>https://www.asahi.com/articles/AST7S433HT7SUQIP012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-25T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7S423TT7SUCVL020M.html?ref=rss">
+ <title>芝野虎丸十段が挑戦権、一力遼名人とリターンマッチへ　囲碁名人戦</title>
+ <link>https://www.asahi.com/articles/AST7S423TT7SUCVL020M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-24T21:25:49+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST7S1CZTT7SPOMB003M.html?ref=rss">
+ <title>平城京の正面玄関付近に未知の古代寺院跡？　奈良時代の瓦敷きが出土</title>
+ <link>https://www.asahi.com/articles/AST7S1CZTT7SPOMB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-07-24T17:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
