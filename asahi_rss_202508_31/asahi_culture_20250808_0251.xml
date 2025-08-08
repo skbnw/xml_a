@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-08-08T10:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-08-08T10:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST862Q6RT86UCVL01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST874Q04T87UCVL020M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST872SCWT87UQIP058M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8713HJT87PQIP045M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST862H04T86UCVL00TM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST862Q6RT86UCVL01XM.html?ref=rss">
+ <title>声優の植田佳奈さん「まさか咲が現実に…」　高校麻雀、日本一決定へ</title>
+ <link>https://www.asahi.com/articles/AST862Q6RT86UCVL01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-08T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST874Q04T87UCVL020M.html?ref=rss">
+ <title>佐々木勇気八段が2期連続挑戦　再び藤井聡太竜王との七番勝負へ</title>
+ <link>https://www.asahi.com/articles/AST874Q04T87UCVL020M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-07T23:22:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST872SCWT87UQIP058M.html?ref=rss">
+ <title>【写真まとめ】全国高校麻雀選手権大会　24チームでの本選が始まる</title>
+ <link>https://www.asahi.com/articles/AST872SCWT87UQIP058M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-07T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8713HJT87PQIP045M.html?ref=rss">
+ <title>首里城火災から6年、よみがえった朱色の輝き　正殿の外観工事が終了</title>
+ <link>https://www.asahi.com/articles/AST8713HJT87PQIP045M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-07T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST862H04T86UCVL00TM.html?ref=rss">
+ <title>芥川賞と直木賞、実は2割弱が受賞なし　「お祭り」生んだ第128回</title>
+ <link>https://www.asahi.com/articles/AST862H04T86UCVL00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-07T15:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
