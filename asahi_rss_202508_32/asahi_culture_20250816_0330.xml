@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-08-16T12:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-08-16T12:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8J0NVNT8JUCVL003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8H3C1TT8HOXIE00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8H21Y4T8HUCVL00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8F220LT8FOXIE01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8F0RKRT8FTNLL003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST8J0NVNT8JUCVL003M.html?ref=rss">
+ <title>サマーソニック今年も開幕　17日まで、アリシア・キーズら出演</title>
+ <link>https://www.asahi.com/articles/AST8J0NVNT8JUCVL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-16T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8H3C1TT8HOXIE00HM.html?ref=rss">
+ <title>「ナスカの地上絵」のハチドリなど描いた文化財、万博ペルー館で公開</title>
+ <link>https://www.asahi.com/articles/AST8H3C1TT8HOXIE00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-16T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8H21Y4T8HUCVL00JM.html?ref=rss">
+ <title>週刊新潮のコラム巡り、新潮社が回答　「批判を受ける事態」謝罪</title>
+ <link>https://www.asahi.com/articles/AST8H21Y4T8HUCVL00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-15T15:55:06+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8F220LT8FOXIE01SM.html?ref=rss">
+ <title>旧中野刑務所の正門、区が壊さずに移動　大杉栄や小林多喜二ら収監</title>
+ <link>https://www.asahi.com/articles/AST8F220LT8FOXIE01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-15T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8F0RKRT8FTNLL003M.html?ref=rss">
+ <title>20代女性がんサバイバー　国内最大級コミケに出展して伝えたいこと</title>
+ <link>https://www.asahi.com/articles/AST8F0RKRT8FTNLL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-14T15:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
