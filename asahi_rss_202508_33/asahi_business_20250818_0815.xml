@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「ビジネスニュース、経済、産業、金融、財政、為替、株価など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-08-18T16:43:47+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-08-18T16:43:47+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8L2FG6T8LULFA003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8L25GVT8LULFA002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8L1ST1T8LULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8K3QFTT8KUDCB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8D3DNRT8DUTIL006M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST8L2FG6T8LULFA003M.html?ref=rss">
+ <title>日経平均4万3714円、2日連続の史上最高値　米国の利下げに期待</title>
+ <link>https://www.asahi.com/articles/AST8L2FG6T8LULFA003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-08-18T16:43:47+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8L25GVT8LULFA002M.html?ref=rss">
+ <title>鉄鋼5団体、迂回防ぐ法制度を政府に要望　大量輸出の中国を念頭に</title>
+ <link>https://www.asahi.com/articles/AST8L25GVT8LULFA002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-08-18T16:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8L1ST1T8LULFA004M.html?ref=rss">
+ <title>セブン銀と伊藤忠、資本業務提携の協議開始　コンビニATMが念頭か</title>
+ <link>https://www.asahi.com/articles/AST8L1ST1T8LULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-08-18T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8K3QFTT8KUDCB001M.html?ref=rss">
+ <title>機内でガチャ！「日本の夏の思い出に」　エアージャパン、CAが提案</title>
+ <link>https://www.asahi.com/articles/AST8K3QFTT8KUDCB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-08-18T10:35:19+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8D3DNRT8DUTIL006M.html?ref=rss">
+ <title>マンションの資産運用　証券会社への相談急増　修繕積立金の運用先は</title>
+ <link>https://www.asahi.com/articles/AST8D3DNRT8DUTIL006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-08-17T08:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
