@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-08-24T21:32:51+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-08-24T21:32:51+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8S4222T8SUTFK00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8S25GGT8SUTFK006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8R320MT8RUTFK003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8R2HKQT8RUTFK00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8Q24VGT8QPIHB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8Q320RT8QUTFK018M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST8S4222T8SUTFK00CM.html?ref=rss">
+ <title>石破首相、小泉元首相らを招き会食　政権運営や首脳外交など意見交換</title>
+ <link>https://www.asahi.com/articles/AST8S4222T8SUTFK00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-08-24T21:32:51+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8S25GGT8SUTFK006M.html?ref=rss">
+ <title>日韓議連や野党が李大統領と会談　菅氏「草の根交流から盛り上げる」</title>
+ <link>https://www.asahi.com/articles/AST8S25GGT8SUTFK006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-08-24T16:44:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8R320MT8RUTFK003M.html?ref=rss">
+ <title>多党化時代の到来で問われる政党政治　分断ではなく「納得と共感」を</title>
+ <link>https://www.asahi.com/articles/AST8R320MT8RUTFK003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-08-24T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8R2HKQT8RUTFK00DM.html?ref=rss">
+ <title>石破首相が英海軍空母に乗艦　自衛隊が英艦艇の防護も</title>
+ <link>https://www.asahi.com/articles/AST8R2HKQT8RUTFK00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-08-23T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8Q24VGT8QPIHB008M.html?ref=rss">
+ <title>兵庫県の告発問題、なぜ長期化？　「知事は分断収めるメッセージを」</title>
+ <link>https://www.asahi.com/articles/AST8Q24VGT8QPIHB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-08-23T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8Q320RT8QUTFK018M.html?ref=rss">
+ <title>日豪防衛相会談、9月5日東京開催で調整　護衛艦輸出に向け連携確認</title>
+ <link>https://www.asahi.com/articles/AST8Q320RT8QUTFK018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-08-23T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
