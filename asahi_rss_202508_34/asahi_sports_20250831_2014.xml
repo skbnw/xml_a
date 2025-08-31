@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-08-31T08:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-08-31T08:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8Z4J2GT8ZUTQP037M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8Z327BT8ZPTQP00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8Y0CHNT8YUTIL004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8Y4T0NT8YUTQP02BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8Y4VP6T8YUTQP006M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST8Z4J2GT8ZUTQP037M.html?ref=rss">
+ <title>戦後最年少で代表主将務めたディアンズ　反則多い初戦で手応えと課題</title>
+ <link>https://www.asahi.com/articles/AST8Z4J2GT8ZUTQP037M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-08-31T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8Z327BT8ZPTQP00KM.html?ref=rss">
+ <title>広陵が新チーム初戦で勝利　「選手たちは一生懸命試合に臨んだ」</title>
+ <link>https://www.asahi.com/articles/AST8Z327BT8ZPTQP00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-08-30T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8Y0CHNT8YUTIL004M.html?ref=rss">
+ <title>小児がんの治療、乗り越えてみせた笑顔　神宮球場で始球式に登板</title>
+ <link>https://www.asahi.com/articles/AST8Y0CHNT8YUTIL004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-08-30T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8Y4T0NT8YUTQP02BM.html?ref=rss">
+ <title>村竹ラシッドが最高峰の舞台で見つけた課題　「克服したら速くなる」</title>
+ <link>https://www.asahi.com/articles/AST8Y4T0NT8YUTQP02BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-08-30T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8Y4VP6T8YUTQP006M.html?ref=rss">
+ <title>「怖かった」　北口榛花が語ったリハビリの日々　復活への「自信」</title>
+ <link>https://www.asahi.com/articles/AST8Y4VP6T8YUTQP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-08-30T07:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
