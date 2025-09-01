@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-09-01T16:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-09-01T16:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST91116MT91UCVL01DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST801RW5T80PQIP00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8X0CZHT8XUOOB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8X410RT8XUBUB003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST91116MT91UCVL01DM.html?ref=rss">
+ <title>高校2年の木村女流初段、三間飛車で頂点に　将棋・関西女流新鋭戦</title>
+ <link>https://www.asahi.com/articles/AST91116MT91UCVL01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-01T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST801RW5T80PQIP00DM.html?ref=rss">
+ <title>京都で「祇園をどり」の秋支度　華やか衣装の芸舞妓、舞台写真を撮影</title>
+ <link>https://www.asahi.com/articles/AST801RW5T80PQIP00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-31T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8X0CZHT8XUOOB001M.html?ref=rss">
+ <title>北杜夫、酒井美紀、土屋太鳳……　時代を超えて若者見守るヒマラヤ杉</title>
+ <link>https://www.asahi.com/articles/AST8X0CZHT8XUOOB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-31T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8X410RT8XUBUB003M.html?ref=rss">
+ <title>日本一の花火師を決める最高峰「大曲の花火」　10万人の観客を魅了</title>
+ <link>https://www.asahi.com/articles/AST8X410RT8XUBUB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-08-30T21:52:03+09:00</dc:date>
+</item>
+</rdf:RDF>
