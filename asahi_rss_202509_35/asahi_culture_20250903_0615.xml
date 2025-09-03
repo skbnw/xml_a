@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-09-03T15:09:55+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-09-03T15:09:55+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST922J7VT92UCVL017M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST9136L7T91ONFB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST923D9RT92UPQJ00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST8N2TJJT8NOXIE01QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST91116MT91UCVL01DM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST922J7VT92UCVL017M.html?ref=rss">
+ <title>【速報中】一力名人の大石生還、延長戦へ　芝野挑戦者にも実利</title>
+ <link>https://www.asahi.com/articles/AST922J7VT92UCVL017M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-03T15:09:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST9136L7T91ONFB002M.html?ref=rss">
+ <title>チヌ釣りに魅了され…ユーチューバーちぬ子さん、伊勢志摩の魅力発信</title>
+ <link>https://www.asahi.com/articles/AST9136L7T91ONFB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-03T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST923D9RT92UPQJ00GM.html?ref=rss">
+ <title>野田秀樹さんが向き合った戦後、感じる・信じるが直結する現代の危機</title>
+ <link>https://www.asahi.com/articles/AST923D9RT92UPQJ00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-03T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST8N2TJJT8NOXIE01QM.html?ref=rss">
+ <title>大阪万博のパビリオンは今どこに？　集会所や駐屯地で活躍、海外にも</title>
+ <link>https://www.asahi.com/articles/AST8N2TJJT8NOXIE01QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-02T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST91116MT91UCVL01DM.html?ref=rss">
+ <title>高校2年の木村女流初段、三間飛車で頂点に　将棋・関西女流新鋭戦</title>
+ <link>https://www.asahi.com/articles/AST91116MT91UCVL01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-01T16:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
