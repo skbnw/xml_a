@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-09-08T16:23:40+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-09-08T16:23:40+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST9825KCT98ULOB00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST980VGRT98OIPE01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST921BRGT92POMB00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST950HY7T95UTIL026M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST951FH7T95UTIL01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST950SS7T95UTIL01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST964Q85T96UCVL01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/AST962S97T96UCVL01DM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/AST9825KCT98ULOB00VM.html?ref=rss">
+ <title>「LUNA SEA」真矢さん脳腫瘍を公表　20年には大腸がん発覚</title>
+ <link>https://www.asahi.com/articles/AST9825KCT98ULOB00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-08T16:23:40+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST980VGRT98OIPE01CM.html?ref=rss">
+ <title>「あいち国際女性映画祭」名古屋で開催へ　会期拡大し、42作品上映</title>
+ <link>https://www.asahi.com/articles/AST980VGRT98OIPE01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-08T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST921BRGT92POMB00NM.html?ref=rss">
+ <title>過去に「陰謀団」盗掘も　天皇陵古墳の副葬品、世に出た時は記録され</title>
+ <link>https://www.asahi.com/articles/AST921BRGT92POMB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-07T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST950HY7T95UTIL026M.html?ref=rss">
+ <title>旧ジャニーズ、性加害認め2年　補償で相次ぐ訴訟「『救済』に齟齬」</title>
+ <link>https://www.asahi.com/articles/AST950HY7T95UTIL026M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-07T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST951FH7T95UTIL01JM.html?ref=rss">
+ <title>「被告」として法廷に立つ違和感　旧ジャニーズ被害者が抱える負担</title>
+ <link>https://www.asahi.com/articles/AST951FH7T95UTIL01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-07T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST950SS7T95UTIL01RM.html?ref=rss">
+ <title>再び「沈黙」するのか　旧ジャニーズの性加害問題、記者が考えた2年</title>
+ <link>https://www.asahi.com/articles/AST950SS7T95UTIL01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-07T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST964Q85T96UCVL01LM.html?ref=rss">
+ <title>藤元明緒監督「ロストランド」が審査員賞　ベネチア映画祭第2コンペ</title>
+ <link>https://www.asahi.com/articles/AST964Q85T96UCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-07T03:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/AST962S97T96UCVL01DM.html?ref=rss">
+ <title>史上初のプロ棋士4人同時誕生　「勝ちたい」「一局一局」喜びと抱負</title>
+ <link>https://www.asahi.com/articles/AST962S97T96UCVL01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-09-06T21:22:01+09:00</dc:date>
+</item>
+</rdf:RDF>
