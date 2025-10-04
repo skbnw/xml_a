@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-10-04T11:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-10-04T11:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTB32T38TB3UTQP01FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTB27X6BTB2UTQP02VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTB33S38TB3ULFA029M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTB223ZJTB2UTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTB17WG6TB1UTQP004M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTB32T38TB3UTQP01FM.html?ref=rss">
+ <title>スタンフォード大卒のBリーガー　支えられてやり切った文武両道</title>
+ <link>https://www.asahi.com/articles/ASTB32T38TB3UTQP01FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-10-04T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTB27X6BTB2UTQP02VM.html?ref=rss">
+ <title>サッカークラブを一緒に作ろう　経営・運営に参加できるチームの軌跡</title>
+ <link>https://www.asahi.com/articles/ASTB27X6BTB2UTQP02VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-10-04T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTB33S38TB3ULFA029M.html?ref=rss">
+ <title>日産、横浜マリノスの経営権維持の方向「筆頭株主であり続ける」</title>
+ <link>https://www.asahi.com/articles/ASTB33S38TB3ULFA029M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-10-03T20:33:19+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTB223ZJTB2UTQP002M.html?ref=rss">
+ <title>ドジャース佐々木朗希が見つけた居場所　大歓声に応える圧巻の11球</title>
+ <link>https://www.asahi.com/articles/ASTB223ZJTB2UTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-10-02T16:00:03+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTB17WG6TB1UTQP004M.html?ref=rss">
+ <title>ドジャースが連勝で地区S進出　先発山本が力投、佐々木が九回締める</title>
+ <link>https://www.asahi.com/articles/ASTB17WG6TB1UTQP004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-10-02T13:19:09+09:00</dc:date>
+</item>
+</rdf:RDF>
