@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-10-12T07:15:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-10-12T07:15:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBC2JP8TBCUCVL05KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTB92SMNTB9UOOB00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBB3673TBBPQIP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBB1QDGTBBUCVL00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBB1HJ4TBBPQIP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTB935CWTB9UCVL02FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBB0P81TBBOXIE03BM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTBC2JP8TBCUCVL05KM.html?ref=rss">
+ <title>ノーベル賞を生む翻訳の力「英語は巨大なハブ空港」　鴻巣×辛島対談</title>
+ <link>https://www.asahi.com/articles/ASTBC2JP8TBCUCVL05KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-12T07:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTB92SMNTB9UOOB00FM.html?ref=rss">
+ <title>「学校に出たくない」と記した辻邦生　学生時代に没頭したこととは？</title>
+ <link>https://www.asahi.com/articles/ASTB92SMNTB9UOOB00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-11T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBB3673TBBPQIP002M.html?ref=rss">
+ <title>佳子さま「きれいな色」 日本伝統工芸展の京都展を鑑賞</title>
+ <link>https://www.asahi.com/articles/ASTBB3673TBBPQIP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-10T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBB1QDGTBBUCVL00GM.html?ref=rss">
+ <title>ノーベル文学賞、唯一の邦訳は品切れ　「ほかの出版社を頼ってでも」</title>
+ <link>https://www.asahi.com/articles/ASTBB1QDGTBBUCVL00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-10T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBB1HJ4TBBPQIP001M.html?ref=rss">
+ <title>佳子さま　日本伝統工芸展の京都展を鑑賞　人間国宝の作品も熱心に</title>
+ <link>https://www.asahi.com/articles/ASTBB1HJ4TBBPQIP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-10T14:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTB935CWTB9UCVL02FM.html?ref=rss">
+ <title>「7時間待ち」万博イタリア館の至宝　閉幕後に大阪の美術館で展示へ</title>
+ <link>https://www.asahi.com/articles/ASTB935CWTB9UCVL02FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-10T13:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBB0P81TBBOXIE03BM.html?ref=rss">
+ <title>漫画家の江口寿史氏、SNS写真を無断でイラスト化　公開中止相次ぐ</title>
+ <link>https://www.asahi.com/articles/ASTBB0P81TBBOXIE03BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-10T12:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
