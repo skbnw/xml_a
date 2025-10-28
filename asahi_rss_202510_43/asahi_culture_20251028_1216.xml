@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-10-28T20:38:46+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-10-28T20:38:46+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBX3HJKTBXUCVL05NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBX3H22TBXUCVL02VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBX3FKQTBXPOMB00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBW3497TBWUCVL00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBW2FKYTBWPQIP006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBW2RSVTBWUCVL02GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBW2DMQTBWUCVL00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTBV3T0XTBVOXIE01YM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTBX3HJKTBXUCVL05NM.html?ref=rss">
+ <title>藤井聡太七冠、王座戦で伊藤匠叡王に敗れる　伊藤叡王は初の二冠に</title>
+ <link>https://www.asahi.com/articles/ASTBX3HJKTBXUCVL05NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-28T20:38:46+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBX3H22TBXUCVL02VM.html?ref=rss">
+ <title>囲碁棋士の経費削減を検討　日本棋院「現状だと資金の確保困難に」</title>
+ <link>https://www.asahi.com/articles/ASTBX3H22TBXUCVL02VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-28T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBX3FKQTBXPOMB00JM.html?ref=rss">
+ <title>宇佐に「里帰り」果たし奈良へお戻り　手向山八幡宮で「御鳳輦」公開</title>
+ <link>https://www.asahi.com/articles/ASTBX3FKQTBXPOMB00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-28T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBW3497TBWUCVL00YM.html?ref=rss">
+ <title>吉永小百合さん、東京国際映画祭で特別功労賞「映画の道これからも」</title>
+ <link>https://www.asahi.com/articles/ASTBW3497TBWUCVL00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-27T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBW2FKYTBWPQIP006M.html?ref=rss">
+ <title>姿を現した朱色の正殿　焼失から6年、ドローンで見た首里城</title>
+ <link>https://www.asahi.com/articles/ASTBW2FKYTBWPQIP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-27T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBW2RSVTBWUCVL02GM.html?ref=rss">
+ <title>国分太一さんへの聴取は「問題なく、適正」　日テレ社長が会見で主張</title>
+ <link>https://www.asahi.com/articles/ASTBW2RSVTBWUCVL02GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-27T17:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBW2DMQTBWUCVL00JM.html?ref=rss">
+ <title>服部慎一郎七段3度目の優勝　将棋新人王戦、矢倉の熱戦制す</title>
+ <link>https://www.asahi.com/articles/ASTBW2DMQTBWUCVL00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-27T16:50:48+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTBV3T0XTBVOXIE01YM.html?ref=rss">
+ <title>人間を育てる合唱の力に思い深く　合唱コンクール中学生部門を聴いて</title>
+ <link>https://www.asahi.com/articles/ASTBV3T0XTBVOXIE01YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-10-26T21:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
