@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-11-06T15:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-11-06T15:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC61HDXTC6UTQP00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC61G87TC6OXIE00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC61H3TTC6UTQP005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC60654TC6PTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC27R68TC2UTQP00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTB0212KTB0UPQJ003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC42VSYTC4UTQP005M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTC61HDXTC6UTQP00QM.html?ref=rss">
+ <title>クマ出没で高校駅伝「たすき」なし　スポーツ大会で相次ぐ中止や変更</title>
+ <link>https://www.asahi.com/articles/ASTC61HDXTC6UTQP00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-06T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC61G87TC6OXIE00FM.html?ref=rss">
+ <title>興国高サッカー部員数人が飲酒で停学処分　全国選手権出場は今後判断</title>
+ <link>https://www.asahi.com/articles/ASTC61G87TC6OXIE00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-06T14:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC61H3TTC6UTQP005M.html?ref=rss">
+ <title>サッカー日本代表、W杯ユニホームお披露目　コンセプトは「水平線」</title>
+ <link>https://www.asahi.com/articles/ASTC61H3TTC6UTQP005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-06T14:00:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC60654TC6PTQP002M.html?ref=rss">
+ <title>新人王を争う日本選手たち　米女子ゴルフツアー　きょうから日本開催</title>
+ <link>https://www.asahi.com/articles/ASTC60654TC6PTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-06T12:02:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC27R68TC2UTQP00MM.html?ref=rss">
+ <title>「推しファン」は阪神が断トツ、信者割合は？　12球団ブランド分析</title>
+ <link>https://www.asahi.com/articles/ASTC27R68TC2UTQP00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-06T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTB0212KTB0UPQJ003M.html?ref=rss">
+ <title>サッカー代表は｢地上波中継ないと弱くなる｣　協会名誉会長の危機感</title>
+ <link>https://www.asahi.com/articles/ASTB0212KTB0UPQJ003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-05T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC42VSYTC4UTQP005M.html?ref=rss">
+ <title>マリノス中山社長「断腸の思い」　西野SDが退任、今後の強化体制は</title>
+ <link>https://www.asahi.com/articles/ASTC42VSYTC4UTQP005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-04T18:39:26+09:00</dc:date>
+</item>
+</rdf:RDF>
