@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-11-08T20:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-11-08T20:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC833HJTC8UQIP02YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC82D47TC8UCVL00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC72BW7TC7UCVL025M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC70GP8TC7PLZB00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTC61F7MTC6UCVL007M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTC833HJTC8UQIP02YM.html?ref=rss">
+ <title>映画より怖い？　大江戸線の駅がリアル「8番出口」の聖地に</title>
+ <link>https://www.asahi.com/articles/ASTC833HJTC8UQIP02YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-08T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC82D47TC8UCVL00CM.html?ref=rss">
+ <title>「ゴジュウジャー」出演の俳優、未成年飲酒で降板　テレ朝など発表</title>
+ <link>https://www.asahi.com/articles/ASTC82D47TC8UCVL00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-08T16:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC72BW7TC7UCVL025M.html?ref=rss">
+ <title>NHK幹部、民放幹部らを前に「おわび」　中継局共同利用の見直しで</title>
+ <link>https://www.asahi.com/articles/ASTC72BW7TC7UCVL025M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-07T16:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC70GP8TC7PLZB00JM.html?ref=rss">
+ <title>大入り願い「まねき書き」　京都・南座の顔見世興行を前に役者の名前</title>
+ <link>https://www.asahi.com/articles/ASTC70GP8TC7PLZB00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-07T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTC61F7MTC6UCVL007M.html?ref=rss">
+ <title>ドリス・ヴァン・ノッテンの後継者クロスナー　師との健全な距離とは</title>
+ <link>https://www.asahi.com/articles/ASTC61F7MTC6UCVL007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-07T07:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
