@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-11-13T14:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-11-13T14:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCD1DDGTCDUTIL027M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCF0CKBTCFUTQP027M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCD266NTCDUTQP01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCD21B3TCDUTQP00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCD1GHWTCDUNHB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCD0HHSTCDUTQP00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCC430CTCCPTQP007M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTCD1DDGTCDUTIL027M.html?ref=rss">
+ <title>手話の動作を瞬時に文字化　デフリンピックで新技術の開発・普及進む</title>
+ <link>https://www.asahi.com/articles/ASTCD1DDGTCDUTIL027M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-13T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCF0CKBTCFUTQP027M.html?ref=rss">
+ <title>山本由伸、日本選手初のサイ・ヤング賞はならず　選考対象は9月まで</title>
+ <link>https://www.asahi.com/articles/ASTCF0CKBTCFUTQP027M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-13T11:15:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCD266NTCDUTQP01HM.html?ref=rss">
+ <title>阪神から7人、パの遊撃手は5票差で紅林　三井ゴールデン・グラブ賞</title>
+ <link>https://www.asahi.com/articles/ASTCD266NTCDUTQP01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-12T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCD21B3TCDUTQP00ZM.html?ref=rss">
+ <title>「本来はオフサイド」PK判定でミス　10月のJ1横浜マ―浦和戦</title>
+ <link>https://www.asahi.com/articles/ASTCD21B3TCDUTQP00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-12T16:02:44+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCD1GHWTCDUNHB002M.html?ref=rss">
+ <title>仙台育英、全国サッカー選手権の出場辞退　部内でいじめあったと判断</title>
+ <link>https://www.asahi.com/articles/ASTCD1GHWTCDUNHB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-12T14:02:30+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCD0HHSTCDUTQP00CM.html?ref=rss">
+ <title>J1名古屋の長谷川健太監督が退任へ　昨季はタイトル獲得も今季低迷</title>
+ <link>https://www.asahi.com/articles/ASTCD0HHSTCDUTQP00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-12T10:56:37+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCC430CTCCPTQP007M.html?ref=rss">
+ <title>阪神・近本光司が残留　国内FA権を行使せず、複数年契約を結ぶ</title>
+ <link>https://www.asahi.com/articles/ASTCC430CTCCPTQP007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-11-11T21:30:03+09:00</dc:date>
+</item>
+</rdf:RDF>
