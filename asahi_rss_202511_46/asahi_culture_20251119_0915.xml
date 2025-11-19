@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-11-19T17:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-11-19T17:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCM2DMTTCMUCVL00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCM0RN9TCMUHBI00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCL2J9LTCLUCVL01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCK2VLNTCKUCVL03PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCK3C5GTCKOXIE03MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCK3F2WTCKUWPJ00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCK34JHTCKUCVL04JM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTCM2DMTTCMUCVL00XM.html?ref=rss">
+ <title>東大寺講堂、基壇は東西61メートルと判明　平城宮大極殿を上回る</title>
+ <link>https://www.asahi.com/articles/ASTCM2DMTTCMUCVL00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-19T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCM0RN9TCMUHBI00SM.html?ref=rss">
+ <title>クリムト作の肖像画、367億円で落札　絵画では史上2番目の落札額</title>
+ <link>https://www.asahi.com/articles/ASTCM0RN9TCMUHBI00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-19T11:35:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCL2J9LTCLUCVL01XM.html?ref=rss">
+ <title>NHK、受信料督促「26年度は20倍に」　対策センター新設を発表</title>
+ <link>https://www.asahi.com/articles/ASTCL2J9LTCLUCVL01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-18T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCK2VLNTCKUCVL03PM.html?ref=rss">
+ <title>LVMHプライズの覇者ソウシオオツキ、次回ピッティで海外初ショー</title>
+ <link>https://www.asahi.com/articles/ASTCK2VLNTCKUCVL03PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-18T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCK3C5GTCKOXIE03MM.html?ref=rss">
+ <title>「高槻は将棋に集中できます」棋士が駅アナウンス、将棋のまちをPR</title>
+ <link>https://www.asahi.com/articles/ASTCK3C5GTCKOXIE03MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-17T21:17:48+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCK3F2WTCKUWPJ00CM.html?ref=rss">
+ <title>つかこうへいさんの思い今に　「広島に原爆を落とす日」弟子が上演</title>
+ <link>https://www.asahi.com/articles/ASTCK3F2WTCKUWPJ00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-17T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCK34JHTCKUCVL04JM.html?ref=rss">
+ <title>永瀬拓矢九段、藤井聡太王将に挑戦　「伊藤さんを見習いたい」</title>
+ <link>https://www.asahi.com/articles/ASTCK34JHTCKUCVL04JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-17T18:44:31+09:00</dc:date>
+</item>
+</rdf:RDF>
