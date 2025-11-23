@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「ビジネスニュース、経済、産業、金融、財政、為替、株価など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-11-24T08:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-11-24T08:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCM24VRTCMULFA00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCP355TTCPULZU001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCP7H95TCPUTIL045M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCP7HCJTCPUTIL040M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCP2RZ2TCPPLFA002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCP1QD0TCPUTFL01PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCQ2G6CTCQUHBI019M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCN0GT5TCNULFA00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCP30XDTCPULFA003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTCM24VRTCMULFA00KM.html?ref=rss">
+ <title>三菱商事が参画するカナダLNG　政府も「たいへん期待」する理由は</title>
+ <link>https://www.asahi.com/articles/ASTCM24VRTCMULFA00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-24T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCP355TTCPULZU001M.html?ref=rss">
+ <title>米中「関税戦争」の源流に「国家の恥辱」あの戦争の歴史</title>
+ <link>https://www.asahi.com/articles/ASTCP355TTCPULZU001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-24T07:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCP7H95TCPUTIL045M.html?ref=rss">
+ <title>「鰻の成瀬」社長が語るウナギ取引規制　「時期尚早」と反対する理由</title>
+ <link>https://www.asahi.com/articles/ASTCP7H95TCPUTIL045M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-24T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCP7HCJTCPUTIL040M.html?ref=rss">
+ <title>ウナギ取引規制で国際会議　賛成「3分の2以上」で採択、日本は反対</title>
+ <link>https://www.asahi.com/articles/ASTCP7HCJTCPUTIL040M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-24T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCP2RZ2TCPPLFA002M.html?ref=rss">
+ <title>万博の海外パビリオンの家具や建材　うまく再利用してくれる人求む！</title>
+ <link>https://www.asahi.com/articles/ASTCP2RZ2TCPPLFA002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-23T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCP1QD0TCPUTFL01PM.html?ref=rss">
+ <title>子ども・子育て支援金、来年度から徴収　負担どのくらい?</title>
+ <link>https://www.asahi.com/articles/ASTCP1QD0TCPUTFL01PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-23T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCQ2G6CTCQUHBI019M.html?ref=rss">
+ <title>「エコカーの祭典」米ロス自動車ショーに異変　AI新興企業が台頭</title>
+ <link>https://www.asahi.com/articles/ASTCQ2G6CTCQUHBI019M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-22T17:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCN0GT5TCNULFA00XM.html?ref=rss">
+ <title>鶏卵、マレーシアから輸入　鳥インフルの価格高騰で　液卵大手イフジ</title>
+ <link>https://www.asahi.com/articles/ASTCN0GT5TCNULFA00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-22T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCP30XDTCPULFA003M.html?ref=rss">
+ <title>「ブラックフライデー」10年で浸透　距離置く「グリーン」催しも</title>
+ <link>https://www.asahi.com/articles/ASTCP30XDTCPULFA003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2025-11-22T09:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
