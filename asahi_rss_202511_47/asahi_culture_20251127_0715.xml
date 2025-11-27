@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-11-27T10:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-11-27T10:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCV11XNTCVUCVL013M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCV2RG1TCVUCVL06NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCV24VTTCVUCVL01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCV1H6STCVUCVL00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCV064MTCVUCVL003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCT0GH7TCTUCVL025M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCT2H0MTCTUCVL00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCT2DBMTCTUCVL02FM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTCV11XNTCVUCVL013M.html?ref=rss">
+ <title>地球の歩き方「ハプスブルク帝国」が異例重版　推し絶賛「泣きそう」</title>
+ <link>https://www.asahi.com/articles/ASTCV11XNTCVUCVL013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-27T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCV2RG1TCVUCVL06NM.html?ref=rss">
+ <title>Sora2に民放連が懸念表明　アニメを学習した動画「著作権侵害」</title>
+ <link>https://www.asahi.com/articles/ASTCV2RG1TCVUCVL06NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-26T17:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCV24VTTCVUCVL01HM.html?ref=rss">
+ <title>羽生善治九段が史上初の通算1600勝　55歳で達成、連勝で決める</title>
+ <link>https://www.asahi.com/articles/ASTCV24VTTCVUCVL01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-26T15:46:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCV1H6STCVUCVL00NM.html?ref=rss">
+ <title>国分太一さんが会見で謝罪　コンプラ違反「答えあわせできていない」</title>
+ <link>https://www.asahi.com/articles/ASTCV1H6STCVUCVL00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-26T15:10:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCV064MTCVUCVL003M.html?ref=rss">
+ <title>京都に師走告げる「まねき上げ」　南座で尾上菊五郎さん親子襲名披露</title>
+ <link>https://www.asahi.com/articles/ASTCV064MTCVUCVL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-26T10:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCT0GH7TCTUCVL025M.html?ref=rss">
+ <title>宮崎あおいの「私もエスパー」　満面の笑顔に、大泉洋がツッコミ</title>
+ <link>https://www.asahi.com/articles/ASTCT0GH7TCTUCVL025M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-25T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCT2H0MTCTUCVL00NM.html?ref=rss">
+ <title>息子の同性愛、どう受け入れる？　苦悩する母を描く舞台　ネット配信</title>
+ <link>https://www.asahi.com/articles/ASTCT2H0MTCTUCVL00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-25T17:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCT2DBMTCTUCVL02FM.html?ref=rss">
+ <title>戦隊シリーズの復活「可能性はあるが…」　テレ朝社長が会見で言及</title>
+ <link>https://www.asahi.com/articles/ASTCT2DBMTCTUCVL02FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-25T16:50:00+09:00</dc:date>
+</item>
+</rdf:RDF>
