@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-12-01T20:40:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-12-01T20:40:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD13JP5TD1UCVL054M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD12DVVTD1UCVL02MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCX1PNWTCXUCVL02YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCX1JLCTCXUCVL02VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCX4SJJTCXUCVL00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTCZ44C6TCZUCVL013M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTD13JP5TD1UCVL054M.html?ref=rss">
+ <title>TBSの情報番組でリポーターが骨折　番組収録中のけが、相次ぐ</title>
+ <link>https://www.asahi.com/articles/ASTD13JP5TD1UCVL054M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-01T20:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD12DVVTD1UCVL02MM.html?ref=rss">
+ <title>日テレ社長「答え合わせするまでもない」　国分太一さんの会見に見解</title>
+ <link>https://www.asahi.com/articles/ASTD12DVVTD1UCVL02MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-01T16:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCX1PNWTCXUCVL02YM.html?ref=rss">
+ <title>男性が豪語できる「ワーク・ライフ・バランス充実」　女性に偏る負担</title>
+ <link>https://www.asahi.com/articles/ASTCX1PNWTCXUCVL02YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-01T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCX1JLCTCXUCVL02VM.html?ref=rss">
+ <title>「ワーク・ライフ・バランス捨てる」高市氏の発言ですり替わった文脈</title>
+ <link>https://www.asahi.com/articles/ASTCX1JLCTCXUCVL02VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-01T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCX4SJJTCXUCVL00HM.html?ref=rss">
+ <title>今年のベストセラーは「大ピンチ」が席巻　文庫部門は「国宝」が三冠</title>
+ <link>https://www.asahi.com/articles/ASTCX4SJJTCXUCVL00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-01T04:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTCZ44C6TCZUCVL013M.html?ref=rss">
+ <title>株式会社TOKIO、年内でSTARTO社とエージェント契約終了へ</title>
+ <link>https://www.asahi.com/articles/ASTCZ44C6TCZUCVL013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-11-30T21:45:00+09:00</dc:date>
+</item>
+</rdf:RDF>
