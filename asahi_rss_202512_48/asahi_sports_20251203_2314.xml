@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-12-04T07:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-12-04T07:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD33VD8TD3UUHB006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD33R26TD3UQIP02TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD31FYYTD3UTQP01DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD22RYJTD2UJHB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD23JMHTD2UTQP01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD22G5ZTD2UTQP00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD22382TD2UTQP00PM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTD33VD8TD3UUHB006M.html?ref=rss">
+ <title>B1ブレックス、新アリーナ建設めぐり寄付求める　背景にある事情は</title>
+ <link>https://www.asahi.com/articles/ASTD33VD8TD3UUHB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-04T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD33R26TD3UQIP02TM.html?ref=rss">
+ <title>車の一時停止の3秒と「一緒」　りくりゅう、アメリカからの修正点</title>
+ <link>https://www.asahi.com/articles/ASTD33R26TD3UQIP02TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-03T21:19:06+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD31FYYTD3UTQP01DM.html?ref=rss">
+ <title>W杯、地上波確保も続く危惧　「サッカー界の投資も考えなければ」</title>
+ <link>https://www.asahi.com/articles/ASTD31FYYTD3UTQP01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-03T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD22RYJTD2UJHB003M.html?ref=rss">
+ <title>学生ボラから始めて20年　水戸ホーリーホックDJ、J1昇格に万感</title>
+ <link>https://www.asahi.com/articles/ASTD22RYJTD2UJHB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-03T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD23JMHTD2UTQP01CM.html?ref=rss">
+ <title>サッカーW杯、日本代表戦は地上波で放送へ　DAZNは全試合配信</title>
+ <link>https://www.asahi.com/articles/ASTD23JMHTD2UTQP01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-02T20:01:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD22G5ZTD2UTQP00MM.html?ref=rss">
+ <title>FA移籍で異例の退団会見　DeNA桑原将志「感謝の思い伝えたい」</title>
+ <link>https://www.asahi.com/articles/ASTD22G5ZTD2UTQP00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-02T16:51:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD22382TD2UTQP00PM.html?ref=rss">
+ <title>「請求書見て奥さんびっくり」　リーチ、リーグワン開幕前に気合</title>
+ <link>https://www.asahi.com/articles/ASTD22382TD2UTQP00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-02T16:03:18+09:00</dc:date>
+</item>
+</rdf:RDF>
