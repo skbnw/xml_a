@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-12-10T12:02:11+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-12-10T12:02:11+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDB0VSSTDBOXIE00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD934YGTD9ULOB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD93DJ1TD9UQIP06BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD901GRTD9UCVL01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD902DKTD9UCVL002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD87L3STD8UHBI002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD83QTWTD8UCVL04FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD82SGNTD8UTIL03FM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTDB0VSSTDBOXIE00QM.html?ref=rss">
+ <title>「第2子を持つのは無理と絶望的に」　将棋の福間香奈女流六冠が会見</title>
+ <link>https://www.asahi.com/articles/ASTDB0VSSTDBOXIE00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-10T12:02:11+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD934YGTD9ULOB003M.html?ref=rss">
+ <title>「スラダン踏切」にAIカメラ　過熱する聖地巡礼、迷惑車両など把握</title>
+ <link>https://www.asahi.com/articles/ASTD934YGTD9ULOB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-10T09:35:11+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD93DJ1TD9UQIP06BM.html?ref=rss">
+ <title>次期NHK会長が抱負「政治に忖度しない」　18年ぶりの内部出身者</title>
+ <link>https://www.asahi.com/articles/ASTD93DJ1TD9UQIP06BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-09T19:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD901GRTD9UCVL01LM.html?ref=rss">
+ <title>福間香奈女流六冠、将棋連盟に要望書提出「妊娠とタイトル戦両立を」</title>
+ <link>https://www.asahi.com/articles/ASTD901GRTD9UCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-09T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD902DKTD9UCVL002M.html?ref=rss">
+ <title>数々の女性初　将棋の福間香奈女流六冠、妊娠巡る規定見直し要望へ</title>
+ <link>https://www.asahi.com/articles/ASTD902DKTD9UCVL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-09T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD87L3STD8UHBI002M.html?ref=rss">
+ <title>ゴールデングローブ賞、「鬼滅の刃」がノミネート　アニメ映画賞候補</title>
+ <link>https://www.asahi.com/articles/ASTD87L3STD8UHBI002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-09T08:27:59+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD83QTWTD8UCVL04FM.html?ref=rss">
+ <title>許家元九段が白星スタート、本木克弥九段を破る　囲碁名人リーグ</title>
+ <link>https://www.asahi.com/articles/ASTD83QTWTD8UCVL04FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-08T20:21:31+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD82SGNTD8UTIL03FM.html?ref=rss">
+ <title>NHK新会長に井上樹彦副会長が就任へ　18年ぶりの内部出身者に</title>
+ <link>https://www.asahi.com/articles/ASTD82SGNTD8UTIL03FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-08T17:35:57+09:00</dc:date>
+</item>
+</rdf:RDF>
