@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-12-12T19:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-12-12T19:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDD2HYMTDDUCVL02GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDD231HTDDUBNB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDC2Q2TTDCDIFI00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDC1RMLTDCUCVL02YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDC4PQCTDCUCVL084M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDC3CT8TDCUCVL021M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD933D2TD9UCVL03VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD82HF3TD8UCVL049M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTD90CC2TD9PIHB018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDB2R89TDBUOOB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDB30YYTDBUCVL005M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTDD2HYMTDDUCVL02GM.html?ref=rss">
+ <title>「咲くやこの花賞」にアバンギャルディ、上田佳奈さんら　大阪市発表</title>
+ <link>https://www.asahi.com/articles/ASTDD2HYMTDDUCVL02GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-12T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDD231HTDDUBNB003M.html?ref=rss">
+ <title>地震で展示品が損傷、古代エジプト展が会期途中で中止　八戸市美術館</title>
+ <link>https://www.asahi.com/articles/ASTDD231HTDDUBNB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-12T16:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDC2Q2TTDCDIFI00GM.html?ref=rss">
+ <title>【解説人語】NHK新会長に井上樹彦氏　内部出身、政治との距離感は</title>
+ <link>https://www.asahi.com/articles/ASTDC2Q2TTDCDIFI00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-12T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDC1RMLTDCUCVL02YM.html?ref=rss">
+ <title>｢国宝に匹敵｣、古墳時代のよろいの一部か　龍の文様を透かし彫り</title>
+ <link>https://www.asahi.com/articles/ASTDC1RMLTDCUCVL02YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-12T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDC4PQCTDCUCVL084M.html?ref=rss">
+ <title>井山裕太碁聖、伊田篤史九段に敗れ黒星スタート　囲碁名人リーグ</title>
+ <link>https://www.asahi.com/articles/ASTDC4PQCTDCUCVL084M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-11T23:08:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDC3CT8TDCUCVL021M.html?ref=rss">
+ <title>ユネスコ無形文化遺産に6件を追加登録　「大津祭の曳山行事」など</title>
+ <link>https://www.asahi.com/articles/ASTDC3CT8TDCUCVL021M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-11T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD933D2TD9UCVL03VM.html?ref=rss">
+ <title>図書館員が選ぶ文学賞「本の甲子園」開始へ　発案の作家が抱く危機感</title>
+ <link>https://www.asahi.com/articles/ASTD933D2TD9UCVL03VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-11T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD82HF3TD8UCVL049M.html?ref=rss">
+ <title>「新しいけど、やりすぎない」伊カルーゾ、サンヨーコートと協業</title>
+ <link>https://www.asahi.com/articles/ASTD82HF3TD8UCVL049M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-11T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTD90CC2TD9PIHB018M.html?ref=rss">
+ <title>サイゼリヤ名物「激ムズ」間違い探し　元作者がいま明かす、制作秘話</title>
+ <link>https://www.asahi.com/articles/ASTD90CC2TD9PIHB018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-11T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDB2R89TDBUOOB002M.html?ref=rss">
+ <title>小林一茶の｢七番日記｣町が落札　長らく個人所有の｢最重要資料｣</title>
+ <link>https://www.asahi.com/articles/ASTDB2R89TDBUOOB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-11T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDB30YYTDBUCVL005M.html?ref=rss">
+ <title>芥川賞、直木賞の候補作決まる　次々回に直木賞候補作発表の時期変更</title>
+ <link>https://www.asahi.com/articles/ASTDB30YYTDBUCVL005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-11T05:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
