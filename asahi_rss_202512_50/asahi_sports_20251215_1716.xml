@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-12-15T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-12-15T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDH2RWZTDHPTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDG321WTDGPTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDG1D99TDGPTQP006M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTDH2RWZTDHPTQP002M.html?ref=rss">
+ <title>「カープといえば51」背番号引き継ぐドラ1・平川蓮選手ら入団発表</title>
+ <link>https://www.asahi.com/articles/ASTDH2RWZTDHPTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-15T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDG321WTDGPTQP002M.html?ref=rss">
+ <title>サッカー皇后杯決勝は広島―INAC神戸 セ大阪ヤンマーと伊賀敗退</title>
+ <link>https://www.asahi.com/articles/ASTDG321WTDGPTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-14T18:28:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDG1D99TDGPTQP006M.html?ref=rss">
+ <title>阪神・森下翔太が契約更改　2億円超えに「まだまだ満足していない」</title>
+ <link>https://www.asahi.com/articles/ASTDG1D99TDGPTQP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2025-12-14T13:55:28+09:00</dc:date>
+</item>
+</rdf:RDF>
