@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-12-16T11:44:45+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-12-16T11:44:45+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDJ0QF3TDJOXIE00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDH43CKTDHUCVL02SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDH1665TDHUCVL00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDD2F92TDDUTFL006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDD33PFTDDUPQJ00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDC2QMVTDCUCVL03HM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTDJ0QF3TDJOXIE00QM.html?ref=rss">
+ <title>妊娠・出産めぐる規定、日本将棋連盟が一部変更　福間女流六冠が要望</title>
+ <link>https://www.asahi.com/articles/ASTDJ0QF3TDJOXIE00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-16T11:44:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDH43CKTDHUCVL02SM.html?ref=rss">
+ <title>一力遼名人「ベストを尽くして結果を残す」　世界戦に向け決意表明</title>
+ <link>https://www.asahi.com/articles/ASTDH43CKTDHUCVL02SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-15T21:35:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDH1665TDHUCVL00GM.html?ref=rss">
+ <title>大河ドラマ「べらぼう」、世帯視聴率9.5%　過去2番目の低さ</title>
+ <link>https://www.asahi.com/articles/ASTDH1665TDHUCVL00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-15T13:15:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDD2F92TDDUTFL006M.html?ref=rss">
+ <title>最初のアメリカ人は北海道起源？　日米チーム新仮説、出土品に共通点</title>
+ <link>https://www.asahi.com/articles/ASTDD2F92TDDUTFL006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-15T11:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDD33PFTDDUPQJ00HM.html?ref=rss">
+ <title>「ほんとうに　ごめん！」寺山修司に山田太一が送った手紙、一般公開</title>
+ <link>https://www.asahi.com/articles/ASTDD33PFTDDUPQJ00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-15T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDC2QMVTDCUCVL03HM.html?ref=rss">
+ <title>「ばけばけ」が変えた朝ドラの「文法」　悲惨な現実もなぜかほのぼの</title>
+ <link>https://www.asahi.com/articles/ASTDC2QMVTDCUCVL03HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-15T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
