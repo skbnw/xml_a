@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-12-25T17:40:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-12-25T17:40:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDT2RCBTDTUCVL00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDT2RKNTDTUCVL029M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDT2JXSTDTUCVL01TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDK0QD6TDKUTIL04CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDS3GBLTDSUCVL01TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDS1QMLTDSUCVL026M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDR3DY2TDRUCVL028M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTDT2RCBTDTUCVL00XM.html?ref=rss">
+ <title>国分太一さんの人権救済申し立て、日弁連「扱わず」　日テレ対応巡り</title>
+ <link>https://www.asahi.com/articles/ASTDT2RCBTDTUCVL00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-25T17:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDT2RKNTDTUCVL029M.html?ref=rss">
+ <title>紅白歌合戦に矢沢永吉さんが出場　ソロ50周年、13年ぶり3回目</title>
+ <link>https://www.asahi.com/articles/ASTDT2RKNTDTUCVL029M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-25T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDT2JXSTDTUCVL01TM.html?ref=rss">
+ <title>福間香奈女流六冠、編入試験第1局は1月27日　山下数毅四段と対戦</title>
+ <link>https://www.asahi.com/articles/ASTDT2JXSTDTUCVL01TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-25T17:04:33+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDK0QD6TDKUTIL04CM.html?ref=rss">
+ <title>入試で半分白紙「もう浪人だ」　トリンドル瑠奈さんが語る上智大合格</title>
+ <link>https://www.asahi.com/articles/ASTDK0QD6TDKUTIL04CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-25T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDS3GBLTDSUCVL01TM.html?ref=rss">
+ <title>新潮社が週刊新潮誌上でおわび掲載へ　コラムへの校閲指摘、修正せず</title>
+ <link>https://www.asahi.com/articles/ASTDS3GBLTDSUCVL01TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-24T19:45:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDS1QMLTDSUCVL026M.html?ref=rss">
+ <title>戦後80年番組で「祖父の名誉傷つけられた」　遺族がNHKなど提訴</title>
+ <link>https://www.asahi.com/articles/ASTDS1QMLTDSUCVL026M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-24T14:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDR3DY2TDRUCVL028M.html?ref=rss">
+ <title>NHK会長選考プロセス「どんな議論か公開する」　経営委員長が方針</title>
+ <link>https://www.asahi.com/articles/ASTDR3DY2TDRUCVL028M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2025-12-23T19:35:00+09:00</dc:date>
+</item>
+</rdf:RDF>
