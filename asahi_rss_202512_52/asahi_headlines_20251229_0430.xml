@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+  <channel rdf:about="http://www3.asahi.com/">
+    <title>朝日新聞</title>
+    <link>http://www.asahi.com/</link>
+    <description>朝日新聞のデジタル版全ジャンルの最新ニュースです。</description>
+    <dc:language>ja</dc:language>
+    <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+    <dc:creator>朝日新聞社</dc:creator>
+    <dc:date>2025-12-29T13:19:30+09:00</dc:date>
+    <dc:publisher>朝日新聞社</dc:publisher>
+    <syn:updatePeriod>hourly</syn:updatePeriod>
+    <syn:updateFrequency>1</syn:updateFrequency>
+    <syn:updateBase>2025-12-29T13:19:30+09:00</syn:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDY1C2WTDYUTIL02DM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV3DJ1TDVUTIL01CM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV114XTDVPQIP03CM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDY12K8TDYIIPE002M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDW2VBTTDWPJLB00ZM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDW3H4LTDWPJLB00JM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDT34DHTDTUTFL01YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX4TWLTDXOIPE008M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV10GRTDVUTIL00GM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX3PQJTDXUTFL006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX3R1KTDXUTQP00RM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX3G0LTDXOXIE001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX3F13TDXUTQP00MM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX3C89TDXPTQP005M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX33PMTDXPTQP001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV3407TDVULFA010M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV2TK2TDVULFA00YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDT2T0MTDTUPQJ006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDT1VCFTDTPQIP003M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDQ21R1TDQOIPE01BM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDS1QFQTDSULOB00BM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDT23NRTDTTIPE00ZM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDW4WFMTDWPTIL00KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDS1FGBTDSULOB00LM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDQ1J1LTDQUTFK007M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDY02BGTDYUHBI007M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDT1RB0TDTUHBI01ZM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX6K4GTDXUHBI01YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV3F8VTDVUHBI021M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDT25KZTDTUHBI01HM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDS2J2PTDSUCVL030M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX0P85TDXUCVL001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV2WDNTDVPJLB008M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDR3D70TDRULFA02YM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX1R0WTDXOXIE051M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV319MTDVUBNB002M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDX4JSNTDXPIHB008M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV2Q2RTDVOIPE00MM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASTDV13CYTDVUCVL01BM.html?ref=rss"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.asahi.com/articles/ASTDY1C2WTDYUTIL02DM.html?ref=rss">
+    <title>東京・高田馬場で女性が刺されたか　刺した人物は逃走中　警視庁捜査</title>
+    <link>http://www.asahi.com/articles/ASTDY1C2WTDYUTIL02DM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T13:14:28+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV3DJ1TDVUTIL01CM.html?ref=rss">
+    <title>悠仁さま、新年一般参賀に初めて出席　12月29日からの皇室の予定</title>
+    <link>http://www.asahi.com/articles/ASTDV3DJ1TDVUTIL01CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T13:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV114XTDVPQIP03CM.html?ref=rss">
+    <title>広がる更地、残る傾いた電柱　能登半島地震2年、ドローンで見た変化</title>
+    <link>http://www.asahi.com/articles/ASTDV114XTDVPQIP03CM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T13:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDY12K8TDYIIPE002M.html?ref=rss">
+    <title>緊急装置作動せず、母親が停止　5歳児死亡のスキー場エスカレーター</title>
+    <link>http://www.asahi.com/articles/ASTDY12K8TDYIIPE002M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T12:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDW2VBTTDWPJLB00ZM.html?ref=rss">
+    <title>能登地震後の出生数60人足らず、小中校再編「考えねば」と珠洲市長</title>
+    <link>http://www.asahi.com/articles/ASTDW2VBTTDWPJLB00ZM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDW3H4LTDWPJLB00JM.html?ref=rss">
+    <title>災害関連工事の入札不調4割、まとめ発注で改善へ　輪島市長が描く策</title>
+    <link>http://www.asahi.com/articles/ASTDW3H4LTDWPJLB00JM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDT34DHTDTUTFL01YM.html?ref=rss">
+    <title>賞味期限「過ぎても、すぐに捨てないで」　食品ロスを減らすために</title>
+    <link>http://www.asahi.com/articles/ASTDT34DHTDTUTFL01YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX4TWLTDXOIPE008M.html?ref=rss">
+    <title>名古屋市緑区で男性刺される　刃物刺さった状態で発見、容疑者は逃走</title>
+    <link>http://www.asahi.com/articles/ASTDX4TWLTDXOIPE008M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T01:28:28+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV10GRTDVUTIL00GM.html?ref=rss">
+    <title>秋篠宮家の次女佳子さま31歳に　戦後80年に平和への思い一層強く</title>
+    <link>http://www.asahi.com/articles/ASTDV10GRTDVUTIL00GM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX3PQJTDXUTFL006M.html?ref=rss">
+    <title>過去にもスキー場で子どもの事故　コンベヤーで転倒、リフトから落下</title>
+    <link>http://www.asahi.com/articles/ASTDX3PQJTDXUTFL006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-28T20:29:28+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX3R1KTDXUTQP00RM.html?ref=rss">
+    <title>カズがJ3福島を選んだ背景は　批判も衰えも自覚、還暦Jリーガーへ</title>
+    <link>http://www.asahi.com/articles/ASTDX3R1KTDXUTQP00RM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2025-12-28T21:18:18+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX3G0LTDXOXIE001M.html?ref=rss">
+    <title>大阪薫英女学院が悲願の初優勝　大阪勢8年ぶりのV　全国高校バスケ</title>
+    <link>http://www.asahi.com/articles/ASTDX3G0LTDXOXIE001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2025-12-28T20:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX3F13TDXUTQP00MM.html?ref=rss">
+    <title>喜びは2倍　ポーランド代表の妻の助言受け、5年ぶりに日本一の剣士</title>
+    <link>http://www.asahi.com/articles/ASTDX3F13TDXUTQP00MM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2025-12-28T19:36:27+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX3C89TDXPTQP005M.html?ref=rss">
+    <title>テレビドラマが「人生と重なった」　ミュージアムマイルが有馬記念V</title>
+    <link>http://www.asahi.com/articles/ASTDX3C89TDXPTQP005M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2025-12-28T19:32:09+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX33PMTDXPTQP001M.html?ref=rss">
+    <title>全国高校ラグビー、2日目も熱戦　秋田工、関西学院など2回戦へ</title>
+    <link>http://www.asahi.com/articles/ASTDX33PMTDXPTQP001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2025-12-28T18:49:31+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV3407TDVULFA010M.html?ref=rss">
+    <title>バス事業もノウハウ外販「次の成長、人の力で」　西鉄社長が描く戦略</title>
+    <link>http://www.asahi.com/articles/ASTDV3407TDVULFA010M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-12-29T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV2TK2TDVULFA00YM.html?ref=rss">
+    <title>「健康分野、太い柱に」TOTO社長意欲、国内の収益性回復へ対策も</title>
+    <link>http://www.asahi.com/articles/ASTDV2TK2TDVULFA00YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-12-29T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDT2T0MTDTUPQJ006M.html?ref=rss">
+    <title>暮らし支えるエッセンシャルワーカー　進まぬ待遇改善、国の対応急務</title>
+    <link>http://www.asahi.com/articles/ASTDT2T0MTDTUPQJ006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-12-28T16:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDT1VCFTDTPQIP003M.html?ref=rss">
+    <title>カニ水揚げ、漁港は仮設備　温泉街再建、まだ時間　能登半島地震2年</title>
+    <link>http://www.asahi.com/articles/ASTDT1VCFTDTPQIP003M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-12-28T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDQ21R1TDQOIPE01BM.html?ref=rss">
+    <title>ふるさと納税のポイント廃止　年末の「駆け込み寄付」、秋に前倒し</title>
+    <link>http://www.asahi.com/articles/ASTDQ21R1TDQOIPE01BM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2025-12-28T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDS1QFQTDSULOB00BM.html?ref=rss">
+    <title>ウクライナ戦線抱えながらアジアに空母派遣　英国のやせ我慢と本気度</title>
+    <link>http://www.asahi.com/articles/ASTDS1QFQTDSULOB00BM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-12-29T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDT23NRTDTTIPE00ZM.html?ref=rss">
+    <title>参院選で「共倒れ」した国民新顔ふたたび　衆院福岡5区に走る緊張</title>
+    <link>http://www.asahi.com/articles/ASTDT23NRTDTTIPE00ZM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-12-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDW4WFMTDWPTIL00KM.html?ref=rss">
+    <title>福井知事選、保守分裂招いた背景は　独自に候補者探った元参院議長</title>
+    <link>http://www.asahi.com/articles/ASTDW4WFMTDWPTIL00KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-12-29T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDS1FGBTDSULOB00LM.html?ref=rss">
+    <title>中国軍艦による情報収集が活発化　目的は？今後は？　専門家の見方</title>
+    <link>http://www.asahi.com/articles/ASTDS1FGBTDSULOB00LM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-12-28T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDQ1J1LTDQUTFK007M.html?ref=rss">
+    <title>北朝鮮の「ソウルは火の海に」発言の直後、日中首脳会談　細川首相は</title>
+    <link>http://www.asahi.com/articles/ASTDQ1J1LTDQUTFK007M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2025-12-28T10:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDY02BGTDYUHBI007M.html?ref=rss">
+    <title>中国軍が台湾周辺で軍事演習を開始　「外部干渉勢力」にも警告と言及</title>
+    <link>http://www.asahi.com/articles/ASTDY02BGTDYUHBI007M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-12-29T12:26:49+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDT1RB0TDTUHBI01ZM.html?ref=rss">
+    <title>「非干渉主義」掲げた米国家安保戦略、日本への影響は　元海将の見方</title>
+    <link>http://www.asahi.com/articles/ASTDT1RB0TDTUHBI01ZM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-12-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX6K4GTDXUHBI01YM.html?ref=rss">
+    <title>トランプ氏とゼレンスキー氏、領土問題で結論出ず　1月に再び会談へ</title>
+    <link>http://www.asahi.com/articles/ASTDX6K4GTDXUHBI01YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-12-29T10:30:40+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV3F8VTDVUHBI021M.html?ref=rss">
+    <title>トランク2個でカナダへ、光浦靖子さんが気づいた「心地よい空間」</title>
+    <link>http://www.asahi.com/articles/ASTDV3F8VTDVUHBI021M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-12-29T10:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDT25KZTDTUHBI01HM.html?ref=rss">
+    <title>小さなアパート、ひとりがいい　伝統に背いてもここが「マイホーム」</title>
+    <link>http://www.asahi.com/articles/ASTDT25KZTDTUHBI01HM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2025-12-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDS2J2PTDSUCVL030M.html?ref=rss">
+    <title>「国宝」が史上最多6冠　日刊スポーツ映画大賞、作品や主演男優部門</title>
+    <link>http://www.asahi.com/articles/ASTDS2J2PTDSUCVL030M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2025-12-28T19:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX0P85TDXUCVL001M.html?ref=rss">
+    <title>NHKの総力戦研究所ドラマの映画版は「公開中止を」　遺族が声明</title>
+    <link>http://www.asahi.com/articles/ASTDX0P85TDXUCVL001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-28T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV2WDNTDVPJLB008M.html?ref=rss">
+    <title>地域限定の「まちのラジオ」元日に全国生放送へ　NHK番組とコラボ</title>
+    <link>http://www.asahi.com/articles/ASTDV2WDNTDVPJLB008M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2025-12-27T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDR3D70TDRULFA02YM.html?ref=rss">
+    <title>なぜTBS→Netflix？　大物プロデューサーが語る移籍の真相</title>
+    <link>http://www.asahi.com/articles/ASTDR3D70TDRULFA02YM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2025-12-27T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX1R0WTDXOXIE051M.html?ref=rss">
+    <title>南極観測船しらせ、昭和基地に「接岸」　1700メートル沖に停泊</title>
+    <link>http://www.asahi.com/articles/ASTDX1R0WTDXOXIE051M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2025-12-28T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV319MTDVUBNB002M.html?ref=rss">
+    <title>平均寿命、躍進の滋賀、転落の沖縄、短命の青森が集まり分かったこと</title>
+    <link>http://www.asahi.com/articles/ASTDV319MTDVUBNB002M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2025-12-27T12:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDX4JSNTDXPIHB008M.html?ref=rss">
+    <title>海文堂書店元社長の島田誠さん死去　阪神大震災後の文化振興に尽力も</title>
+    <link>http://www.asahi.com/articles/ASTDX4JSNTDXPIHB008M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2025-12-29T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV2Q2RTDVOIPE00MM.html?ref=rss">
+    <title>書道家の樽本樹邨さん死去、88歳　「コメダ珈琲店」の看板を担当</title>
+    <link>http://www.asahi.com/articles/ASTDV2Q2RTDVOIPE00MM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2025-12-26T17:41:55+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASTDV13CYTDVUCVL01BM.html?ref=rss">
+    <title>脚本家の内館牧子さん死去　77歳　朝ドラ「ひらり」、横審委員も</title>
+    <link>http://www.asahi.com/articles/ASTDV13CYTDVUCVL01BM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2025-12-26T12:37:27+09:00</dc:date>
+  </item>
+</rdf:RDF>
