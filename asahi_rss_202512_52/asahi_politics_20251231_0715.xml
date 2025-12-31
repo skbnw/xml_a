@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2025 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2025-12-31T16:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2025-12-31T16:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDS4SLQTDSUTFK01TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDZ34VNTDZUTFK00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDZ2SX2TDZUTFK006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDV334NTDVUTFK00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDZ1V5WTDZUTFK004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDY2RW0TDYDIFI001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDY2RRYTDYUTFK00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDW45S9TDWULOB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASTDY2HJKTDYUTFK003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASTDS4SLQTDSUTFK01TM.html?ref=rss">
+ <title>日本核保有論に言及の米国防長官に、羽田外相「ない」と否定　94年</title>
+ <link>https://www.asahi.com/articles/ASTDS4SLQTDSUTFK01TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-31T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDZ34VNTDZUTFK00YM.html?ref=rss">
+ <title>現実路線で生き残り図る　貫いた歴史的まなざし　共産・不破氏が死去</title>
+ <link>https://www.asahi.com/articles/ASTDZ34VNTDZUTFK00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-30T19:36:52+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDZ2SX2TDZUTFK006M.html?ref=rss">
+ <title>高市首相「走って走って走って走り抜いて勝利」　森保監督の前で抱負</title>
+ <link>https://www.asahi.com/articles/ASTDZ2SX2TDZUTFK006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-30T17:47:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDV334NTDVUTFK00HM.html?ref=rss">
+ <title>不透明さ増す立憲の「中道結集」　保険かける公明・政権接近の国民</title>
+ <link>https://www.asahi.com/articles/ASTDV334NTDVUTFK00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-30T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDZ1V5WTDZUTFK004M.html?ref=rss">
+ <title>共産党元議長の不破哲三さん死去　天皇制や自衛隊容認の「柔軟路線」</title>
+ <link>https://www.asahi.com/articles/ASTDZ1V5WTDZUTFK004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-30T15:02:44+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDY2RW0TDYDIFI001M.html?ref=rss">
+ <title>右派勢力台頭、リベラル退潮…揺れる国際秩序と日本　政治記者座談会</title>
+ <link>https://www.asahi.com/articles/ASTDY2RW0TDYDIFI001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-30T13:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDY2RRYTDYUTFK00FM.html?ref=rss">
+ <title>石破政権退陣、高市政権誕生…激動の政局どうみる？　政治記者座談会</title>
+ <link>https://www.asahi.com/articles/ASTDY2RRYTDYUTFK00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-30T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDW45S9TDWULOB008M.html?ref=rss">
+ <title>中国軍の西太平洋での活動が活発化　元空自幹部が語る防空の課題</title>
+ <link>https://www.asahi.com/articles/ASTDW45S9TDWULOB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-30T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASTDY2HJKTDYUTFK003M.html?ref=rss">
+ <title>高市首相が公邸に引っ越し　地震発生時など危機管理対応を重視</title>
+ <link>https://www.asahi.com/articles/ASTDY2HJKTDYUTFK003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2025-12-29T16:55:30+09:00</dc:date>
+</item>
+</rdf:RDF>
