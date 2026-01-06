@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-01-06T10:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-01-06T10:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV153J2GV15ULOB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV153CLNV15PTQP009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1536H0V15PTQP003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1536D3V15PQIP01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV152DDTV15UTQP00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV150G2JV15UTQP003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1445D9V14PTQP00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1415NKV14UTQP01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV143K7KV14UTQP00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV142HGXV14UTQP008M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV153J2GV15ULOB001M.html?ref=rss">
+ <title>桐蔭学園、3連覇へ王手　終了間際に逆転トライ　大阪桐蔭くだす</title>
+ <link>https://www.asahi.com/articles/ASV153J2GV15ULOB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-06T10:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV153CLNV15PTQP009M.html?ref=rss">
+ <title>脱スポーツコースで京大合格者も　全国4強バレー部変えた監督の体験</title>
+ <link>https://www.asahi.com/articles/ASV153CLNV15PTQP009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-06T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1536H0V15PTQP003M.html?ref=rss">
+ <title>初優勝めざす京都成章、高い攻撃力見せて決勝へ　高校ラグビー準決勝</title>
+ <link>https://www.asahi.com/articles/ASV1536H0V15PTQP003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-05T19:27:29+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1536D3V15PQIP01JM.html?ref=rss">
+ <title>｢最後に逆転すればいい」　桐蔭学園が激闘制して3連覇へあと1勝</title>
+ <link>https://www.asahi.com/articles/ASV1536D3V15PQIP01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-05T19:18:49+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV152DDTV15UTQP00YM.html?ref=rss">
+ <title>二階堂蓮が心技充実　W杯ジャンプ初勝利に「天まで飛んでっちゃう」</title>
+ <link>https://www.asahi.com/articles/ASV152DDTV15UTQP00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-05T16:34:22+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV150G2JV15UTQP003M.html?ref=rss">
+ <title>J1アビスパ福岡、金明輝監督と契約解除　言動に複数のコンプラ違反</title>
+ <link>https://www.asahi.com/articles/ASV150G2JV15UTQP003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-05T10:51:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1445D9V14PTQP00FM.html?ref=rss">
+ <title>おみくじ「末吉」、坂本花織の解釈は　ラストの名フェスで初滑り</title>
+ <link>https://www.asahi.com/articles/ASV1445D9V14PTQP00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-04T22:01:52+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1415NKV14UTQP01NM.html?ref=rss">
+ <title>柔道界が異例のエール　金メダリスト、ウルフ・アロンのプロレス転向</title>
+ <link>https://www.asahi.com/articles/ASV1415NKV14UTQP01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-04T20:24:28+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV143K7KV14UTQP00JM.html?ref=rss">
+ <title>ウルフ・アロンがプロレスデビュー戦で白星　柔道代表監督の後押しも</title>
+ <link>https://www.asahi.com/articles/ASV143K7KV14UTQP00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-04T20:18:46+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV142HGXV14UTQP008M.html?ref=rss">
+ <title>高橋光成が西武残留　3球団オファーも、今オフの大リーグ移籍断念</title>
+ <link>https://www.asahi.com/articles/ASV142HGXV14UTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-04T17:12:56+09:00</dc:date>
+</item>
+</rdf:RDF>
