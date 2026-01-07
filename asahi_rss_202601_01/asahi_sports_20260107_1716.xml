@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-01-07T19:15:30+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-01-07T19:15:30+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1735WSV17PTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV172G6QV17UTQP00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV162V5FV16PTQP004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1636QDV16UTQP008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV153J2GV15ULOB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV153CLNV15PTQP009M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV1735WSV17PTQP001M.html?ref=rss">
+ <title>桐蔭学園が3連覇　チームを支えた「考える力」　高校ラグビー</title>
+ <link>https://www.asahi.com/articles/ASV1735WSV17PTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-07T19:15:30+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV172G6QV17UTQP00JM.html?ref=rss">
+ <title>不適切言動の町田・黒田監督　Jリーグからの処分に「ノーコメント」</title>
+ <link>https://www.asahi.com/articles/ASV172G6QV17UTQP00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-07T16:45:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV162V5FV16PTQP004M.html?ref=rss">
+ <title>岐路に立つ高校ラグビー　「島根ショック」を受け、指導者は考える</title>
+ <link>https://www.asahi.com/articles/ASV162V5FV16PTQP004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-07T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1636QDV16UTQP008M.html?ref=rss">
+ <title>試合出場なかった3年生が磨いた技で決勝点　チーム支える島人の情熱</title>
+ <link>https://www.asahi.com/articles/ASV1636QDV16UTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-06T19:25:11+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV153J2GV15ULOB001M.html?ref=rss">
+ <title>桐蔭学園、3連覇へ王手　終了間際に逆転トライ　大阪桐蔭くだす</title>
+ <link>https://www.asahi.com/articles/ASV153J2GV15ULOB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-06T10:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV153CLNV15PTQP009M.html?ref=rss">
+ <title>脱スポーツコースで京大合格者も　全国4強バレー部変えた監督の体験</title>
+ <link>https://www.asahi.com/articles/ASV153CLNV15PTQP009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-06T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
