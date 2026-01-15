@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-01-15T19:34:54+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-01-15T19:34:54+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1H3FK7V1HUTQP024M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1H2F16V1HUTQP003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1H2CTTV1HUTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1G3CSYV1GUTQP004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1G2TMRV1GUTQP006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1G3VNWV1GUTQP012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1G212PV1GUTQP00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1G43DXV1GUHBI02FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1G2T0HV1GOIPE00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1F3HN7V1FUTQP01CM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV1H3FK7V1HUTQP024M.html?ref=rss">
+ <title>フランスで有罪の元責任者に処分　永久活動禁止　日本サッカー協会</title>
+ <link>https://www.asahi.com/articles/ASV1H3FK7V1HUTQP024M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-15T19:34:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1H2F16V1HUTQP003M.html?ref=rss">
+ <title>栗山英樹さんが野球殿堂入り　エキスパート部門、大谷翔平も喜びの声</title>
+ <link>https://www.asahi.com/articles/ASV1H2F16V1HUTQP003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-15T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1H2CTTV1HUTQP002M.html?ref=rss">
+ <title>テニスの西岡良仁、4大大会本戦の連続出場31で止まる　全豪予選</title>
+ <link>https://www.asahi.com/articles/ASV1H2CTTV1HUTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-15T16:48:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1G3CSYV1GUTQP004M.html?ref=rss">
+ <title>キューバ出身18歳がソフトバンクへ　先輩モイネロが語る成功の秘訣</title>
+ <link>https://www.asahi.com/articles/ASV1G3CSYV1GUTQP004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-15T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1G2TMRV1GUTQP006M.html?ref=rss">
+ <title>現地取材ゆえに訪れた幸運　全豪欠場した錦織との料理屋での鉢合わせ</title>
+ <link>https://www.asahi.com/articles/ASV1G2TMRV1GUTQP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-15T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1G3VNWV1GUTQP012M.html?ref=rss">
+ <title>正念場の16年目　ヤクルト山田がつかんだ「何年かぶりにいい感覚」</title>
+ <link>https://www.asahi.com/articles/ASV1G3VNWV1GUTQP012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-15T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1G212PV1GUTQP00LM.html?ref=rss">
+ <title>V・ファーレン長崎が誓う「旋風」　8年ぶりJ1、新戦力は実績十分</title>
+ <link>https://www.asahi.com/articles/ASV1G212PV1GUTQP00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-15T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1G43DXV1GUHBI02FM.html?ref=rss">
+ <title>英警察、AI使い「架空の試合」記載で謝罪　サッカーの観客入場禁止</title>
+ <link>https://www.asahi.com/articles/ASV1G43DXV1GUHBI02FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-14T22:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1G2T0HV1GOIPE00YM.html?ref=rss">
+ <title>新たな愛称は「クロコくんホール」など　日本ガイシの社名変更に伴い</title>
+ <link>https://www.asahi.com/articles/ASV1G2T0HV1GOIPE00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-14T18:27:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1F3HN7V1FUTQP01CM.html?ref=rss">
+ <title>ボブスレー2人乗り日本代表、五輪の夢断たれる　原因は連盟のミス</title>
+ <link>https://www.asahi.com/articles/ASV1F3HN7V1FUTQP01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-13T20:02:18+09:00</dc:date>
+</item>
+</rdf:RDF>
