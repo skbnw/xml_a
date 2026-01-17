@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-01-17T13:51:26+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-01-17T13:51:26+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1K1G6TV1KUCVL00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1K0RVSV1KPOMB00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1K03GCV1KUCVL01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1J3DQGV1JUCVL01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1H4FPLV1HUCVL03TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1H2PXKV1HPLFA001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1H324WV1HUCVL027M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV1K1G6TV1KUCVL00GM.html?ref=rss">
+ <title>伊藤匠二冠、「ミスター朝日杯」の羽生善治九段に勝利　名古屋対局</title>
+ <link>https://www.asahi.com/articles/ASV1K1G6TV1KUCVL00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-01-17T13:51:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1K0RVSV1KPOMB00LM.html?ref=rss">
+ <title>「飛鳥美人」「星宿」など公開始まる　高松塚・キトラ古墳の国宝壁画</title>
+ <link>https://www.asahi.com/articles/ASV1K0RVSV1KPOMB00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-01-17T11:57:31+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1K03GCV1KUCVL01HM.html?ref=rss">
+ <title>永瀬拓矢九段、藤井聡太名人への挑戦に前進　将棋A級順位戦で7連勝</title>
+ <link>https://www.asahi.com/articles/ASV1K03GCV1KUCVL01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-01-17T09:41:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1J3DQGV1JUCVL01JM.html?ref=rss">
+ <title>妊娠・出産巡る新規定を女流棋士や弁護士らが討議　検討委が初会合</title>
+ <link>https://www.asahi.com/articles/ASV1J3DQGV1JUCVL01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-01-16T19:44:48+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1H4FPLV1HUCVL03TM.html?ref=rss">
+ <title>「カンブリア宮殿」、初のMC交代　村上龍さんから金原ひとみさんに</title>
+ <link>https://www.asahi.com/articles/ASV1H4FPLV1HUCVL03TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-01-16T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1H2PXKV1HPLFA001M.html?ref=rss">
+ <title>THE ALFEE、「大きなお年玉もらった」文化庁長官特別表彰</title>
+ <link>https://www.asahi.com/articles/ASV1H2PXKV1HPLFA001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-01-15T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1H324WV1HUCVL027M.html?ref=rss">
+ <title>一力遼名人、最終局で敗れ世界二冠ならず　囲碁のLG杯決勝三番勝負</title>
+ <link>https://www.asahi.com/articles/ASV1H324WV1HUCVL027M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-01-15T18:52:59+09:00</dc:date>
+</item>
+</rdf:RDF>
