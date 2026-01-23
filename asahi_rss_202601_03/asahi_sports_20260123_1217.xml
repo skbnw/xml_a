@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-01-23T17:25:12+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-01-23T17:25:12+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1R2JHFV1RUBNB004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1Q3VGCV1QPTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1P2WD8V1PUTQP00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1P3R1HV1PPIHB00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1P3W6YV1PUTQP020M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1P3SJVV1PUTQP00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV1P3RBZV1PUTFL00LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV1R2JHFV1RUBNB004M.html?ref=rss">
+ <title>衆院選の影響でスキーの国際大会中止　選挙業務で町が職員派遣できず</title>
+ <link>https://www.asahi.com/articles/ASV1R2JHFV1RUBNB004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-23T17:25:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1Q3VGCV1QPTQP001M.html?ref=rss">
+ <title>トリプルアクセルに見る「成長」　四大陸選手権、中井亜美が首位発進</title>
+ <link>https://www.asahi.com/articles/ASV1Q3VGCV1QPTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-22T21:34:37+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1P2WD8V1PUTQP00RM.html?ref=rss">
+ <title>サッカーW杯、欧州でボイコットを示唆　ドイツ議員は「最後の手段」</title>
+ <link>https://www.asahi.com/articles/ASV1P2WD8V1PUTQP00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-22T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1P3R1HV1PPIHB00QM.html?ref=rss">
+ <title>バレー日本代表の新たな強化拠点、神戸に整備　「選手育成の聖地に」</title>
+ <link>https://www.asahi.com/articles/ASV1P3R1HV1PPIHB00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-22T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1P3W6YV1PUTQP020M.html?ref=rss">
+ <title>白鵬さん、新大会に賞金検討　「大相撲より多く」来年中の開催めざす</title>
+ <link>https://www.asahi.com/articles/ASV1P3W6YV1PUTQP020M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-21T21:12:35+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1P3SJVV1PUTQP00CM.html?ref=rss">
+ <title>横綱大の里に訪れた試練　連敗ストップに「気持ちだけは折れない」</title>
+ <link>https://www.asahi.com/articles/ASV1P3SJVV1PUTQP00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-21T20:54:29+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV1P3RBZV1PUTFL00LM.html?ref=rss">
+ <title>ボクシングでの事故対応強化へ　日本連盟が東京科学大学病院と提携</title>
+ <link>https://www.asahi.com/articles/ASV1P3RBZV1PUTFL00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-01-21T20:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
