@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-02-02T17:32:45+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-02-02T17:32:45+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV222PSJV22UTQP015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV221V15V22UTQP00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV213R0WV21UTQP00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV213J2FV21UTQP018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2125B9V21UTQP003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV222PSJV22UTQP015M.html?ref=rss">
+ <title>引き金は八村塁との確執　バスケ代表ホーバスHCが契約終了で退任</title>
+ <link>https://www.asahi.com/articles/ASV222PSJV22UTQP015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-02T17:32:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV221V15V22UTQP00PM.html?ref=rss">
+ <title>バスケ男子代表ホーバスHCが退任　ロス五輪見据え事実上の「解任」</title>
+ <link>https://www.asahi.com/articles/ASV221V15V22UTQP00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-02T17:15:50+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV213R0WV21UTQP00SM.html?ref=rss">
+ <title>球界最年長が神宮で始動　「新人の気持ちのまま」キャリアハイ目標</title>
+ <link>https://www.asahi.com/articles/ASV213R0WV21UTQP00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-02T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV213J2FV21UTQP018M.html?ref=rss">
+ <title>オリックスの「シンデレラボーイ」が始動　WBCへ、先輩もサポート</title>
+ <link>https://www.asahi.com/articles/ASV213J2FV21UTQP018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-01T20:00:37+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2125B9V21UTQP003M.html?ref=rss">
+ <title>吉田祐也2位　青学後輩の黒田朝日を振り切る　別府大分毎日マラソン</title>
+ <link>https://www.asahi.com/articles/ASV2125B9V21UTQP003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-01T16:17:10+09:00</dc:date>
+</item>
+</rdf:RDF>
