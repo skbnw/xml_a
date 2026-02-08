@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-02-08T09:45:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-02-08T09:45:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2802RDV28UCVL002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV263TGLV26UCVL030M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV262GT5V26TIPE00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV261C30V26UCVL010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2613GXV26UCVL021M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV252QJPV25UTQP00MM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV2802RDV28UCVL002M.html?ref=rss">
+ <title>ローザンヌ国際バレエコンクール、佐居勇星さんが5位入賞</title>
+ <link>https://www.asahi.com/articles/ASV2802RDV28UCVL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-08T09:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV263TGLV26UCVL030M.html?ref=rss">
+ <title>日本、20年ぶり優勝ならず　日韓決戦で世界最強棋士に敗れる</title>
+ <link>https://www.asahi.com/articles/ASV263TGLV26UCVL030M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-06T20:51:19+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV262GT5V26TIPE00BM.html?ref=rss">
+ <title>長崎・冬の風物詩「ランタンフェスティバル」始まる</title>
+ <link>https://www.asahi.com/articles/ASV262GT5V26TIPE00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-06T19:54:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV261C30V26UCVL010M.html?ref=rss">
+ <title>全米批評家協会賞、批評部門候補に多和田葉子さん「エクソフォニー」</title>
+ <link>https://www.asahi.com/articles/ASV261C30V26UCVL010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-06T13:18:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2613GXV26UCVL021M.html?ref=rss">
+ <title>本屋大賞のノミネート10作品決まる　受賞作の発表は4月9日</title>
+ <link>https://www.asahi.com/articles/ASV2613GXV26UCVL021M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-06T12:38:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV252QJPV25UTQP00MM.html?ref=rss">
+ <title>サッカー経験者「僕青」青木宙帆　オフボールの動きを参考にしたのは</title>
+ <link>https://www.asahi.com/articles/ASV252QJPV25UTQP00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-06T11:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
