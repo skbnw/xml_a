@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-02-09T05:57:24+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-02-09T05:57:24+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV284DB8V28UQIP08FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV27415PV27DIFI00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV276WNJV27UTQP01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV274GV2V27UQIP0CYM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV274334V27UTQP015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV271THYV27UTQP00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV256F2YV25PQIP007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV26540BV26UQIP00JM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV284DB8V28UQIP08FM.html?ref=rss">
+ <title>フィギュア団体で日本メダル確定、スノボ三木つばき6位　8日の五輪</title>
+ <link>https://www.asahi.com/articles/ASV284DB8V28UQIP08FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-09T05:57:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV27415PV27DIFI00PM.html?ref=rss">
+ <title>メダルをかけるフィギュア団体とパラレル大回転　8日の五輪みどころ</title>
+ <link>https://www.asahi.com/articles/ASV27415PV27DIFI00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-08T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV276WNJV27UTQP01JM.html?ref=rss">
+ <title>イタリア勢の金メダル第1号　育児と競技を両立する35歳の五輪女王</title>
+ <link>https://www.asahi.com/articles/ASV276WNJV27UTQP01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-08T07:24:02+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV274GV2V27UQIP0CYM.html?ref=rss">
+ <title>ビッグエア木村葵来が金メダル、木俣椋真が銀　五輪7日の結果</title>
+ <link>https://www.asahi.com/articles/ASV274GV2V27UQIP0CYM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-08T07:01:53+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV274334V27UTQP015M.html?ref=rss">
+ <title>五輪で選手がノロウイルス感染　IOCは集団感染否定、「お願い」も</title>
+ <link>https://www.asahi.com/articles/ASV274334V27UTQP015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-07T21:56:03+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV271THYV27UTQP00BM.html?ref=rss">
+ <title>三浦知良がJ開幕戦で先発出場　58歳11カ月、公式戦最年長記録</title>
+ <link>https://www.asahi.com/articles/ASV271THYV27UTQP00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-07T15:17:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV256F2YV25PQIP007M.html?ref=rss">
+ <title>日本勢メダル第1号なるか　ミラノ・コルティナ五輪、7日のみどころ</title>
+ <link>https://www.asahi.com/articles/ASV256F2YV25PQIP007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-07T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV26540BV26UQIP00JM.html?ref=rss">
+ <title>【詳報】「G」の日本は34番目に入場　4会場をつなぎ五輪開会式</title>
+ <link>https://www.asahi.com/articles/ASV26540BV26UQIP00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-02-07T07:56:11+09:00</dc:date>
+</item>
+</rdf:RDF>
