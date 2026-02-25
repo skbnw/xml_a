@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-02-25T14:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-02-25T14:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2T02QKV2TUCVL03PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2S215PV2SUCVL005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2S4FKRV2SUCVL051M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2M0W0CV2MOXIE00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2R4FSZV2RUCVL011M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2R25L9V2RPPZB00ZM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV2T02QKV2TUCVL03PM.html?ref=rss">
+ <title>勝海舟が設計の西洋式砲台跡を発見　幕末の緊張状態示す　大阪・高槻</title>
+ <link>https://www.asahi.com/articles/ASV2T02QKV2TUCVL03PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-25T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2S215PV2SUCVL005M.html?ref=rss">
+ <title>ベルリン映画祭、「政治的」な2作品を顕彰　ガザ巡る批判への応答？</title>
+ <link>https://www.asahi.com/articles/ASV2S215PV2SUCVL005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-25T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2S4FKRV2SUCVL051M.html?ref=rss">
+ <title>誰でも自分の小説やイラストの権利登録　国の新システムが始動へ</title>
+ <link>https://www.asahi.com/articles/ASV2S4FKRV2SUCVL051M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-25T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2M0W0CV2MOXIE00NM.html?ref=rss">
+ <title>知的障害者、読書の壁なくすには　取り組みすすめる図書館や出版社</title>
+ <link>https://www.asahi.com/articles/ASV2M0W0CV2MOXIE00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-24T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2R4FSZV2RUCVL011M.html?ref=rss">
+ <title>余正麒九段が白星先行、新鋭・桑原樹七段は2連敗　囲碁名人リーグ</title>
+ <link>https://www.asahi.com/articles/ASV2R4FSZV2RUCVL011M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-23T22:35:31+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2R25L9V2RPPZB00ZM.html?ref=rss">
+ <title>3人重体の裸祭り、対策打つも「祭りは想定外が起こる」地元で存在感</title>
+ <link>https://www.asahi.com/articles/ASV2R25L9V2RPPZB00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-23T17:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
