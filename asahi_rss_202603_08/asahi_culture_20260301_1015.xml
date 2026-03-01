@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-03-01T17:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-03-01T17:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV312G3VV31TIPE002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2X4T7MV2XUCVL00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2X36Q1V2XUCVL005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2W2F55V2WPITB00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2W1DN1V2WPOMB00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2V342TV2VUCVL01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2W24QFV2WPQIP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2W43LSV2WUCVL03JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV2W35CJV2WPOMB00PM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV312G3VV31TIPE002M.html?ref=rss">
+ <title>平安絵巻さながら歌遊び、太宰府天満宮で「曲水の宴」　平和願う歌も</title>
+ <link>https://www.asahi.com/articles/ASV312G3VV31TIPE002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-01T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2X4T7MV2XUCVL00HM.html?ref=rss">
+ <title>「嵐」の大野智さん、STARTO退所へ　グループ最終公演の5月末</title>
+ <link>https://www.asahi.com/articles/ASV2X4T7MV2XUCVL00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-28T23:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2X36Q1V2XUCVL005M.html?ref=rss">
+ <title>小学館が謝罪、調査委員会立ち上げ　性加害事件起こしたマンガ家起用</title>
+ <link>https://www.asahi.com/articles/ASV2X36Q1V2XUCVL005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-28T19:18:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2W2F55V2WPITB00JM.html?ref=rss">
+ <title>「裸祭り」事故、見直し迫られる主催者「中止含めたあらゆる可能性」</title>
+ <link>https://www.asahi.com/articles/ASV2W2F55V2WPITB00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-28T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2W1DN1V2WPOMB00FM.html?ref=rss">
+ <title>ヒット曲は「イントロ短く、サビは前に」　配信の影響？大学生が分析</title>
+ <link>https://www.asahi.com/articles/ASV2W1DN1V2WPOMB00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-28T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2V342TV2VUCVL01HM.html?ref=rss">
+ <title>ハイブランドの価格高騰は「ふざけた話」 伊バッグ会社CEOの視点</title>
+ <link>https://www.asahi.com/articles/ASV2V342TV2VUCVL01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-28T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2W24QFV2WPQIP001M.html?ref=rss">
+ <title>赤、青、緑　男児の健やかな成長願い「五月のぼり」作り最盛期 佐賀</title>
+ <link>https://www.asahi.com/articles/ASV2W24QFV2WPQIP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-28T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2W43LSV2WUCVL03JM.html?ref=rss">
+ <title>刑事事件でマンガ中止、名義変え原作者で起用　小学館編集部がおわび</title>
+ <link>https://www.asahi.com/articles/ASV2W43LSV2WUCVL03JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-27T22:47:33+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV2W35CJV2WPOMB00PM.html?ref=rss">
+ <title>聖武天皇陵に研究者が立ち入り観察　戦国期、松永久秀の城の一部に</title>
+ <link>https://www.asahi.com/articles/ASV2W35CJV2WPOMB00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-02-27T20:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
