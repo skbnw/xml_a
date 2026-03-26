@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-03-26T15:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-03-26T15:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3S30SVV3SUCVL01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3V107FV3VUCVL007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3T3TV6V3TUCVL02NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3T2TW6V3TUCVL01WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3L0DYBV3LPTIL009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3S5528V3SUCVL01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3S3GM9V3SPOMB00RM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV3S30SVV3SUCVL01XM.html?ref=rss">
+ <title>文化の価値は継続にこそ　室内オケ補助金廃止方針、鈴木秀美さん語る</title>
+ <link>https://www.asahi.com/articles/ASV3S30SVV3SUCVL01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-26T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3V107FV3VUCVL007M.html?ref=rss">
+ <title>「これからがスタート」補助金打ち切りの楽団に山田和樹さんがエール</title>
+ <link>https://www.asahi.com/articles/ASV3V107FV3VUCVL007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-26T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3T3TV6V3TUCVL02NM.html?ref=rss">
+ <title>WBC豪州戦で1790万人視聴、単一タイトルで国内最多　ネトフリ</title>
+ <link>https://www.asahi.com/articles/ASV3T3TV6V3TUCVL02NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-25T21:04:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3T2TW6V3TUCVL01WM.html?ref=rss">
+ <title>岡田美術館が一時休館、作品の返却要請で　昨秋に歌麿作品が売却</title>
+ <link>https://www.asahi.com/articles/ASV3T2TW6V3TUCVL01WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-25T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3L0DYBV3LPTIL009M.html?ref=rss">
+ <title>加藤登紀子さんの亡き夫がむすんだ縁　ハンセン病回復者施設60年</title>
+ <link>https://www.asahi.com/articles/ASV3L0DYBV3LPTIL009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-25T17:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3S5528V3SUCVL01MM.html?ref=rss">
+ <title>朝日アマ将棋、荒田さんが初優勝　朝日杯出場の8人決定、初の女性も</title>
+ <link>https://www.asahi.com/articles/ASV3S5528V3SUCVL01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-25T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3S3GM9V3SPOMB00RM.html?ref=rss">
+ <title>異形の鬼神面「八雷神面」76年ぶりに寺にお帰り　CFで建物修理</title>
+ <link>https://www.asahi.com/articles/ASV3S3GM9V3SPOMB00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-24T20:20:00+09:00</dc:date>
+</item>
+</rdf:RDF>
