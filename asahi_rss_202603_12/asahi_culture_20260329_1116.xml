@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-03-29T18:15:46+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-03-29T18:15:46+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3Y2TYBV3YUCVL001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3Y2H0YV3YUCVL00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3T2QD5V3TULFA00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3X3PSWV3XPQIP015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3V3CGWV3VULLI014M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3W2W2JV3WOXIE01PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3W369JV3WUCVL002M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV3Y2TYBV3YUCVL001M.html?ref=rss">
+ <title>藤井聡太棋王が逆転防衛で4連覇　王将戦に続いてカド番しのぐ</title>
+ <link>https://www.asahi.com/articles/ASV3Y2TYBV3YUCVL001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-29T18:15:46+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3Y2H0YV3YUCVL00BM.html?ref=rss">
+ <title>芝居町「道頓堀」で感謝のお練り　大阪松竹座の最終公演を前に</title>
+ <link>https://www.asahi.com/articles/ASV3Y2H0YV3YUCVL00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-29T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3T2QD5V3TULFA00BM.html?ref=rss">
+ <title>YOASOBIの世界観に「入り込む」　ソニーが挑む新しい音楽体験</title>
+ <link>https://www.asahi.com/articles/ASV3T2QD5V3TULFA00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-29T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3X3PSWV3XPQIP015M.html?ref=rss">
+ <title>撮影OK?「心配無用ノ介」SNS拡散で宣伝　太秦映画村で公開収録</title>
+ <link>https://www.asahi.com/articles/ASV3X3PSWV3XPQIP015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-28T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3V3CGWV3VULLI014M.html?ref=rss">
+ <title>難病の母と介護する息子描く映画「90メートル」監督に大学生が聞く</title>
+ <link>https://www.asahi.com/articles/ASV3V3CGWV3VULLI014M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-28T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3W2W2JV3WOXIE01PM.html?ref=rss">
+ <title>神戸の室内オケ、解散議案は「継続審議」　市の補助金打ち切り方針で</title>
+ <link>https://www.asahi.com/articles/ASV3W2W2JV3WOXIE01PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-27T20:36:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3W369JV3WUCVL002M.html?ref=rss">
+ <title>雪舟、等伯、若冲よりも…つげ義春は「大切な存在」　山下裕二さん</title>
+ <link>https://www.asahi.com/articles/ASV3W369JV3WUCVL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-27T20:25:22+09:00</dc:date>
+</item>
+</rdf:RDF>
