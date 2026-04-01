@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-04-01T15:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-04-01T15:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV411R7GV41PQIP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV303HYXV30UCVL054M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV302TC5V30UCVL021M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV302RBXV30UCVL02WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV302ST0V30PIHB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV302S3FV30OXIE00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV302HZBV30UCVL01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3V313PV3VUTFL00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3S53N1V3SPITB00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV3V2G39V3VUCVL00KM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV411R7GV41PQIP001M.html?ref=rss">
+ <title>16メートル超、国内最大級の掛け軸　奈良・長谷寺で8年ぶり公開</title>
+ <link>https://www.asahi.com/articles/ASV411R7GV41PQIP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-01T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV303HYXV30UCVL054M.html?ref=rss">
+ <title>国立博物館・美術館が中期計画　自己収入が増えれば予算アップ</title>
+ <link>https://www.asahi.com/articles/ASV303HYXV30UCVL054M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV302TC5V30UCVL021M.html?ref=rss">
+ <title>道頓堀での劇場運営を継続へ　閉館の大阪松竹座「歴史継続していく」</title>
+ <link>https://www.asahi.com/articles/ASV302TC5V30UCVL021M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV302RBXV30UCVL02WM.html?ref=rss">
+ <title>テレビ朝日、AI早河会長を開発　壁打ち活用で「イズム」伝承狙う？</title>
+ <link>https://www.asahi.com/articles/ASV302RBXV30UCVL02WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV302ST0V30PIHB001M.html?ref=rss">
+ <title>戦時中の脱線事故犠牲者悼む　生き残った89歳「争いのない地球に」</title>
+ <link>https://www.asahi.com/articles/ASV302ST0V30PIHB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV302S3FV30OXIE00YM.html?ref=rss">
+ <title>京の春告げる「都をどり」へ総仕上げ　芸舞妓確認終え、1日から公演</title>
+ <link>https://www.asahi.com/articles/ASV302S3FV30OXIE00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV302HZBV30UCVL01RM.html?ref=rss">
+ <title>テレビの「1局2波」、総務省が容認へ　規制緩和で系列またぐ再編も</title>
+ <link>https://www.asahi.com/articles/ASV302HZBV30UCVL01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3V313PV3VUTFL00JM.html?ref=rss">
+ <title>きょう生誕100年、かこさとしさんは工学博士　科学絵本の企画展</title>
+ <link>https://www.asahi.com/articles/ASV3V313PV3VUTFL00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3S53N1V3SPITB00FM.html?ref=rss">
+ <title>造れば誰かが傷つくことも？武器輸出拡大論の中、ウサギの島で考えた</title>
+ <link>https://www.asahi.com/articles/ASV3S53N1V3SPITB00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV3V2G39V3VUCVL00KM.html?ref=rss">
+ <title>ファッションの未来を感じる若手たち マスイユウが見たロンドンFW</title>
+ <link>https://www.asahi.com/articles/ASV3V2G39V3VUCVL00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-03-31T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
