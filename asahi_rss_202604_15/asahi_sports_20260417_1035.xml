@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-04-17T18:37:20+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-04-17T18:37:20+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4K1VVXV4KPTQP00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4K250XV4KPTQP00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4K0F3VV4KUTIL028M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4K1385V4KUTIL00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4K0T6CV4KPTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4K04Y8V4KUQIP02BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4J7SG9V4JUTQP005M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV4K1VVXV4KPTQP00VM.html?ref=rss">
+ <title>夏の高校野球、女性審判が大会初ジャッジへ「少年少女に夢与えたい」</title>
+ <link>https://www.asahi.com/articles/ASV4K1VVXV4KPTQP00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-17T18:37:20+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4K250XV4KPTQP00TM.html?ref=rss">
+ <title>甲子園2部制、午前1試合と午後3試合に　3回戦までオンライン抽選</title>
+ <link>https://www.asahi.com/articles/ASV4K250XV4KPTQP00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-17T17:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4K0F3VV4KUTIL028M.html?ref=rss">
+ <title>りくりゅう、園遊会前の引退表明　「自分たちの今後、伝えたかった」</title>
+ <link>https://www.asahi.com/articles/ASV4K0F3VV4KUTIL028M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-17T17:20:11+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4K1385V4KUTIL00BM.html?ref=rss">
+ <title>園遊会当日の引退表明　「りくりゅう」ペアが語った理由、一問一答</title>
+ <link>https://www.asahi.com/articles/ASV4K1385V4KUTIL00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-17T16:44:03+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4K0T6CV4KPTQP001M.html?ref=rss">
+ <title>「話にならない事件」は笑い話に　「りくりゅう」引退までの足跡</title>
+ <link>https://www.asahi.com/articles/ASV4K0T6CV4KPTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-17T12:10:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4K04Y8V4KUQIP02BM.html?ref=rss">
+ <title>「すべてが誇りで、財産」　40枚で振り返るりくりゅうの競技人生</title>
+ <link>https://www.asahi.com/articles/ASV4K04Y8V4KUQIP02BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-17T11:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4J7SG9V4JUTQP005M.html?ref=rss">
+ <title>フィギュア「りくりゅう」が引退発表　ペアで日本勢初の五輪金メダル</title>
+ <link>https://www.asahi.com/articles/ASV4J7SG9V4JUTQP005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-17T08:26:57+09:00</dc:date>
+</item>
+</rdf:RDF>
