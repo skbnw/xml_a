@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-04-23T11:10:31+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-04-23T11:10:31+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4Q4GMKV4QPOMB01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4Q1BTZV4QULOB00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4Q2QY1V4QUCVL02CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4Q129XV4QUCVL00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4P2TS4V4POXIE01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4P2C9MV4PUCVL01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4P24FDV4POIPE009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4P0TK4V4PUCVL002M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV4Q4GMKV4QPOMB01CM.html?ref=rss">
+ <title>「むしろ」と「こも」うまく使い分け　正倉院宝物を専門家チーム分析</title>
+ <link>https://www.asahi.com/articles/ASV4Q4GMKV4QPOMB01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-23T11:10:31+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4Q1BTZV4QULOB00NM.html?ref=rss">
+ <title>患者さん癒やす「病院内ラジオ」　医師や学生も制作出演　聖マリ病院</title>
+ <link>https://www.asahi.com/articles/ASV4Q1BTZV4QULOB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-23T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4Q2QY1V4QUCVL02CM.html?ref=rss">
+ <title>契約終了、柚木麻子さんだけでなく　新潮社への抗議デモに作家の姿も</title>
+ <link>https://www.asahi.com/articles/ASV4Q2QY1V4QUCVL02CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-22T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4Q129XV4QUCVL00HM.html?ref=rss">
+ <title>柚木麻子さん「BUTTER」出版権引きあげ　週刊新潮コラム問題で</title>
+ <link>https://www.asahi.com/articles/ASV4Q129XV4QUCVL00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-22T12:24:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4P2TS4V4POXIE01MM.html?ref=rss">
+ <title>春の訪れ告げる　天野山金剛寺で弘法大師の遺徳しのんで供養法要</title>
+ <link>https://www.asahi.com/articles/ASV4P2TS4V4POXIE01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-21T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4P2C9MV4PUCVL01NM.html?ref=rss">
+ <title>加藤一二三九段に名誉十段を追贈　初獲得、最多獲得のタイトルに敬意</title>
+ <link>https://www.asahi.com/articles/ASV4P2C9MV4PUCVL01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-21T16:35:47+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4P24FDV4POIPE009M.html?ref=rss">
+ <title>新作短編「魔女の谷の夜」上映へ　愛知・ジブリパークで7月8日から</title>
+ <link>https://www.asahi.com/articles/ASV4P24FDV4POIPE009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-21T16:03:29+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4P0TK4V4PUCVL002M.html?ref=rss">
+ <title>「ガンダム」シリーズ初の実写映画、撮影開始　ネットフリックス発表</title>
+ <link>https://www.asahi.com/articles/ASV4P0TK4V4PUCVL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-21T12:20:00+09:00</dc:date>
+</item>
+</rdf:RDF>
