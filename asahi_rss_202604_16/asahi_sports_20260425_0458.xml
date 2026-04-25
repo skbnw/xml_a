@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-04-25T11:00:37+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-04-25T11:00:37+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4T0HNDV4TUTQP004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4S3TYMV4SUTQP02HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4S3QMSV4SUTQP01PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4S2TR9V4SPTQP00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4S1PFVV4SUTQP00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4R4RL4V4RPTQP007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4R36DFV4RUJHB00NM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV4T0HNDV4TUTQP004M.html?ref=rss">
+ <title>「りくりゅう」ら日本橋でパレード　五輪パラ選手、約110人が参加</title>
+ <link>https://www.asahi.com/articles/ASV4T0HNDV4TUTQP004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-25T11:00:37+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4S3TYMV4SUTQP02HM.html?ref=rss">
+ <title>米高官、イランのW杯出場に異論なし　イタリア側は代替出場案に反発</title>
+ <link>https://www.asahi.com/articles/ASV4S3TYMV4SUTQP02HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-24T21:24:38+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4S3QMSV4SUTQP01PM.html?ref=rss">
+ <title>7イニング制意見交換会を5、6月に開催　大阪桐蔭の西谷監督ら参加</title>
+ <link>https://www.asahi.com/articles/ASV4S3QMSV4SUTQP01PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-24T20:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4S2TR9V4SPTQP00KM.html?ref=rss">
+ <title>日本高野連の宝会長、「厳重注意措置」を受け辞任　後任に北村副会長</title>
+ <link>https://www.asahi.com/articles/ASV4S2TR9V4SPTQP00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-24T18:38:08+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4S1PFVV4SUTQP00HM.html?ref=rss">
+ <title>スポーツ中継のあり方、有識者らが議論へ　WBCの有料配信受け</title>
+ <link>https://www.asahi.com/articles/ASV4S1PFVV4SUTQP00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-24T14:51:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4R4RL4V4RPTQP007M.html?ref=rss">
+ <title>「強いじゃないか！」　ヤクルトが12球団最速で「貯金」10に到達</title>
+ <link>https://www.asahi.com/articles/ASV4R4RL4V4RPTQP007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-23T23:31:34+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4R36DFV4RUJHB00NM.html?ref=rss">
+ <title>J1鹿島のクラブハウス移転検討に鹿嶋市が猛反発　市長「撤回を」</title>
+ <link>https://www.asahi.com/articles/ASV4R36DFV4RUJHB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-23T20:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
