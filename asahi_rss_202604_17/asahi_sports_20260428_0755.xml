@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-04-28T13:35:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-04-28T13:35:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4X02JGV4XUTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4W4WNPV4WUTQP004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4W1QV4V4WUTQP00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4S2QLPV4SOIPE00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4V3JPDV4VUTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4V45CXV4VUTQP00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4V3TB7V4VPTQP00WM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV4X02JGV4XUTQP002M.html?ref=rss">
+ <title>【動画】りくりゅう引退会見　「りくちゃんとじゃなければ僕たちは」</title>
+ <link>https://www.asahi.com/articles/ASV4X02JGV4XUTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-28T13:35:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4W4WNPV4WUTQP004M.html?ref=rss">
+ <title>労組プロ野球選手会が年俸調査を発表　12球団トップはソフトバンク</title>
+ <link>https://www.asahi.com/articles/ASV4W4WNPV4WUTQP004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-28T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4W1QV4V4WUTQP00JM.html?ref=rss">
+ <title>元なでしこ岩清水梓が引退発表　ベレーザ一筋、出産経て復帰の先駆者</title>
+ <link>https://www.asahi.com/articles/ASV4W1QV4V4WUTQP00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-27T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4S2QLPV4SOIPE00PM.html?ref=rss">
+ <title>選手村の代わりにリースのコンテナ型宿泊施設　アジア大会へ着々設置</title>
+ <link>https://www.asahi.com/articles/ASV4S2QLPV4SOIPE00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-27T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4V3JPDV4VUTQP002M.html?ref=rss">
+ <title>「ミスが許せなかった」米沢蓮　ツアー復活Vのために必要だった力</title>
+ <link>https://www.asahi.com/articles/ASV4V3JPDV4VUTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-26T22:36:20+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4V45CXV4VUTQP00PM.html?ref=rss">
+ <title>男子マラソンで世界新記録　ケニアのサウェが初の2時間切り</title>
+ <link>https://www.asahi.com/articles/ASV4V45CXV4VUTQP00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-26T21:50:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4V3TB7V4VPTQP00WM.html?ref=rss">
+ <title>阪神の近本光司が左手首を骨折　甲子園での広島戦で死球</title>
+ <link>https://www.asahi.com/articles/ASV4V3TB7V4VPTQP00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-04-26T19:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
