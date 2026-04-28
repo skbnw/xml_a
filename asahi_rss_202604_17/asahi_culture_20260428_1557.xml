@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-04-28T23:05:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-04-28T23:05:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4X4GJ6V4XUCVL04VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4W24LSV4WBSDE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4W1V4XV4WPOMB006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4R3SM5V4RPLZB00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4R1TMZV4RUCVL01NM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV4X4GJ6V4XUCVL04VM.html?ref=rss">
+ <title>バナナマンの日村勇紀さん、体調不良のため休養発表　「当面の間」</title>
+ <link>https://www.asahi.com/articles/ASV4X4GJ6V4XUCVL04VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-28T23:05:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4W24LSV4WBSDE001M.html?ref=rss">
+ <title>全日写連100周年撮影会、550人がパフォーマンス撮影などを満喫</title>
+ <link>https://www.asahi.com/articles/ASV4W24LSV4WBSDE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-27T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4W1V4XV4WPOMB006M.html?ref=rss">
+ <title>「お坊さんじゃなければ撮れない」とプロも評価　東大寺僧侶が写真展</title>
+ <link>https://www.asahi.com/articles/ASV4W1V4XV4WPOMB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-27T15:52:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4R3SM5V4RPLZB00YM.html?ref=rss">
+ <title>吹奏楽の祭典「ブラスエキスポ」、29日に京都・太陽が丘では初開催</title>
+ <link>https://www.asahi.com/articles/ASV4R3SM5V4RPLZB00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-27T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4R1TMZV4RUCVL01NM.html?ref=rss">
+ <title>マンガ大賞に児島青「本なら売るほど」　第30回手塚治虫文化賞</title>
+ <link>https://www.asahi.com/articles/ASV4R1TMZV4RUCVL01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-04-27T05:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
