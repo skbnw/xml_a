@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-05-03T19:15:48+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-05-03T19:15:48+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV532Q6JV53PLZB004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5232S5V52UCVL008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV522HY7V52UCVL004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4K4CPGV4KPOMB00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4Y11JBV4YUTFL025M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4Z0HG7V4ZUCVL01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV513K19V51PLZB005M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV532Q6JV53PLZB004M.html?ref=rss">
+ <title>葵祭の始まり告げる「流鏑馬」　馬上の射手勇ましく　京都・下鴨神社</title>
+ <link>https://www.asahi.com/articles/ASV532Q6JV53PLZB004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-03T19:15:48+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5232S5V52UCVL008M.html?ref=rss">
+ <title>福間香奈女流五冠「不安が残る」　将棋連盟検討委の最終答申に心境</title>
+ <link>https://www.asahi.com/articles/ASV5232S5V52UCVL008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-02T18:37:08+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV522HY7V52UCVL004M.html?ref=rss">
+ <title>アカデミー賞、AI利用にルール　演技や脚本部門「人間による」明記</title>
+ <link>https://www.asahi.com/articles/ASV522HY7V52UCVL004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-02T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4K4CPGV4KPOMB00FM.html?ref=rss">
+ <title>弥生人の死生観とは　西日本各地の墓の出土品など　橿考研博で特別展</title>
+ <link>https://www.asahi.com/articles/ASV4K4CPGV4KPOMB00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-02T10:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4Y11JBV4YUTFL025M.html?ref=rss">
+ <title>地域の小魚は季節の指標　文化庁「100年フード」に残す伝統</title>
+ <link>https://www.asahi.com/articles/ASV4Y11JBV4YUTFL025M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-02T09:03:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4Z0HG7V4ZUCVL01HM.html?ref=rss">
+ <title>ヨウジヤマモト、ジュンヤワタナベ…独自の創造貫くパリFWの日本勢</title>
+ <link>https://www.asahi.com/articles/ASV4Z0HG7V4ZUCVL01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-02T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV513K19V51PLZB005M.html?ref=rss">
+ <title>京伝統の風雅な夕涼み　夏の風物詩「鴨川納涼床」始まる</title>
+ <link>https://www.asahi.com/articles/ASV513K19V51PLZB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-01T21:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
