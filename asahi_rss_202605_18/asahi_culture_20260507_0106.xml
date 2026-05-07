@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-05-07T09:40:43+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-05-07T09:40:43+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV562QBNV56UCVL003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV563RP2V56UCVL015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV562FDCV56UCVL00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV563GN4V56UCVL018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4Z15QRV4ZPJLB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5120PJV51PJLB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV552JSGV55PLZB00BM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV562QBNV56UCVL003M.html?ref=rss">
+ <title>【速報中】復興に向かう和倉温泉で名人戦第3局　出だしは「普通」</title>
+ <link>https://www.asahi.com/articles/ASV562QBNV56UCVL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-07T09:40:43+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV563RP2V56UCVL015M.html?ref=rss">
+ <title>オペラ・バレエ「劇場がない！」休館ラッシュで殿堂・東京文化会館も</title>
+ <link>https://www.asahi.com/articles/ASV563RP2V56UCVL015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-07T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV562FDCV56UCVL00FM.html?ref=rss">
+ <title>中村倫也、神木隆之介が渋谷で出題　クイズ早押し「リスペクト増す」</title>
+ <link>https://www.asahi.com/articles/ASV562FDCV56UCVL00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-06T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV563GN4V56UCVL018M.html?ref=rss">
+ <title>将棋名人戦、7日から石川県七尾市で　能登半島地震の被災地が誘致</title>
+ <link>https://www.asahi.com/articles/ASV563GN4V56UCVL018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-06T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4Z15QRV4ZPJLB002M.html?ref=rss">
+ <title>能登地震の被災旅館、将棋名人戦の会場に　「立ち上がる姿を全国へ」</title>
+ <link>https://www.asahi.com/articles/ASV4Z15QRV4ZPJLB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-06T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5120PJV51PJLB002M.html?ref=rss">
+ <title>勝負メシに勝負おやつ、25種続々　将棋名人戦通じ能登の魅力を発信</title>
+ <link>https://www.asahi.com/articles/ASV5120PJV51PJLB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-06T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV552JSGV55PLZB00BM.html?ref=rss">
+ <title>疾走する馬上から妙技次々と　京都・藤森神社で伝統の「駈馬神事」</title>
+ <link>https://www.asahi.com/articles/ASV552JSGV55PLZB00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-05T19:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
