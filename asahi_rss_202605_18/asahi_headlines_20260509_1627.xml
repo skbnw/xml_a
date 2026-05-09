@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+  <channel rdf:about="http://www3.asahi.com/">
+    <title>朝日新聞</title>
+    <link>http://www.asahi.com/</link>
+    <description>朝日新聞のデジタル版全ジャンルの最新ニュースです。</description>
+    <dc:language>ja</dc:language>
+    <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+    <dc:creator>朝日新聞社</dc:creator>
+    <dc:date>2026-05-09T20:42:19+09:00</dc:date>
+    <dc:publisher>朝日新聞社</dc:publisher>
+    <syn:updatePeriod>hourly</syn:updatePeriod>
+    <syn:updateFrequency>1</syn:updateFrequency>
+    <syn:updateBase>2026-05-09T20:42:19+09:00</syn:updateBase>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV592W2FV59OIPE001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV5925Z5V59UGTB001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV590BJWV59PTIL00QM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV577GRTV57UTIL006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV583TJCV58UTPB006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV591CSQV59UTIL02KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV580GPXV58PJLB004M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV5720PDV57UTIL018M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV5904Y1V59UTIL001M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV583PWKV58UTIL014M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV593HB9V59UTQP020M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV593QRPV59PTQP00MM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV593FGKV59UTQP00GM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV591PH7V59UCVL00PM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV5846VQV58PIHB017M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV58332VV58ULFA00QM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV5844G2V58ULFA025M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV572PWMV57ULFA02JM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV4Z0GLTV4ZULFA01NM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV5844YPV58UHBI026M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV584QZNV58UTFK003M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV511GLHV51UTFK016M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV547769V54UTFK006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV583CLNV58UTFK00GM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV583RSPV58UTFK00JM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV59424YV59UHBI00KM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV593JSMV59UHBI01PM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV591PVTV59UHBI005M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV59107TV59UHBI002M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV567TLSV56UHBI007M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV592H1VV59UCVL018M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV5742JVV57UCVL056M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV581TYTV58OXIE01MM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV582CTVV58UCVL04DM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV511V0SV51UTFL002M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV581Q0FV58UTFL006M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV573285V57ULFA015M.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV594410V59UCVL01LM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV581DMHV58UCVL02DM.html?ref=rss"/>
+        <rdf:li rdf:resource="http://www.asahi.com/articles/ASV573RNRV57UCVL045M.html?ref=rss"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.asahi.com/articles/ASV592W2FV59OIPE001M.html?ref=rss">
+    <title>式年遷宮に向け「エンヤ」　伊勢神宮の用材運ぶ「お木曳行事」始まる</title>
+    <link>http://www.asahi.com/articles/ASV592W2FV59OIPE001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV5925Z5V59UGTB001M.html?ref=rss">
+    <title>磐越道事故の5日前にも物損事故　容疑者、数カ月前から複数回起こす</title>
+    <link>http://www.asahi.com/articles/ASV5925Z5V59UGTB001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T16:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV590BJWV59PTIL00QM.html?ref=rss">
+    <title>大阪ミナミのホテルに女性の遺体「ある男性が、殺したと言っている」</title>
+    <link>http://www.asahi.com/articles/ASV590BJWV59PTIL00QM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T16:28:21+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV577GRTV57UTIL006M.html?ref=rss">
+    <title>孤立しがちな性被害者にゆるやかな「連帯」　有罪判決を伝える意味</title>
+    <link>http://www.asahi.com/articles/ASV577GRTV57UTIL006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV583TJCV58UTPB006M.html?ref=rss">
+    <title>秘境の渓谷走る大井川鉄道　最大20倍強の値上げ検討に地元が反発</title>
+    <link>http://www.asahi.com/articles/ASV583TJCV58UTPB006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV591CSQV59UTIL02KM.html?ref=rss">
+    <title>佳子さま、岩手・大槌の林野火災に触れ「再生願う」　みどりの感謝祭</title>
+    <link>http://www.asahi.com/articles/ASV591CSQV59UTIL02KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T13:32:50+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV580GPXV58PJLB004M.html?ref=rss">
+    <title>忘れられなかったおにぎりの味　旅先の千枚田で被災、守るために移住</title>
+    <link>http://www.asahi.com/articles/ASV580GPXV58PJLB004M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T12:57:08+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV5720PDV57UTIL018M.html?ref=rss">
+    <title>実は知らない生理のこと　東大生が教材キットで伝える10代のリアル</title>
+    <link>http://www.asahi.com/articles/ASV5720PDV57UTIL018M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV5904Y1V59UTIL001M.html?ref=rss">
+    <title>磐越道事故のバス、高校名義でレンタカー契約　運行会社通じ過去にも</title>
+    <link>http://www.asahi.com/articles/ASV5904Y1V59UTIL001M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV583PWKV58UTIL014M.html?ref=rss">
+    <title>副市長に働きかけか、「男気応えろ」幹部にも？　八代市議汚職事件</title>
+    <link>http://www.asahi.com/articles/ASV583PWKV58UTIL014M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-09T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV593HB9V59UTQP020M.html?ref=rss">
+    <title>98ヤードが名物の難コース、選手は「6歳老けました」設定の狙いは</title>
+    <link>http://www.asahi.com/articles/ASV593HB9V59UTQP020M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2026-05-09T21:55:03+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV593QRPV59PTQP00MM.html?ref=rss">
+    <title>今季限りで退団の高橋藍「最後も皆さんと」　SVリーグ準決勝始まる</title>
+    <link>http://www.asahi.com/articles/ASV593QRPV59PTQP00MM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2026-05-09T21:49:50+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV593FGKV59UTQP00GM.html?ref=rss">
+    <title>山沢拓也、100試合出場を大勝で飾る　相手のリーチも「うれしい」</title>
+    <link>http://www.asahi.com/articles/ASV593FGKV59UTQP00GM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2026-05-09T19:55:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV591PH7V59UCVL00PM.html?ref=rss">
+    <title>相撲協会がスイス高級時計と提携　ロレックス兄弟ブランドと初契約</title>
+    <link>http://www.asahi.com/articles/ASV591PH7V59UCVL00PM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2026-05-09T14:19:15+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV5846VQV58PIHB017M.html?ref=rss">
+    <title>ストークス、PO準決勝の初戦勝利　スタンドで鋭い視線を送るのは…</title>
+    <link>http://www.asahi.com/articles/ASV5846VQV58PIHB017M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>スポーツ</dc:subject>
+    <dc:date>2026-05-08T22:55:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV58332VV58ULFA00QM.html?ref=rss">
+    <title>花王や三菱食品など9社が配送で連携　データ駆使し積載率上昇めざす</title>
+    <link>http://www.asahi.com/articles/ASV58332VV58ULFA00QM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2026-05-09T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV5844G2V58ULFA025M.html?ref=rss">
+    <title>JR東「約束は尊重して」　公開した七つの合意文書　貸付料見直し案</title>
+    <link>http://www.asahi.com/articles/ASV5844G2V58ULFA025M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2026-05-09T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV572PWMV57ULFA02JM.html?ref=rss">
+    <title>過大な目標、値引き依存のジレンマ　元社員のアナリストが見た日産</title>
+    <link>http://www.asahi.com/articles/ASV572PWMV57ULFA02JM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2026-05-09T07:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV4Z0GLTV4ZULFA01NM.html?ref=rss">
+    <title>元日産ゴーン氏の右腕が警鐘　スカイラインやGT-Rより必要なのは</title>
+    <link>http://www.asahi.com/articles/ASV4Z0GLTV4ZULFA01NM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2026-05-09T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV5844YPV58UHBI026M.html?ref=rss">
+    <title>米4月の就業者数、前月比11.5万人増　市場予想を大幅に上回る</title>
+    <link>http://www.asahi.com/articles/ASV5844YPV58UHBI026M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>ビジネス</dc:subject>
+    <dc:date>2026-05-08T21:57:28+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV584QZNV58UTFK003M.html?ref=rss">
+    <title>田中角栄首相の元秘書官が語る　石油危機から学べる教訓とは</title>
+    <link>http://www.asahi.com/articles/ASV584QZNV58UTFK003M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2026-05-09T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV511GLHV51UTFK016M.html?ref=rss">
+    <title>高市氏が好き57%、石破氏の時から逆転　自民も反転、朝日東大調査</title>
+    <link>http://www.asahi.com/articles/ASV511GLHV51UTFK016M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2026-05-09T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV547769V54UTFK006M.html?ref=rss">
+    <title>「世界史的な分水嶺」に臨む自衛官を育てる　吉田圭秀・防衛大学校長</title>
+    <link>http://www.asahi.com/articles/ASV547769V54UTFK006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2026-05-09T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV583CLNV58UTFK00GM.html?ref=rss">
+    <title>東シナ海に構造物増やす中国　「日中関係のバロメーター」から変化か</title>
+    <link>http://www.asahi.com/articles/ASV583CLNV58UTFK00GM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2026-05-09T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV583RSPV58UTFK00JM.html?ref=rss">
+    <title>小沢一郎氏が事務所開設、落選者の拠点に　「党分断のリスク」警戒も</title>
+    <link>http://www.asahi.com/articles/ASV583RSPV58UTFK00JM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>政治</dc:subject>
+    <dc:date>2026-05-08T21:02:29+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV59424YV59UHBI00KM.html?ref=rss">
+    <title>与党・労働党が6割減の大敗　英地方選、ポピュリスト政党がなぜ躍進</title>
+    <link>http://www.asahi.com/articles/ASV59424YV59UHBI00KM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2026-05-09T22:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV593JSMV59UHBI01PM.html?ref=rss">
+    <title>ロシアで戦勝記念パレード、北朝鮮兵も初行進　プーチン氏は団結訴え</title>
+    <link>http://www.asahi.com/articles/ASV593JSMV59UHBI01PM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2026-05-09T21:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV591PVTV59UHBI005M.html?ref=rss">
+    <title>米政府、中国拠点の企業など制裁対象に「イランに米軍施設画像提供」</title>
+    <link>http://www.asahi.com/articles/ASV591PVTV59UHBI005M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2026-05-09T15:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV59107TV59UHBI002M.html?ref=rss">
+    <title>ロシアへの協力を確認　金総書記がプーチン氏に祝電　対独戦勝記念日</title>
+    <link>http://www.asahi.com/articles/ASV59107TV59UHBI002M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2026-05-09T12:12:56+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV567TLSV56UHBI007M.html?ref=rss">
+    <title>傷つく米国の権威、イラン危機は「第2のスエズ動乱」か　英在住識者</title>
+    <link>http://www.asahi.com/articles/ASV567TLSV56UHBI007M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>国際</dc:subject>
+    <dc:date>2026-05-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV592H1VV59UCVL018M.html?ref=rss">
+    <title>KCON　初日のヘッドライナーはINI　米記者「ナイフのよう」</title>
+    <link>http://www.asahi.com/articles/ASV592H1VV59UCVL018M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2026-05-09T22:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV5742JVV57UCVL056M.html?ref=rss">
+    <title>【詳報】藤井聡太名人、3連勝で4連覇に王手　最後は35手詰め</title>
+    <link>http://www.asahi.com/articles/ASV5742JVV57UCVL056M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>文化芸能</dc:subject>
+    <dc:date>2026-05-08T20:08:05+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV581TYTV58OXIE01MM.html?ref=rss">
+    <title>名人戦の勝負ランチを当てよう　第4局開催の大阪・高槻市が予想募る</title>
+    <link>http://www.asahi.com/articles/ASV581TYTV58OXIE01MM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-08T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV582CTVV58UCVL04DM.html?ref=rss">
+    <title>ドイツの映像祭でABCテレビの2作品が金賞　地震や事故の教訓映す</title>
+    <link>http://www.asahi.com/articles/ASV582CTVV58UCVL04DM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>社会</dc:subject>
+    <dc:date>2026-05-08T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV511V0SV51UTFL002M.html?ref=rss">
+    <title>人に魚の群れ教えた鳥、逆に人を利用し狩り　船上の暇つぶしから発見</title>
+    <link>http://www.asahi.com/articles/ASV511V0SV51UTFL002M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2026-05-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV581Q0FV58UTFL006M.html?ref=rss">
+    <title>小惑星アポフィスに備え日欧で「地球防衛」　H3で探査機打ち上げへ</title>
+    <link>http://www.asahi.com/articles/ASV581Q0FV58UTFL006M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2026-05-08T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV573285V57ULFA015M.html?ref=rss">
+    <title>インスタ、10代向けコンテンツ表示の制限強化　映画参考に日本でも</title>
+    <link>http://www.asahi.com/articles/ASV573285V57ULFA015M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>サイエンス</dc:subject>
+    <dc:date>2026-05-08T01:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV594410V59UCVL01LM.html?ref=rss">
+    <title>作家の鈴木光司さん死去　68歳、ホラー小説「リング」「らせん」</title>
+    <link>http://www.asahi.com/articles/ASV594410V59UCVL01LM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2026-05-09T21:42:53+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV581DMHV58UCVL02DM.html?ref=rss">
+    <title>皇室ジャーナリスト久能靖さん死去、90歳　元日テレアナウンサー</title>
+    <link>http://www.asahi.com/articles/ASV581DMHV58UCVL02DM.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2026-05-08T14:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/articles/ASV573RNRV57UCVL045M.html?ref=rss">
+    <title>俳優の大葉健二さん死去、71歳　「宇宙刑事ギャバン」で主人公</title>
+    <link>http://www.asahi.com/articles/ASV573RNRV57UCVL045M.html?ref=rss</link>
+    <description></description>
+    <dc:subject>おくやみ</dc:subject>
+    <dc:date>2026-05-07T21:15:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
