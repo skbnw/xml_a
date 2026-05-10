@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-05-10T15:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-05-10T15:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV593JV4V59IIPE01FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5720WXV57BNQI008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV592H1VV59UCVL018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5742JVV57UCVL056M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV593JV4V59IIPE01FM.html?ref=rss">
+ <title>北海道で倒された58基の囚人墓標　訪ねて知った100年超前の苦難</title>
+ <link>https://www.asahi.com/articles/ASV593JV4V59IIPE01FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-10T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5720WXV57BNQI008M.html?ref=rss">
+ <title>「僕の根っこは四国にある」草彅剛さん　故郷・愛媛はパワーの源</title>
+ <link>https://www.asahi.com/articles/ASV5720WXV57BNQI008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-10T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV592H1VV59UCVL018M.html?ref=rss">
+ <title>KCON　初日のヘッドライナーはINI　米記者「ナイフのよう」</title>
+ <link>https://www.asahi.com/articles/ASV592H1VV59UCVL018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-09T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5742JVV57UCVL056M.html?ref=rss">
+ <title>【詳報】藤井聡太名人、3連勝で4連覇に王手　最後は35手詰め</title>
+ <link>https://www.asahi.com/articles/ASV5742JVV57UCVL056M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-08T20:08:05+09:00</dc:date>
+</item>
+</rdf:RDF>
