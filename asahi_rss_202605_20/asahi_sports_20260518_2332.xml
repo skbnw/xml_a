@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-05-18T18:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-05-18T18:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5L2JGSV5LUTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5K3DTVV5KUQIP034M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5K0HKBV5KPIHB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5K3DR2V5KUTQP00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5K2H3RV5KUTQP01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV4S24R2V4SUTQP016M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5J4RLPV5JUTQP040M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5J4F35V5JUTQP01LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV5L2JGSV5LUTQP002M.html?ref=rss">
+ <title>なでしこ新監督、狩野倫久氏が会見　「躍動感あるサッカー見せたい」</title>
+ <link>https://www.asahi.com/articles/ASV5L2JGSV5LUTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-05-18T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5K3DTVV5KUQIP034M.html?ref=rss">
+ <title>「僕は空気清浄機。過ごしやすい雰囲気に」　長友佑都が自覚する役割</title>
+ <link>https://www.asahi.com/articles/ASV5K3DTVV5KUQIP034M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-05-17T21:07:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5K0HKBV5KPIHB007M.html?ref=rss">
+ <title>浮沈の15年をこえて手にした頂点　ミスターストークス、最後の戦い</title>
+ <link>https://www.asahi.com/articles/ASV5K0HKBV5KPIHB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-05-17T20:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5K3DR2V5KUTQP00FM.html?ref=rss">
+ <title>国立を沸かせたライルズのエンタメ性　隣走った桐生は「あれが世界」</title>
+ <link>https://www.asahi.com/articles/ASV5K3DR2V5KUTQP00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-05-17T20:13:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5K2H3RV5KUTQP01BM.html?ref=rss">
+ <title>本田圭佑、盟友の長友佑都を「尊敬」　W杯で期待される39歳の役割</title>
+ <link>https://www.asahi.com/articles/ASV5K2H3RV5KUTQP01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-05-17T17:09:02+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV4S24R2V4SUTQP016M.html?ref=rss">
+ <title>男子100m、9秒台目指す清水空跳が初戦へ　「力強さが加わった」</title>
+ <link>https://www.asahi.com/articles/ASV4S24R2V4SUTQP016M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-05-17T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5J4RLPV5JUTQP040M.html?ref=rss">
+ <title>思考の幅広げる森保監督　過去、現在、未来をかけ合わせた選手選考</title>
+ <link>https://www.asahi.com/articles/ASV5J4RLPV5JUTQP040M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-05-17T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5J4F35V5JUTQP01LM.html?ref=rss">
+ <title>「美談にならない」　脳振盪から復帰した千葉ジェッツ渡辺雄太の警鐘</title>
+ <link>https://www.asahi.com/articles/ASV5J4F35V5JUTQP01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-05-17T07:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
