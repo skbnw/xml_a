@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-05-19T15:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-05-19T15:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5M1JPKV5MUCVL01GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5C22NRV5CUCVL04MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5L46JKV5LUCVL048M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5L2SXBV5LUCVL030M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5L0FVFV5LUCVL001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5J3S0DV5JUCVL02RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5K3DBCV5KULOB00DM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV5M1JPKV5MUCVL01GM.html?ref=rss">
+ <title>国際バレエコン、ジュニア最優秀賞に佐居勇星さん　日本人受賞相次ぐ</title>
+ <link>https://www.asahi.com/articles/ASV5M1JPKV5MUCVL01GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-19T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5C22NRV5CUCVL04MM.html?ref=rss">
+ <title>カンヌ参加は初、岨手由貴子監督「すべて真夜中の恋人たち」が上映</title>
+ <link>https://www.asahi.com/articles/ASV5C22NRV5CUCVL04MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-19T09:00:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5L46JKV5LUCVL048M.html?ref=rss">
+ <title>井山裕太碁聖が2敗守り、挑戦圏内に踏みとどまる　囲碁名人リーグ</title>
+ <link>https://www.asahi.com/articles/ASV5L46JKV5LUCVL048M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-18T22:05:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5L2SXBV5LUCVL030M.html?ref=rss">
+ <title>月組のトップコンビが来年3月の公演を最後に退団へ　宝塚歌劇団発表</title>
+ <link>https://www.asahi.com/articles/ASV5L2SXBV5LUCVL030M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-18T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5L0FVFV5LUCVL001M.html?ref=rss">
+ <title>藤井聡太名人「しっかり読んで指せた」　4連覇達成から一夜明け</title>
+ <link>https://www.asahi.com/articles/ASV5L0FVFV5LUCVL001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-18T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5J3S0DV5JUCVL02RM.html?ref=rss">
+ <title>【詳報】藤井名人、無傷の4連勝で4連覇　糸谷九段の挑戦退ける</title>
+ <link>https://www.asahi.com/articles/ASV5J3S0DV5JUCVL02RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-17T22:57:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5K3DBCV5KULOB00DM.html?ref=rss">
+ <title>日本初のシネコンが閉館　スター・ウォーズの聖地、コスプレファンも</title>
+ <link>https://www.asahi.com/articles/ASV5K3DBCV5KULOB00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-17T20:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
