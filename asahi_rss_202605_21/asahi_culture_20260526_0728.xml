@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-05-26T14:39:10+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-05-26T14:39:10+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5V1G2MV5VUCVL00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5V1QQ7V5VUCVL023M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5V10G5V5VUCVL04ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5V0PG1V5VUCVL041M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5T2FBZV5TUCVL029M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5T2G6FV5TUCVL023M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5T2J1LV5TUTIL00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5S32V7V5SUCVL00GM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV5V1G2MV5VUCVL00FM.html?ref=rss">
+ <title>カンヌ日本人初の女優賞岡本多緒さん、濱口竜介監督らと凱旋会見</title>
+ <link>https://www.asahi.com/articles/ASV5V1G2MV5VUCVL00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-26T14:39:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5V1QQ7V5VUCVL023M.html?ref=rss">
+ <title>ジュウリョクピエロ現象、伊坂幸太郎さんの小説「重力ピエロ」が重版</title>
+ <link>https://www.asahi.com/articles/ASV5V1QQ7V5VUCVL023M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-26T14:25:11+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5V10G5V5VUCVL04ZM.html?ref=rss">
+ <title>親友は私と縁を切りたがってる？　清田隆之さん｢ここは思い切って｣</title>
+ <link>https://www.asahi.com/articles/ASV5V10G5V5VUCVL04ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-26T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5V0PG1V5VUCVL041M.html?ref=rss">
+ <title>本の情報誌「ダ・ヴィンチ」休刊へ　「紙媒体としての役割に区切り」</title>
+ <link>https://www.asahi.com/articles/ASV5V0PG1V5VUCVL041M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-26T11:09:50+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5T2FBZV5TUCVL029M.html?ref=rss">
+ <title>大阪松竹座103年、最後の1日　昼の部に続き夜の部も「満員御礼」</title>
+ <link>https://www.asahi.com/articles/ASV5T2FBZV5TUCVL029M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-26T10:47:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5T2G6FV5TUCVL023M.html?ref=rss">
+ <title>刀剣乱舞が能狂言に　作詞は人間国宝・大槻文蔵、演出はわかぎゑふ</title>
+ <link>https://www.asahi.com/articles/ASV5T2G6FV5TUCVL023M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-25T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5T2J1LV5TUTIL00FM.html?ref=rss">
+ <title>「AIで声を模倣された」声優の津田健次郎さんがTikTokを提訴</title>
+ <link>https://www.asahi.com/articles/ASV5T2J1LV5TUTIL00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-25T17:30:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5S32V7V5SUCVL00GM.html?ref=rss">
+ <title>トップモデルから俳優へ　カンヌ初日本人女優賞の岡本多緒さんの歩み</title>
+ <link>https://www.asahi.com/articles/ASV5S32V7V5SUCVL00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-24T19:21:48+09:00</dc:date>
+</item>
+</rdf:RDF>
