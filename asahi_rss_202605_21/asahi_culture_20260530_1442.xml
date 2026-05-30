@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-05-30T17:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-05-30T17:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5Z15PDV5ZIIPE01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5Y2VGVV5YUCVL01ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5W7WBRV5WUHBI01TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5X2J8KV5XUQIP02ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5Y3DY5V5YUCVL028M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5Y2SQHV5YUQIP04MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5X46MSV5XUCVL03BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5X3HRVV5XUCVL031M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5X3696V5XUCVL05HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5X312CV5XUCVL02PM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV5Z15PDV5ZIIPE01RM.html?ref=rss">
+ <title>倒された囚人墓標に相次いだ激励、町長は涙　受刑者にこみ上げた思い</title>
+ <link>https://www.asahi.com/articles/ASV5Z15PDV5ZIIPE01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-30T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5Y2VGVV5YUCVL01ZM.html?ref=rss">
+ <title>清原果耶、舞台「レディエント・バーミン」主演　「どこまで……」</title>
+ <link>https://www.asahi.com/articles/ASV5Y2VGVV5YUCVL01ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-30T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5W7WBRV5WUHBI01TM.html?ref=rss">
+ <title>過酷なエリザベート王妃国際音楽コンクール　何がすごい？要点を解説</title>
+ <link>https://www.asahi.com/articles/ASV5W7WBRV5WUHBI01TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-30T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5X2J8KV5XUQIP02ZM.html?ref=rss">
+ <title>科博館長になった「恐竜博士」　地球史から見る世界と「稼げ」の号令</title>
+ <link>https://www.asahi.com/articles/ASV5X2J8KV5XUQIP02ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-30T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5Y3DY5V5YUCVL028M.html?ref=rss">
+ <title>福間香奈女王が逆転防衛「集中できた」　西山朋佳女流三冠を破る</title>
+ <link>https://www.asahi.com/articles/ASV5Y3DY5V5YUCVL028M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-29T19:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5Y2SQHV5YUQIP04MM.html?ref=rss">
+ <title>ピカチュウと盆踊り　10周年のポケモンGO、東京でイベント開催</title>
+ <link>https://www.asahi.com/articles/ASV5Y2SQHV5YUQIP04MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-29T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5X46MSV5XUCVL03BM.html?ref=rss">
+ <title>テレビ朝日「あのちゃんねる」終了を発表　6月15日の放送が最後</title>
+ <link>https://www.asahi.com/articles/ASV5X46MSV5XUCVL03BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-28T22:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5X3HRVV5XUCVL031M.html?ref=rss">
+ <title>伊藤匠二冠が藤井聡太王位に挑戦　羽生善治九段、タイトル挑戦逃す</title>
+ <link>https://www.asahi.com/articles/ASV5X3HRVV5XUCVL031M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-28T20:01:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5X3696V5XUCVL05HM.html?ref=rss">
+ <title>狩野派の屛風、新たに見つかる　オークションきっかけ、狩野孝信か</title>
+ <link>https://www.asahi.com/articles/ASV5X3696V5XUCVL05HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-28T19:35:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5X312CV5XUCVL02PM.html?ref=rss">
+ <title>狩野派の名品が半世紀ぶりに勢ぞろい　来春、京都で「大狩野派」展</title>
+ <link>https://www.asahi.com/articles/ASV5X312CV5XUCVL02PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-05-28T19:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
