@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-06-06T22:20:54+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-06-06T22:20:54+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV664CFKV66UTQP01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV663HVNV66UNHB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV66323GV66UHBI00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6621J6V66UTQP00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6515KTV65UTQP006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV5X1PSBV5XUPQJ00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6431JFV64UDCB001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV664CFKV66UTQP01SM.html?ref=rss">
+ <title>志学館大が2大会連続で伊勢路へ　全日本大学駅伝九州地区選考会</title>
+ <link>https://www.asahi.com/articles/ASV664CFKV66UTQP01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-06-06T22:20:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV663HVNV66UNHB002M.html?ref=rss">
+ <title>J2仙台が17年ぶりにタイトル　優勝決めたのは19歳のキッカー</title>
+ <link>https://www.asahi.com/articles/ASV663HVNV66UNHB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-06-06T20:16:20+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV66323GV66UHBI00JM.html?ref=rss">
+ <title>イランのサッカーW杯代表に米国がビザ　スタッフの一部には発給せず</title>
+ <link>https://www.asahi.com/articles/ASV66323GV66UHBI00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-06-06T18:51:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6621J6V66UTQP00MM.html?ref=rss">
+ <title>上田綺世、4年前とは違う「緊張」との向き合い方　吉田麻也も合流</title>
+ <link>https://www.asahi.com/articles/ASV6621J6V66UTQP00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-06-06T16:10:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6515KTV65UTQP006M.html?ref=rss">
+ <title>サッカー日本代表、練習場を相次いで変更　モンテレイの芝生に苦しむ</title>
+ <link>https://www.asahi.com/articles/ASV6515KTV65UTQP006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-06-05T13:35:11+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV5X1PSBV5XUPQJ00BM.html?ref=rss">
+ <title>「サッカー途上国」米国で32年ぶりW杯、出場枠拡大で熱狂の行方は</title>
+ <link>https://www.asahi.com/articles/ASV5X1PSBV5XUPQJ00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-06-05T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6431JFV64UDCB001M.html?ref=rss">
+ <title>ジェッツの西村文男、引退試合でコーチ就任発表　「11」永久欠番に</title>
+ <link>https://www.asahi.com/articles/ASV6431JFV64UDCB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-06-05T05:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
