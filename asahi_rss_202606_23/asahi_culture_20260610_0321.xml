@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-06-09T20:27:33+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-06-09T20:27:33+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV693RSZV69UCVL01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV691GPRV69UCVL015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV683PSSV68UNHB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV683J36V68UCVL053M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV652Q8YV65UCVL01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV673TJ6V67TIPE001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV693RSZV69UCVL01JM.html?ref=rss">
+ <title>全国の書店数1万店割る　前年度比424店減、ピークは1998年度</title>
+ <link>https://www.asahi.com/articles/ASV693RSZV69UCVL01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-09T20:27:33+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV691GPRV69UCVL015M.html?ref=rss">
+ <title>小学校で「人類の出現から旧石器時代」の学習を必修に　3学会が要望</title>
+ <link>https://www.asahi.com/articles/ASV691GPRV69UCVL015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-09T14:10:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV683PSSV68UNHB008M.html?ref=rss">
+ <title>整備費高騰した仙台の音楽・震災複合施設　市長や建築家に厳しい声も</title>
+ <link>https://www.asahi.com/articles/ASV683PSSV68UNHB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-09T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV683J36V68UCVL053M.html?ref=rss">
+ <title>藤井聡太名人が祝勝会に出席　「近代将棋の父」ゆかりの地を訪問</title>
+ <link>https://www.asahi.com/articles/ASV683J36V68UCVL053M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-08T20:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV652Q8YV65UCVL01XM.html?ref=rss">
+ <title>ABCテレビの高校野球応援ソング、Vaundy「かげろう」に決定</title>
+ <link>https://www.asahi.com/articles/ASV652Q8YV65UCVL01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV673TJ6V67TIPE001M.html?ref=rss">
+ <title>若手の登竜門・飯塚新人音コン　ピアノ1位河野さん、声楽1位何さん</title>
+ <link>https://www.asahi.com/articles/ASV673TJ6V67TIPE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-07T21:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
