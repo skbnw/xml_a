@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-06-12T06:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-06-12T06:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6815KZV68UCVL01DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C43T7V6CUCVL02KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C31T7V6CUCVL01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C2R7RV6CUTIL022M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C3CXGV6CUCVL011M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6B46BMV6BUCVL04FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6B5CQYV6BPTIL015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6B33QPV6BPLXB006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6B106XV6BULFA00MM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV6815KZV68UCVL01DM.html?ref=rss">
+ <title>ケニアのスラムで暮らす若者が中学生に特別授業「世界が広がった」</title>
+ <link>https://www.asahi.com/articles/ASV6815KZV68UCVL01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-12T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C43T7V6CUCVL02KM.html?ref=rss">
+ <title>NHKの総力戦研究所ドラマの映画版　製作委「公開予定に変更なし」</title>
+ <link>https://www.asahi.com/articles/ASV6C43T7V6CUCVL02KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-11T21:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C31T7V6CUCVL01LM.html?ref=rss">
+ <title>カッパの姿は「だいたい同じ」第30回手塚治虫文化賞の受賞スピーチ</title>
+ <link>https://www.asahi.com/articles/ASV6C31T7V6CUCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-11T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C2R7RV6CUTIL022M.html?ref=rss">
+ <title>ミスアキバやメイドカフェ店員が護身術学ぶ　秋葉原で痴漢撲滅訴え</title>
+ <link>https://www.asahi.com/articles/ASV6C2R7RV6CUTIL022M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-11T19:45:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C3CXGV6CUCVL011M.html?ref=rss">
+ <title>日本文芸家協会、新理事長に三浦しをんさん　林真理子さんの後任</title>
+ <link>https://www.asahi.com/articles/ASV6C3CXGV6CUCVL011M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-11T19:12:40+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6B46BMV6BUCVL04FM.html?ref=rss">
+ <title>「本なら売るほど」作者、大賞に「ただ描くしかない」手塚治虫文化賞</title>
+ <link>https://www.asahi.com/articles/ASV6B46BMV6BUCVL04FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-11T15:21:07+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6B5CQYV6BPTIL015M.html?ref=rss">
+ <title>「作詞が人間、作曲はAI」にも著作権　JASRACが方針を公表</title>
+ <link>https://www.asahi.com/articles/ASV6B5CQYV6BPTIL015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-11T11:29:40+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6B33QPV6BPLXB006M.html?ref=rss">
+ <title>「吾輩は猫である」発表期に印象派模写　漱石自筆絵はがき7点を確認</title>
+ <link>https://www.asahi.com/articles/ASV6B33QPV6BPLXB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-10T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6B106XV6BULFA00MM.html?ref=rss">
+ <title>「ちいかわ」が東京駅の一日駅長に　制帽かぶり、右足で発車の合図</title>
+ <link>https://www.asahi.com/articles/ASV6B106XV6BULFA00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-10T12:15:00+09:00</dc:date>
+</item>
+</rdf:RDF>
