@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-06-13T19:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-06-13T19:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6F316XV6FUCVL00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6F2GLFV6FUCVL03FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C0R9RV6CUCVL05TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6D2J7WV6DUCVL03BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C0V48V6CPOMB00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C5QMYV6CUCVL01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6935CKV69PITB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV691D9GV69OXIE011M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6815KZV68UCVL01DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C43T7V6CUCVL02KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C31T7V6CUCVL01LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV6F316XV6FUCVL00DM.html?ref=rss">
+ <title>古田龍生さんが「元三段対決」で先勝　朝日アマ将棋名人戦三番勝負</title>
+ <link>https://www.asahi.com/articles/ASV6F316XV6FUCVL00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-13T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6F2GLFV6FUCVL03FM.html?ref=rss">
+ <title>「日本版グラミー」　最優秀アルバム賞に藤井風さんの「Prema」</title>
+ <link>https://www.asahi.com/articles/ASV6F2GLFV6FUCVL03FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-13T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C0R9RV6CUCVL05TM.html?ref=rss">
+ <title>「人生はストーリーじゃない。今なんだ」イッセー尾形の「憲法」とは</title>
+ <link>https://www.asahi.com/articles/ASV6C0R9RV6CUCVL05TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-12T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6D2J7WV6DUCVL03BM.html?ref=rss">
+ <title>民放連、ジェンダー平等推進の提言を公表　男性優位の環境是正求める</title>
+ <link>https://www.asahi.com/articles/ASV6D2J7WV6DUCVL03BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-12T17:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C0V48V6CPOMB00NM.html?ref=rss">
+ <title>「縮小社会」での新しい発掘調査考える　奈文研がチーム作り検討開始</title>
+ <link>https://www.asahi.com/articles/ASV6C0V48V6CPOMB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-12T16:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C5QMYV6CUCVL01LM.html?ref=rss">
+ <title>高中正義さんとANRIさん、合同で公演　シティポップ人気で再注目</title>
+ <link>https://www.asahi.com/articles/ASV6C5QMYV6CUCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-12T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6935CKV69PITB005M.html?ref=rss">
+ <title>かわいいが裏目に？　新しい図書館の緑色デザインに「見えない」の声</title>
+ <link>https://www.asahi.com/articles/ASV6935CKV69PITB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-12T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV691D9GV69OXIE011M.html?ref=rss">
+ <title>なんでこんな場所に巨大ホチキスが？　「違法建築では」と警察通報も</title>
+ <link>https://www.asahi.com/articles/ASV691D9GV69OXIE011M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-12T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6815KZV68UCVL01DM.html?ref=rss">
+ <title>ケニアのスラムで暮らす若者が中学生に特別授業「世界が広がった」</title>
+ <link>https://www.asahi.com/articles/ASV6815KZV68UCVL01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-12T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C43T7V6CUCVL02KM.html?ref=rss">
+ <title>NHKの総力戦研究所ドラマの映画版　製作委「公開予定に変更なし」</title>
+ <link>https://www.asahi.com/articles/ASV6C43T7V6CUCVL02KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-11T21:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C31T7V6CUCVL01LM.html?ref=rss">
+ <title>カッパの姿は「だいたい同じ」第30回手塚治虫文化賞の受賞スピーチ</title>
+ <link>https://www.asahi.com/articles/ASV6C31T7V6CUCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-11T21:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
