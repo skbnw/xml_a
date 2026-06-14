@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-06-14T19:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-06-14T19:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6G3437V6GUCVL009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6D1C4HV6DUTIL017M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6D2RB8V6DUCVL015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6C3GN2V6CUCVL01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6F2GLFV6FUCVL03FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6F316XV6FUCVL00DM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV6G3437V6GUCVL009M.html?ref=rss">
+ <title>挑戦者の荒田さんが逆転で古田さんを破り、新名人に　朝日アマ将棋</title>
+ <link>https://www.asahi.com/articles/ASV6G3437V6GUCVL009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-14T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6D1C4HV6DUTIL017M.html?ref=rss">
+ <title>緊急地震速報のあの音、作者は環境音楽家　トラウマと言われるほどに</title>
+ <link>https://www.asahi.com/articles/ASV6D1C4HV6DUTIL017M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-14T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6D2RB8V6DUCVL015M.html?ref=rss">
+ <title>本気で向き合えるものがない50代男性　姜尚中さんの「生きるコツ」</title>
+ <link>https://www.asahi.com/articles/ASV6D2RB8V6DUCVL015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-14T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6C3GN2V6CUCVL01KM.html?ref=rss">
+ <title>芝居はバラエティーで学んだ「苦しみも武器に」　香取慎吾さん</title>
+ <link>https://www.asahi.com/articles/ASV6C3GN2V6CUCVL01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-14T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6F2GLFV6FUCVL03FM.html?ref=rss">
+ <title>「日本版グラミー」　ミセスが2年連続で「最優秀アーティスト賞」</title>
+ <link>https://www.asahi.com/articles/ASV6F2GLFV6FUCVL03FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-13T23:32:07+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6F316XV6FUCVL00DM.html?ref=rss">
+ <title>古田龍生さんが「元三段対決」で先勝　朝日アマ将棋名人戦三番勝負</title>
+ <link>https://www.asahi.com/articles/ASV6F316XV6FUCVL00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-13T19:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
