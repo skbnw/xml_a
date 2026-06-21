@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-06-22T07:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-06-22T07:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6M2QBTV6MUTFL029M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6H1RG3V6HUCVL04WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6M1GCWV6MUCVL01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6M1TZDV6MUCVL02LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV6L0THWV6LBNQI002M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV6M2QBTV6MUTFL029M.html?ref=rss">
+ <title>江戸時代の本から毛髪ツンツン　400本以上採り見えた庶民の暮らし</title>
+ <link>https://www.asahi.com/articles/ASV6M2QBTV6MUTFL029M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-22T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6H1RG3V6HUCVL04WM.html?ref=rss">
+ <title>70年前に愛してくれた女性は今　80代女性の追慕に清田隆之さんは</title>
+ <link>https://www.asahi.com/articles/ASV6H1RG3V6HUCVL04WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-21T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6M1GCWV6MUCVL01XM.html?ref=rss">
+ <title>「仕事にするな」母に言われたけど　私は「詩業家」として生きていく</title>
+ <link>https://www.asahi.com/articles/ASV6M1GCWV6MUCVL01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-21T08:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6M1TZDV6MUCVL02LM.html?ref=rss">
+ <title>ミラノ・ファッションウィークとは？流行、ビジネスの方向性も見える</title>
+ <link>https://www.asahi.com/articles/ASV6M1TZDV6MUCVL02LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-21T08:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV6L0THWV6LBNQI002M.html?ref=rss">
+ <title>俳優生活20年、中村蒼は真摯に悩む「ネガティブに考えることは…」</title>
+ <link>https://www.asahi.com/articles/ASV6L0THWV6LBNQI002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-06-20T16:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
