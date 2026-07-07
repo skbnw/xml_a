@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-07-07T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-07-07T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV772FLGV77ULIP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV761TMXV76UCVL02HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7643T3V76UCVL03WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV760R6JV76KJHT008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7534TCV75UTPB00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV722H3LV72UCVL004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7543XLV75UCVL01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV753RSZV75UCVL00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV753FTFV75UCVL007M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV772FLGV77ULIP001M.html?ref=rss">
+ <title>全日本合唱コン、大学職場一般部門を改編　合唱連盟、27年度から</title>
+ <link>https://www.asahi.com/articles/ASV772FLGV77ULIP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-07T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV761TMXV76UCVL02HM.html?ref=rss">
+ <title>7月7日は「七夕・そうめんの日」　流しそうめんはなぜ始まった？</title>
+ <link>https://www.asahi.com/articles/ASV761TMXV76UCVL02HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-07T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7643T3V76UCVL03WM.html?ref=rss">
+ <title>芝野虎丸棋聖、名人挑戦にマジック1　敗れた井山裕太碁聖は陥落危機</title>
+ <link>https://www.asahi.com/articles/ASV7643T3V76UCVL03WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-06T21:39:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV760R6JV76KJHT008M.html?ref=rss">
+ <title>モスクワ国際バレエ、グジェレフ瞭舞さんが金賞　男性シニア部門ソロ</title>
+ <link>https://www.asahi.com/articles/ASV760R6JV76KJHT008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-06T11:46:53+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7534TCV75UTPB00ZM.html?ref=rss">
+ <title>王位戦の勝負メシ　ウナギからの「最善手」、藤井六冠は150年の味</title>
+ <link>https://www.asahi.com/articles/ASV7534TCV75UTPB00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-06T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV722H3LV72UCVL004M.html?ref=rss">
+ <title>男性のショートパンツに様々な提案　イタリアの紳士服見本市</title>
+ <link>https://www.asahi.com/articles/ASV722H3LV72UCVL004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-06T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7543XLV75UCVL01HM.html?ref=rss">
+ <title>高校麻雀選手権、九州予選は東筑が全国大会へ　敗れた高校生の目に涙</title>
+ <link>https://www.asahi.com/articles/ASV7543XLV75UCVL01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-05T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV753RSZV75UCVL00MM.html?ref=rss">
+ <title>元アマ名人の栗田佳樹さんが連覇　朝日アマ囲碁名人戦全国大会</title>
+ <link>https://www.asahi.com/articles/ASV753RSZV75UCVL00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-05T20:33:28+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV753FTFV75UCVL007M.html?ref=rss">
+ <title>伊藤匠二冠が白星発進　藤井聡太王位、3月からの連勝は14で止まる</title>
+ <link>https://www.asahi.com/articles/ASV753FTFV75UCVL007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-05T20:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
