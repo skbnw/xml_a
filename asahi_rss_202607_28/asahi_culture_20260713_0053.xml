@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-07-13T07:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-07-13T07:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7832MJV78UCVL03HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV790QTSV79UCVL01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV797VTTV79UCVL03WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7C3R5PV7CUTFL004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7B32YSV7BUCVL069M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7C3HJNV7CUCVL002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV772CGLV77UCVL01LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV7832MJV78UCVL03HM.html?ref=rss">
+ <title>「町中華で飲ろうぜ」はドキュメンタリー？新メンバー最終審査はロケ</title>
+ <link>https://www.asahi.com/articles/ASV7832MJV78UCVL03HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-13T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV790QTSV79UCVL01LM.html?ref=rss">
+ <title>夫の実家と経済格差を痛感　姜尚中さん「夫婦といえど大切なことは」</title>
+ <link>https://www.asahi.com/articles/ASV790QTSV79UCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-12T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV797VTTV79UCVL03WM.html?ref=rss">
+ <title>稲垣吾郎さんとAI「けなげでいとおしさすら感じる」でも…</title>
+ <link>https://www.asahi.com/articles/ASV797VTTV79UCVL03WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-12T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7C3R5PV7CUTFL004M.html?ref=rss">
+ <title>室井摩耶子さんは「夢見る少女」　レッスン受けた井上道義さんが悼む</title>
+ <link>https://www.asahi.com/articles/ASV7C3R5PV7CUTFL004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-12T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7B32YSV7BUCVL069M.html?ref=rss">
+ <title>元QJ編集長・北尾修一さんの原点回帰　「出版はスモールビジネス」</title>
+ <link>https://www.asahi.com/articles/ASV7B32YSV7BUCVL069M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-12T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7C3HJNV7CUCVL002M.html?ref=rss">
+ <title>古田龍生アマ、吉池隆真四段破る　朝日杯将棋オープン戦のプロアマ戦</title>
+ <link>https://www.asahi.com/articles/ASV7C3HJNV7CUCVL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-11T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV772CGLV77UCVL01LM.html?ref=rss">
+ <title>松村北斗が挑む25年の片思い　「好き」はどこから危うくなるのか</title>
+ <link>https://www.asahi.com/articles/ASV772CGLV77UCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-11T11:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
