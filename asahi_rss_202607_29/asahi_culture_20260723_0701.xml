@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-07-23T15:09:57+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-07-23T15:09:57+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7R20NWV7RUCVL011M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7R0Q28V7ROXIE040M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7J53HMV7JUCVL00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7Q2SPWV7QUCVL02JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7Q2SD9V7QUCVL02DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7Q22Z0V7QUCVL01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7K12FLV7KUCVL03TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7P3FWGV7PPLZB001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV7R20NWV7RUCVL011M.html?ref=rss">
+ <title>芥川賞と直木賞の選考委員が退任　小川洋子さんと桐野夏生さん</title>
+ <link>https://www.asahi.com/articles/ASV7R20NWV7RUCVL011M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-23T15:09:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7R0Q28V7ROXIE040M.html?ref=rss">
+ <title>人工呼吸器を付けた少年が無人島に　「笑顔を届けたい」短編映画公開</title>
+ <link>https://www.asahi.com/articles/ASV7R0Q28V7ROXIE040M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-23T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7J53HMV7JUCVL00QM.html?ref=rss">
+ <title>趣里、出産後初の連ドラへ　「こんな感情があったんだ」と気づく日々</title>
+ <link>https://www.asahi.com/articles/ASV7J53HMV7JUCVL00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-23T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7Q2SPWV7QUCVL02JM.html?ref=rss">
+ <title>「好奇心、そして優しさ」「同い年、ショック」　山田五郎さん悼む声</title>
+ <link>https://www.asahi.com/articles/ASV7Q2SPWV7QUCVL02JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-22T18:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7Q2SD9V7QUCVL02DM.html?ref=rss">
+ <title>山田五郎さんへ「さよなら親友」　みうらじゅんさんが追悼メッセージ</title>
+ <link>https://www.asahi.com/articles/ASV7Q2SD9V7QUCVL02DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-22T17:36:47+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7Q22Z0V7QUCVL01RM.html?ref=rss">
+ <title>映画「開戦前夜」上映や配信差し止めを請求 　NHKなど提訴の原告</title>
+ <link>https://www.asahi.com/articles/ASV7Q22Z0V7QUCVL01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-22T16:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7K12FLV7KUCVL03TM.html?ref=rss">
+ <title>パリコレ日本勢、評価は前衛性のみならず ベテランから新進まで躍動</title>
+ <link>https://www.asahi.com/articles/ASV7K12FLV7KUCVL03TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-22T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7P3FWGV7PPLZB001M.html?ref=rss">
+ <title>洛北・修学院離宮に祇園祭の華麗山鉾「杉戸絵」　客殿の模写公開</title>
+ <link>https://www.asahi.com/articles/ASV7P3FWGV7PPLZB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-22T06:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
