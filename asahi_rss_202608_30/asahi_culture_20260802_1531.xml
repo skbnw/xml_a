@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-02T20:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-02T20:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV823F23V82UCVL00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7Z7WSFV7ZUCVL00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV812FC0V81POMB00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7044RBV70UCVL03RM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV823F23V82UCVL00TM.html?ref=rss">
+ <title>川口春奈さんと板倉滉さんが結婚を発表　「笑顔の絶えない家庭を」</title>
+ <link>https://www.asahi.com/articles/ASV823F23V82UCVL00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-02T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7Z7WSFV7ZUCVL00XM.html?ref=rss">
+ <title>弟に裸を盗撮され、いまも苦しい　上野千鶴子さん「ご家族にこれを」</title>
+ <link>https://www.asahi.com/articles/ASV7Z7WSFV7ZUCVL00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-02T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV812FC0V81POMB00CM.html?ref=rss">
+ <title>飛鳥の世界遺産「白虎」を見に来て　キトラ古墳の壁画公開始まる</title>
+ <link>https://www.asahi.com/articles/ASV812FC0V81POMB00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-01T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7044RBV70UCVL03RM.html?ref=rss">
+ <title>東野圭吾さんとの「一度きりの出会い」語る　推理作家協会賞の贈呈式</title>
+ <link>https://www.asahi.com/articles/ASV7044RBV70UCVL03RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-07-31T21:51:12+09:00</dc:date>
+</item>
+</rdf:RDF>
