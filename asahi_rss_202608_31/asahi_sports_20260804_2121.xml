@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-05T06:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-05T06:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7X26CJV7XOXIE02GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7Y4JFBV7YOXIE03PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV84328FV84UTQP02NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV844CV7V84UTQP007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV831DJTV83OXIE033M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7G1DFTV7GOXIE01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV830FR3V83UTQP002M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV7X26CJV7XOXIE02GM.html?ref=rss">
+ <title>「美白」で注目された慶応の丸田さん　日焼け対策は「選手に必要」</title>
+ <link>https://www.asahi.com/articles/ASV7X26CJV7XOXIE02GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-05T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7Y4JFBV7YOXIE03PM.html?ref=rss">
+ <title>高校野球で日焼け対策の意識高まる　全国アンケートで599校が指導</title>
+ <link>https://www.asahi.com/articles/ASV7Y4JFBV7YOXIE03PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-05T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV84328FV84UTQP02NM.html?ref=rss">
+ <title>インターハイの夜間開催は「対症療法」　日本陸連が抱く危機感とは</title>
+ <link>https://www.asahi.com/articles/ASV84328FV84UTQP02NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-05T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV844CV7V84UTQP007M.html?ref=rss">
+ <title>ロッテ益田が250セーブ　恩師は「俺の見る目がなかった。すまん」</title>
+ <link>https://www.asahi.com/articles/ASV844CV7V84UTQP007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-04T22:40:29+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV831DJTV83OXIE033M.html?ref=rss">
+ <title>10年前、壊れた自宅で感じた恐怖　熊本・有明主将は甲子園で誓った</title>
+ <link>https://www.asahi.com/articles/ASV831DJTV83OXIE033M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-04T18:50:51+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7G1DFTV7GOXIE01MM.html?ref=rss">
+ <title>甲子園でShall we 応援ダンス？　6年ぶり復活　5日開幕</title>
+ <link>https://www.asahi.com/articles/ASV7G1DFTV7GOXIE01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-04T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV830FR3V83UTQP002M.html?ref=rss">
+ <title>「はちゃめちゃ」だった桑木志帆、快挙の起点になった強風との戦い</title>
+ <link>https://www.asahi.com/articles/ASV830FR3V83UTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-03T11:11:00+09:00</dc:date>
+</item>
+</rdf:RDF>
