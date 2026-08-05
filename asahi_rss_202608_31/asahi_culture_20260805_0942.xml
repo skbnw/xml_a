@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-05T17:01:05+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-05T17:01:05+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV852HY8V85UCVL01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8513GBV85UCVL036M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV843GJZV84UCVL03MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV843DZLV84UCVL02LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV841VC4V84UCVL01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV840PPDV84UCVL003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV833CH9V83UCVL05CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7R33DVV7RUCVL00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV832RCRV83PITB00VM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV852HY8V85UCVL01BM.html?ref=rss">
+ <title>西山朋佳白玲「今まで通りに」　女性初の棋士資格が懸かる防衛戦へ</title>
+ <link>https://www.asahi.com/articles/ASV852HY8V85UCVL01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-05T17:01:05+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8513GBV85UCVL036M.html?ref=rss">
+ <title>東野圭吾さん新刊「永遠の記憶」発売　歴代担当編集者が語る秘話</title>
+ <link>https://www.asahi.com/articles/ASV8513GBV85UCVL036M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-05T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV843GJZV84UCVL03MM.html?ref=rss">
+ <title>マンガワン問題で小学館が再発防止策公表　社長ら一部報酬を自主返納</title>
+ <link>https://www.asahi.com/articles/ASV843GJZV84UCVL03MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-04T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV843DZLV84UCVL02LM.html?ref=rss">
+ <title>柵木幹太五段、竜王挑戦にあと1勝　藤井聡太竜王を抜く15連勝</title>
+ <link>https://www.asahi.com/articles/ASV843DZLV84UCVL02LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-04T19:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV841VC4V84UCVL01MM.html?ref=rss">
+ <title>「TOKYO MER」が熊本地震受け公開延期　地震テーマの劇場版</title>
+ <link>https://www.asahi.com/articles/ASV841VC4V84UCVL01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-04T15:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV840PPDV84UCVL003M.html?ref=rss">
+ <title>マンガワン問題、学習誌原点の小学館でなぜ　第三者委が指摘した課題</title>
+ <link>https://www.asahi.com/articles/ASV840PPDV84UCVL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-04T12:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV833CH9V83UCVL05CM.html?ref=rss">
+ <title>マンガワン問題、第三者委の報告書公表　｢小学館は人権侵害に加担｣</title>
+ <link>https://www.asahi.com/articles/ASV833CH9V83UCVL05CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-03T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7R33DVV7RUCVL00KM.html?ref=rss">
+ <title>小学館「マンガワン」問題とは　性加害事件のマンガ家、別名義で起用</title>
+ <link>https://www.asahi.com/articles/ASV7R33DVV7RUCVL00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-03T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV832RCRV83PITB00VM.html?ref=rss">
+ <title>大沢たかおさん「人生の宝」　在米被爆者の笹森恵子さんを偲ぶ会</title>
+ <link>https://www.asahi.com/articles/ASV832RCRV83PITB00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-03T19:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
