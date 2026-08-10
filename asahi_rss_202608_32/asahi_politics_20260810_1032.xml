@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-10T18:05:59+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-10T18:05:59+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8B2TJVV8BUTFK006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV891PK5V89PXLB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV892105V89UTFK005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV89168YV89UTFK002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV88321TV88TIPE012M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV8B2TJVV8BUTFK006M.html?ref=rss">
+ <title>比例「復活当選」で厳格化を提案　衆院選挙制度協議会幹事会の座長案</title>
+ <link>https://www.asahi.com/articles/ASV8B2TJVV8BUTFK006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-08-10T18:05:59+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV891PK5V89PXLB003M.html?ref=rss">
+ <title>「悪名」旅田卓宗氏は再び街頭に　記者が見た81歳への応援と拒否感</title>
+ <link>https://www.asahi.com/articles/ASV891PK5V89PXLB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-08-10T00:13:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV892105V89UTFK005M.html?ref=rss">
+ <title>高市首相、内閣改造・自民党役員人事「現時点で申し上げることない」</title>
+ <link>https://www.asahi.com/articles/ASV892105V89UTFK005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-08-09T15:15:28+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV89168YV89UTFK002M.html?ref=rss">
+ <title>熊本地震の被災地へ米軍が飲料水輸送　小泉防衛相「日米の絆示す」</title>
+ <link>https://www.asahi.com/articles/ASV89168YV89UTFK002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-08-09T13:12:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV88321TV88TIPE012M.html?ref=rss">
+ <title>立憲福岡県連が国保逃れの調査へ　「恐れがある」福岡市議から報告も</title>
+ <link>https://www.asahi.com/articles/ASV88321TV88TIPE012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-08-08T19:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
