@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「ビジネスニュース、経済、産業、金融、財政、為替、株価など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-10T07:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-10T07:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV861CZJV86ULFA00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8715J8V87OXIE02RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8531QBV85ULFA01YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7P5QBYV7PUHBI029M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7S1QQGV7SULZU00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8821PCV88TIPE00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7010K5V70UTNB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7010BGV70ULZU002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7R1PWRV7RULFA00PM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV861CZJV86ULFA00PM.html?ref=rss">
+ <title>銅の高値続くのになぜ国内事業は厳しい　三菱マテリアル社長に聞く</title>
+ <link>https://www.asahi.com/articles/ASV861CZJV86ULFA00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-10T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8715J8V87OXIE02RM.html?ref=rss">
+ <title>雨水と太陽光で「病院」稼働　過疎地や災害時見すえ、伊豆で構想</title>
+ <link>https://www.asahi.com/articles/ASV8715J8V87OXIE02RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-10T06:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8531QBV85ULFA01YM.html?ref=rss">
+ <title>断らないと年金口座を公金受取用に登録、高齢者1600万人どうする</title>
+ <link>https://www.asahi.com/articles/ASV8531QBV85ULFA01YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-09T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7P5QBYV7PUHBI029M.html?ref=rss">
+ <title>若者に反AI感情のうねり　止まらぬ開発競争、ブームの震源地で何が</title>
+ <link>https://www.asahi.com/articles/ASV7P5QBYV7PUHBI029M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-09T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7S1QQGV7SULZU00XM.html?ref=rss">
+ <title>マンションを「押し買い」された92歳女性　続けて押し売り被害も</title>
+ <link>https://www.asahi.com/articles/ASV7S1QQGV7SULZU00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-09T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8821PCV88TIPE00RM.html?ref=rss">
+ <title>特産の梨が8割落ちた　アイスに加工へ、夫妻の願う「RePear」</title>
+ <link>https://www.asahi.com/articles/ASV8821PCV88TIPE00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-08T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7010K5V70UTNB003M.html?ref=rss">
+ <title>世界農業遺産の農法、落ち葉生む林を増やして継承へ　行政が寄付募る</title>
+ <link>https://www.asahi.com/articles/ASV7010K5V70UTNB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-08T11:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7010BGV70ULZU002M.html?ref=rss">
+ <title>日本製2階建て車両が引退　エジプトの路面電車　カタールなどで新線</title>
+ <link>https://www.asahi.com/articles/ASV7010BGV70ULZU002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-08T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7R1PWRV7RULFA00PM.html?ref=rss">
+ <title>3輪EV、リキシャで狙う低所得者層　インド「次の10億人」争奪戦</title>
+ <link>https://www.asahi.com/articles/ASV7R1PWRV7RULFA00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-08-08T09:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
