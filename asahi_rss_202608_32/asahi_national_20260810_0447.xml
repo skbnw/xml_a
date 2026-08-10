@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>社会 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般社会ニュース、事件・事故、災害・交通情報、裁判、環境など」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-10T13:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-10T13:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV873G8VV87UTIL01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7R3FHLV7RUCVL035M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8B1237V8BTIPE002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8B0FP1V8BULOB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8B0TJPV8BUEFT008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8B0T2LV8BTIPE00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV89215JV89OIPE00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8B0DB5V8BUTIL002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7S2GQ8V7SULLI002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7X0RNHV7XULLI00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV872G34V87IIPE005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV872RD2V87PTIL00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV893J8MV89PITB004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV87460PV87TIPE02JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV893DC6V89TLVB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV890HDTV89UTIL006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV873QJ7V87TNAB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV892C64V89PTJB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV892J5LV89TIPE00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV882G8WV88UTIL004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8914TBV89PTIL003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8844BZV88TIPE00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8842PJV88TIPE00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8845LHV88TIPE00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV861SX0V86UCVL06NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV887W54V88PQIP00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV7Q05JFV7QPTIL002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV883RZLV88TLVB00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV883SJ0V88PITB00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV881F7CV88UDCB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8811H8V88TLVB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8821PCV88TIPE00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV880T0WV88UQIP01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV881JCZV88PLZB001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV873G8VV87UTIL01CM.html?ref=rss">
+ <title>天皇、皇后両陛下が全国戦没者追悼式に出席　10日からの皇室の予定</title>
+ <link>https://www.asahi.com/articles/ASV873G8VV87UTIL01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7R3FHLV7RUCVL035M.html?ref=rss">
+ <title>あなたは見る阿呆？踊る阿呆？　「阿波踊り」あすから徳島でスタート</title>
+ <link>https://www.asahi.com/articles/ASV7R3FHLV7RUCVL035M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T12:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8B1237V8BTIPE002M.html?ref=rss">
+ <title>自民福岡県議団会長選、3期と2期の一騎打ち　選挙も若手就任も異例</title>
+ <link>https://www.asahi.com/articles/ASV8B1237V8BTIPE002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T12:29:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8B0FP1V8BULOB005M.html?ref=rss">
+ <title>保土ケ谷バイパス上下線通行止めで、約6キロ渋滞　橋の柵の外に男性</title>
+ <link>https://www.asahi.com/articles/ASV8B0FP1V8BULOB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T12:15:20+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8B0TJPV8BUEFT008M.html?ref=rss">
+ <title>東北新幹線「はやぶさ」車内にハト紛れ込む　那須塩原に9分停車</title>
+ <link>https://www.asahi.com/articles/ASV8B0TJPV8BUEFT008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T12:07:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8B0T2LV8BTIPE00WM.html?ref=rss">
+ <title>「核のない世界を」訴え70年　日本被団協、結成の地・長崎で声明</title>
+ <link>https://www.asahi.com/articles/ASV8B0T2LV8BTIPE00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T11:53:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV89215JV89OIPE00JM.html?ref=rss">
+ <title>「他の避難者刺激するの申し訳ない」熊本地震、避難所避ける障害者</title>
+ <link>https://www.asahi.com/articles/ASV89215JV89OIPE00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8B0DB5V8BUTIL002M.html?ref=rss">
+ <title>山形新幹線とクマが衝突　30分運転見合わせ、乗員乗客にけがなし</title>
+ <link>https://www.asahi.com/articles/ASV8B0DB5V8BUTIL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T10:26:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7S2GQ8V7SULLI002M.html?ref=rss">
+ <title>住宅街のプレハブに遺体冷蔵庫　自治体に営業　忍び寄る無縁ビジネス</title>
+ <link>https://www.asahi.com/articles/ASV7S2GQ8V7SULLI002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7X0RNHV7XULLI00MM.html?ref=rss">
+ <title>「身寄りのない死」への公費負担が増大　無縁ビジネスの温床に</title>
+ <link>https://www.asahi.com/articles/ASV7X0RNHV7XULLI00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV872G34V87IIPE005M.html?ref=rss">
+ <title>日本兵として戦ったアイヌの兵士　「平和の礎」に刻銘を、遺族が申請</title>
+ <link>https://www.asahi.com/articles/ASV872G34V87IIPE005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV872RD2V87PTIL00BM.html?ref=rss">
+ <title>「フリーズ」して被害、不同意性交罪で起訴　法改正で増えた認知件数</title>
+ <link>https://www.asahi.com/articles/ASV872RD2V87PTIL00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-10T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV893J8MV89PITB004M.html?ref=rss">
+ <title>長崎の被爆者も高市発言を疑問視「非核三原則の堅持、本音は別では」</title>
+ <link>https://www.asahi.com/articles/ASV893J8MV89PITB004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T21:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV87460PV87TIPE02JM.html?ref=rss">
+ <title>【詳報】「非核三原則を国是と言わず後退」被爆81年、長崎の危機感</title>
+ <link>https://www.asahi.com/articles/ASV87460PV87TIPE02JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV893DC6V89TLVB005M.html?ref=rss">
+ <title>熊本地震の住家被害、2万棟を超す　早期把握に向けて人工衛星も活用</title>
+ <link>https://www.asahi.com/articles/ASV893DC6V89TLVB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV890HDTV89UTIL006M.html?ref=rss">
+ <title>北アルプス・燕岳へ向かう橋が流される　宿泊客ら390人が一時孤立</title>
+ <link>https://www.asahi.com/articles/ASV890HDTV89UTIL006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T18:59:08+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV873QJ7V87TNAB001M.html?ref=rss">
+ <title>九州道の迂回路、事故・通行止め相次ぐ　物流業者「拘束時間超過」</title>
+ <link>https://www.asahi.com/articles/ASV873QJ7V87TNAB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV892C64V89PTJB003M.html?ref=rss">
+ <title>「琵琶湖三市同時花火大会」中止　SNSで発表　県に必要な申請せず</title>
+ <link>https://www.asahi.com/articles/ASV892C64V89PTJB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV892J5LV89TIPE00JM.html?ref=rss">
+ <title>熊本地震、観光に影　余震・自粛…　交通断たれた隣県「陸の孤島」</title>
+ <link>https://www.asahi.com/articles/ASV892J5LV89TIPE00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV882G8WV88UTIL004M.html?ref=rss">
+ <title>熊本地震、子どもの居場所がない　避難所すみっこでゲーム、親も限界</title>
+ <link>https://www.asahi.com/articles/ASV882G8WV88UTIL004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T13:33:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8914TBV89PTIL003M.html?ref=rss">
+ <title>80歳母踏みつけ死なせた疑い　58歳息子を逮捕　日常的に暴行か</title>
+ <link>https://www.asahi.com/articles/ASV8914TBV89PTIL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T13:15:47+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8844BZV88TIPE00VM.html?ref=rss">
+ <title>【高市首相あいさつ全文】被爆樹木の姿　長崎の皆様の姿とも重なる</title>
+ <link>https://www.asahi.com/articles/ASV8844BZV88TIPE00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T12:17:37+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8842PJV88TIPE00WM.html?ref=rss">
+ <title>【被爆者代表　平和への誓い全文】命の限り平和を叫びつづける</title>
+ <link>https://www.asahi.com/articles/ASV8842PJV88TIPE00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T11:20:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8845LHV88TIPE00YM.html?ref=rss">
+ <title>【平和宣言全文】核兵器は「絶対悪」　人類とは決して共存できない</title>
+ <link>https://www.asahi.com/articles/ASV8845LHV88TIPE00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T11:16:13+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV861SX0V86UCVL06NM.html?ref=rss">
+ <title>AIに依存する後輩をどう指導したら？　姜尚中さんが考える境界線</title>
+ <link>https://www.asahi.com/articles/ASV861SX0V86UCVL06NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV887W54V88PQIP00MM.html?ref=rss">
+ <title>【写真まとめ】被爆81年　紛争続く世界へナガサキから核廃絶を願う</title>
+ <link>https://www.asahi.com/articles/ASV887W54V88PQIP00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV7Q05JFV7QPTIL002M.html?ref=rss">
+ <title>奪われた笑顔　原爆が奪った100人の子どもたちの短い人生を追う</title>
+ <link>https://www.asahi.com/articles/ASV7Q05JFV7QPTIL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-09T09:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV883RZLV88TLVB00BM.html?ref=rss">
+ <title>避難中の被災者宅で室外機盗まれる　熊本県警「便乗犯罪は許さない」</title>
+ <link>https://www.asahi.com/articles/ASV883RZLV88TLVB00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-08T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV883SJ0V88PITB00DM.html?ref=rss">
+ <title>シャインマスカット200房、畑から盗んだ疑い　岡山県警が男を逮捕</title>
+ <link>https://www.asahi.com/articles/ASV883SJ0V88PITB00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-08T20:45:23+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV881F7CV88UDCB002M.html?ref=rss">
+ <title>海水浴場で溺れた60代男性が死亡　千葉・南房総</title>
+ <link>https://www.asahi.com/articles/ASV881F7CV88UDCB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-08T18:38:32+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8811H8V88TLVB002M.html?ref=rss">
+ <title>熊本地震、県が新たに4人の犠牲者氏名を公表　死者は1人増え39人</title>
+ <link>https://www.asahi.com/articles/ASV8811H8V88TLVB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-08T18:17:32+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8821PCV88TIPE00RM.html?ref=rss">
+ <title>特産の梨が8割落ちた　アイスに加工へ、夫妻の願う「RePear」</title>
+ <link>https://www.asahi.com/articles/ASV8821PCV88TIPE00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-08T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV880T0WV88UQIP01NM.html?ref=rss">
+ <title>悠仁さま、豚汁作りや丸太切り体験　同世代のスカウトたちと交流</title>
+ <link>https://www.asahi.com/articles/ASV880T0WV88UQIP01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-08T16:30:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV881JCZV88PLZB001M.html?ref=rss">
+ <title>辺野古転覆、全容解明と再発防止を求める会を設立　高校生の遺族ら</title>
+ <link>https://www.asahi.com/articles/ASV881JCZV88PLZB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-08-08T14:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
