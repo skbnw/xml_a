@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-25T20:17:55+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-25T20:17:55+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8T3JLHV8TUOOB00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8T2QHPV8TPLXB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8S3VGCV8SUTQP00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8R4V1WV8RUTQP00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8S0GSXV8SUTQP004M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV8T3JLHV8TUOOB00CM.html?ref=rss">
+ <title>全中スケート後継大会、長野市など主体で運営へ　荻原健司市長が表明</title>
+ <link>https://www.asahi.com/articles/ASV8T3JLHV8TUOOB00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-25T20:17:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8T2QHPV8TPLXB003M.html?ref=rss">
+ <title>楽天がドミニカ出身右腕と育成契約　独立・香川から久々のNPB選手</title>
+ <link>https://www.asahi.com/articles/ASV8T2QHPV8TPLXB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-25T18:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8S3VGCV8SUTQP00MM.html?ref=rss">
+ <title>小川航基を日本へ戻す意味　「Jリーグが劣る現状変えないと」</title>
+ <link>https://www.asahi.com/articles/ASV8S3VGCV8SUTQP00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-25T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8R4V1WV8RUTQP00BM.html?ref=rss">
+ <title>41歳の新球挑戦　宮西尚生を引退させなかった妻の「よく頑張った」</title>
+ <link>https://www.asahi.com/articles/ASV8R4V1WV8RUTQP00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-24T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8S0GSXV8SUTQP004M.html?ref=rss">
+ <title>日本代表FW小川航基が町田移籍へ　W杯オランダ戦で同点Gアシスト</title>
+ <link>https://www.asahi.com/articles/ASV8S0GSXV8SUTQP004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-24T11:01:23+09:00</dc:date>
+</item>
+</rdf:RDF>
