@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-26T15:45:45+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-26T15:45:45+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8T3QG7V8TUCVL00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8V1T62V8VUCVL00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8S22MXV8SUCVL00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8T45TDV8TUQIP03XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8T3WJ9V8TUCVL01WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8T3GFNV8TUCVL022M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8S43DLV8SUCVL003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV8T3QG7V8TUCVL00GM.html?ref=rss">
+ <title>一力遼名人、挑戦者に何も譲らない？　高尾紳路九段「厳しいねぇ」</title>
+ <link>https://www.asahi.com/articles/ASV8T3QG7V8TUCVL00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-26T15:45:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8V1T62V8VUCVL00PM.html?ref=rss">
+ <title>「急に具合が悪くなる」米アカデミー賞の日本代表に　国際長編映画賞</title>
+ <link>https://www.asahi.com/articles/ASV8V1T62V8VUCVL00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-26T14:46:23+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8S22MXV8SUCVL00ZM.html?ref=rss">
+ <title>津波のがれたタイムカプセルを開封　児童が書いた「30年後の女川」</title>
+ <link>https://www.asahi.com/articles/ASV8S22MXV8SUCVL00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-26T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8T45TDV8TUQIP03XM.html?ref=rss">
+ <title>名人「状態上向き」、挑戦者も「悪くない」　囲碁名人戦開幕へ決意</title>
+ <link>https://www.asahi.com/articles/ASV8T45TDV8TUQIP03XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-25T21:57:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8T3WJ9V8TUCVL01WM.html?ref=rss">
+ <title>正岡子規の未発表2句が見つかる　専門家「子規らしいちゃめっ気」</title>
+ <link>https://www.asahi.com/articles/ASV8T3WJ9V8TUCVL01WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-25T21:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8T3GFNV8TUCVL022M.html?ref=rss">
+ <title>NHK経営委員長、相次ぐ放送の不具合に「そんなに大きな影響ない」</title>
+ <link>https://www.asahi.com/articles/ASV8T3GFNV8TUCVL022M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-25T20:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8S43DLV8SUCVL003M.html?ref=rss">
+ <title>服部慎一郎七段が藤井聡太竜王に挑戦　27歳、2度目のタイトル挑戦</title>
+ <link>https://www.asahi.com/articles/ASV8S43DLV8SUCVL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-08-24T22:11:32+09:00</dc:date>
+</item>
+</rdf:RDF>
