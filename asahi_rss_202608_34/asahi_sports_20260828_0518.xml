@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-08-28T12:11:42+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-08-28T12:11:42+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8W7T5ZV8WUTQP005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8W4GBNV8WUTQP00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8W2V2XV8WUTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8W0TB3V8WUTQP01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8W0F09V8WPLZB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8V33SFV8VOIPE007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8V248VV8VPLZB00LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV8W7T5ZV8WUTQP005M.html?ref=rss">
+ <title>日本国籍取得者への例外を認める　ラグビーリーグワン、選手側と和解</title>
+ <link>https://www.asahi.com/articles/ASV8W7T5ZV8WUTQP005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-28T12:11:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8W4GBNV8WUTQP00BM.html?ref=rss">
+ <title>ヤクルト・石川、25年連続勝利は遠く　左肩痛発症で1回途中6失点</title>
+ <link>https://www.asahi.com/articles/ASV8W4GBNV8WUTQP00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-27T22:47:33+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8W2V2XV8WUTQP002M.html?ref=rss">
+ <title>小川航基がJリーグ復帰で会見　「5大リーグに行けたとしても」</title>
+ <link>https://www.asahi.com/articles/ASV8W2V2XV8WUTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-27T17:57:46+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8W0TB3V8WUTQP01JM.html?ref=rss">
+ <title>「焦らず、焦りながら」ヤクルト石川雅規、46歳がたどりついた場所</title>
+ <link>https://www.asahi.com/articles/ASV8W0TB3V8WUTQP01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-27T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8W0F09V8WPLZB001M.html?ref=rss">
+ <title>下級生への暴力複数回、寮内の盗難報告せず　龍谷大野球部が活動停止</title>
+ <link>https://www.asahi.com/articles/ASV8W0F09V8WPLZB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-27T10:31:06+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8V33SFV8VOIPE007M.html?ref=rss">
+ <title>「選手村造らない」アジア大会　コンテナ型施設並ぶ交流拠点が完成</title>
+ <link>https://www.asahi.com/articles/ASV8V33SFV8VOIPE007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-26T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8V248VV8VPLZB00LM.html?ref=rss">
+ <title>関西六大学連盟の龍谷大学硬式野球部が活動停止　問題行為を受け</title>
+ <link>https://www.asahi.com/articles/ASV8V248VV8VPLZB00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-08-26T15:52:10+09:00</dc:date>
+</item>
+</rdf:RDF>
