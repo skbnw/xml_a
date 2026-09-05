@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-09-05T21:58:36+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-09-05T21:58:36+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV953TYPV95PTQP01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV952J31V95PTQP010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV953GK2V95UTQP00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8Y25NTV8YUTQP01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9522N1V95UTQP011M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9435X2V94UBNB00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV944K19V94PTQP00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV944H5LV94PTQP00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV920QB6V92UTFL012M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV953TYPV95PTQP01BM.html?ref=rss">
+ <title>大商大・春山がリーグ通算本塁打記録に王手　名誉も「意識はしない」</title>
+ <link>https://www.asahi.com/articles/ASV953TYPV95PTQP01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-05T21:58:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV952J31V95PTQP010M.html?ref=rss">
+ <title>阪神・石井大智が1軍復帰　リハビリ中に思いを寄せた救援陣の光と影</title>
+ <link>https://www.asahi.com/articles/ASV952J31V95PTQP010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-05T20:50:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV953GK2V95UTQP00DM.html?ref=rss">
+ <title>大勝も、課題残した接点の攻防　ラグビー日本代表「もっと激しさを」</title>
+ <link>https://www.asahi.com/articles/ASV953GK2V95UTQP00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-05T19:54:23+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8Y25NTV8YUTQP01CM.html?ref=rss">
+ <title>山本由伸「広い世界や夢を感じて」　児童養護施設の子どもたちを招待</title>
+ <link>https://www.asahi.com/articles/ASV8Y25NTV8YUTQP01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-05T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9522N1V95UTQP011M.html?ref=rss">
+ <title>大谷翔平、今季初の2試合連続欠場　今後の起用法はどうなる？</title>
+ <link>https://www.asahi.com/articles/ASV9522N1V95UTQP011M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-05T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9435X2V94UBNB00HM.html?ref=rss">
+ <title>青森山田高野球部監督の兜森氏退任、24年は全国4強　後任は中條氏</title>
+ <link>https://www.asahi.com/articles/ASV9435X2V94UBNB00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV944K19V94PTQP00SM.html?ref=rss">
+ <title>両親も見守った地元初登板で6回無失点　1軍復帰の巨人・竹丸が好投</title>
+ <link>https://www.asahi.com/articles/ASV944K19V94PTQP00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-04T23:43:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV944H5LV94PTQP00RM.html?ref=rss">
+ <title>五輪銀から4年半、ベビーカーを押して復帰戦　「感覚は残っていた」</title>
+ <link>https://www.asahi.com/articles/ASV944H5LV94PTQP00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-04T23:01:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV920QB6V92UTFL012M.html?ref=rss">
+ <title>温暖化でスキー場が7カ所に　4度上昇の条件　北大などが積雪を推定</title>
+ <link>https://www.asahi.com/articles/ASV920QB6V92UTFL012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-09-04T06:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
