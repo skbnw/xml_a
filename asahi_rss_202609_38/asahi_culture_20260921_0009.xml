@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-09-21T07:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-09-21T07:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9N265BV9NUGTB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9L2PPTV9LUCVL04ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9K1R3WV9KPIHB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9L0RYLV9LUCVL02XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9M4JF7V9MUCVL019M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV8B22ZRV8BUPQJ005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9J5F96V9JUCVL00SM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV9N265BV9NUGTB003M.html?ref=rss">
+ <title>綾瀬はるかさんだけじゃない　会津藩公行列にゆかりの人々、全国から</title>
+ <link>https://www.asahi.com/articles/ASV9N265BV9NUGTB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-09-21T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9L2PPTV9LUCVL04ZM.html?ref=rss">
+ <title>気鋭のタッグ、新作は「野球」　横山拓也×眞鍋卓嗣　「ナイボー！」</title>
+ <link>https://www.asahi.com/articles/ASV9L2PPTV9LUCVL04ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-09-21T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9K1R3WV9KPIHB001M.html?ref=rss">
+ <title>「大曲の花火」が関西にやってきた　姫路みなと祭、5万人の観客魅了</title>
+ <link>https://www.asahi.com/articles/ASV9K1R3WV9KPIHB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-09-20T22:00:05+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9L0RYLV9LUCVL02XM.html?ref=rss">
+ <title>彼氏ができた親友の態度にモヤモヤ　姜尚中さんの「脱皮」のすすめ</title>
+ <link>https://www.asahi.com/articles/ASV9L0RYLV9LUCVL02XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-09-20T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9M4JF7V9MUCVL019M.html?ref=rss">
+ <title>timeleszの猪俣周杜メンバーが活動休止　STARTO社発表</title>
+ <link>https://www.asahi.com/articles/ASV9M4JF7V9MUCVL019M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-09-19T22:54:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV8B22ZRV8BUPQJ005M.html?ref=rss">
+ <title>私たちはみな「渡来人」　大津市の歴史館で「日本人」の歩みを学ぶ</title>
+ <link>https://www.asahi.com/articles/ASV8B22ZRV8BUPQJ005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-09-19T12:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9J5F96V9JUCVL00SM.html?ref=rss">
+ <title>和久田麻由子、NHK退職後の今　5年前の自分には意外な選択</title>
+ <link>https://www.asahi.com/articles/ASV9J5F96V9JUCVL00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-09-19T11:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
