@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-09-23T04:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-09-23T04:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9N54BXV9NUTIL00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9Q5FH1V9QUQIP04HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9Q23WNV9QUTFK006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9L3S9XV9LUTFK02JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9N549YV9NUTFK00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9P4SFSV9PUTFK00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9N4D8DV9NULFA005M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASV9N54BXV9NUTIL00BM.html?ref=rss">
+ <title>ドローン駆使の「新しい戦い方」　導入急ぐ自衛隊、越えるべき壁</title>
+ <link>https://www.asahi.com/articles/ASV9N54BXV9NUTIL00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-09-23T04:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9Q5FH1V9QUQIP04HM.html?ref=rss">
+ <title>高市首相、米国によるICC制裁に言及しない方針　国連総会で初演説</title>
+ <link>https://www.asahi.com/articles/ASV9Q5FH1V9QUQIP04HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-09-23T04:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9Q23WNV9QUTFK006M.html?ref=rss">
+ <title>G7外相が声明　フーシ攻撃「最も強い言葉で非難」、即時停止を要求</title>
+ <link>https://www.asahi.com/articles/ASV9Q23WNV9QUTFK006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-09-22T16:14:50+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9L3S9XV9LUTFK02JM.html?ref=rss">
+ <title>米国によるICCへの制裁　なぜ日本の反応は「大変残念」だったのか</title>
+ <link>https://www.asahi.com/articles/ASV9L3S9XV9LUTFK02JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-09-22T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9N549YV9NUTFK00MM.html?ref=rss">
+ <title>「戦場のイノベーション」ドローン　ウクライナから米軍、自衛隊へ</title>
+ <link>https://www.asahi.com/articles/ASV9N549YV9NUTFK00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-09-22T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9P4SFSV9PUTFK00BM.html?ref=rss">
+ <title>高市首相、国連総会出席のため米国へ「法の支配や国連改革訴えたい」</title>
+ <link>https://www.asahi.com/articles/ASV9P4SFSV9PUTFK00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-09-21T23:36:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9N4D8DV9NULFA005M.html?ref=rss">
+ <title>自民・小野寺税調会長が続投　消費減税の議論、年末に向け調整役に</title>
+ <link>https://www.asahi.com/articles/ASV9N4D8DV9NULFA005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-09-21T07:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
