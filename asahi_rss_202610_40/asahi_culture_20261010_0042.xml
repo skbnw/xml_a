@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-10T08:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-10T08:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB93PL0VB9PTIL00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB92HNCVB9UOHB00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB7220TVB7PTIL010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB84DB4VB8UCVL04BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB87KSJVB8UCVL002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB81Q38VB8PLZB00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB72DVYVB7POMB00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB7254MVB7UCVL00GM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVB93PL0VB9PTIL00NM.html?ref=rss">
+ <title>「今日も逢いに来ました」坂本龍一MRライブ　壁を埋めるメッセージ</title>
+ <link>https://www.asahi.com/articles/ASVB93PL0VB9PTIL00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-10T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html?ref=rss">
+ <title>AIで検索した「判例」、実は存在せず　出版社が絶版・回収を発表</title>
+ <link>https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-09T20:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB92HNCVB9UOHB00HM.html?ref=rss">
+ <title>秘匿された日連丸事件、遺族を訪ね歩いた上官　新潟で27年ぶり法要</title>
+ <link>https://www.asahi.com/articles/ASVB92HNCVB9UOHB00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-09T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB7220TVB7PTIL010M.html?ref=rss">
+ <title>「今の私たち」で歴史を超える　SKE48の3人が語る未来</title>
+ <link>https://www.asahi.com/articles/ASVB7220TVB7PTIL010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-09T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB84DB4VB8UCVL04BM.html?ref=rss">
+ <title>芥川龍之介の署名が残る謎の洋書　片山広子と100年越し「再会」か</title>
+ <link>https://www.asahi.com/articles/ASVB84DB4VB8UCVL04BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-09T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB87KSJVB8UCVL002M.html?ref=rss">
+ <title>NHK紅白歌合戦司会に芦田愛菜さん、堺雅人さん、二宮和也さん</title>
+ <link>https://www.asahi.com/articles/ASVB87KSJVB8UCVL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-09T08:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB81Q38VB8PLZB00LM.html?ref=rss">
+ <title>浄土宗最高位の次期門主に福原隆善氏</title>
+ <link>https://www.asahi.com/articles/ASVB81Q38VB8PLZB00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-08T18:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB72DVYVB7POMB00FM.html?ref=rss">
+ <title>世界遺産の飛鳥寺跡から中国銭　極小破片から見えてきた東アジア交流</title>
+ <link>https://www.asahi.com/articles/ASVB72DVYVB7POMB00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-08T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB7254MVB7UCVL00GM.html?ref=rss">
+ <title>ノーベル文学賞、今年は女性？スペイン語圏に注目　8日午後8時発表</title>
+ <link>https://www.asahi.com/articles/ASVB7254MVB7UCVL00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-08T15:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
