@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-13T08:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-13T08:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBD2F2DVBDUTFK01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBB2CD8VBBUTFK004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBB7RSLVBBULFA007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBD3D1QVBDUTFK007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB946XVVB9ULFA01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB83FHBVB8UTFK00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBC41F3VBCUTFK008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBC2GXZVBCPLZB004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBC2Q31VBCOXIE02WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBC25Z1VBCPUUB003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVBD2F2DVBDUTFK01KM.html?ref=rss">
+ <title>きょうから予算委員会　「予算カット」発言の簗氏、高市首相の答弁は</title>
+ <link>https://www.asahi.com/articles/ASVBD2F2DVBDUTFK01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-13T08:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBB2CD8VBBUTFK004M.html?ref=rss">
+ <title>東条英機の文書300点、国会図書館で公開　戦中と戦後「明暗」鮮明</title>
+ <link>https://www.asahi.com/articles/ASVBB2CD8VBBUTFK004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-13T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBB7RSLVBBULFA007M.html?ref=rss">
+ <title>簗農相の予算カット発言なぜダメ？憲法｢国民を差別してはならない｣</title>
+ <link>https://www.asahi.com/articles/ASVBB7RSLVBBULFA007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-13T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBD3D1QVBDUTFK007M.html?ref=rss">
+ <title>共産、次期衆院選の目標「450万票」に下方修正　達成は見通せず</title>
+ <link>https://www.asahi.com/articles/ASVBD3D1QVBDUTFK007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-12T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB946XVVB9ULFA01JM.html?ref=rss">
+ <title>「財源食べつくし思いつかぬ」　自民「ラスボス」が減税反対の理由</title>
+ <link>https://www.asahi.com/articles/ASVB946XVVB9ULFA01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-12T17:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB83FHBVB8UTFK00TM.html?ref=rss">
+ <title>AIを使って質問し、AIを使って答弁する議会　議員は必要なのか</title>
+ <link>https://www.asahi.com/articles/ASVB83FHBVB8UTFK00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-12T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBC41F3VBCUTFK008M.html?ref=rss">
+ <title>原潜導入へ研究着手案　是非の議論へ、官邸の意向？政府内に慎重論も</title>
+ <link>https://www.asahi.com/articles/ASVBC41F3VBCUTFK008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-12T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBC2GXZVBCPLZB004M.html?ref=rss">
+ <title>10年ぶりの選挙戦　滋賀・草津市長選に4人が立候補　18日投開票</title>
+ <link>https://www.asahi.com/articles/ASVBC2GXZVBCPLZB004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-11T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBC2Q31VBCOXIE02WM.html?ref=rss">
+ <title>新潟市長選が告示、現新3人が立候補　人口減少下のまちづくりで論戦</title>
+ <link>https://www.asahi.com/articles/ASVBC2Q31VBCOXIE02WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-11T17:42:53+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBC25Z1VBCPUUB003M.html?ref=rss">
+ <title>「政治に携わる者として疑わしい」石破氏が簗農水相問題を痛烈に批判</title>
+ <link>https://www.asahi.com/articles/ASVBC25Z1VBCPUUB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-11T16:12:43+09:00</dc:date>
+</item>
+</rdf:RDF>
