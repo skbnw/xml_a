@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-14T09:45:38+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-14T09:45:38+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBF4R8GVBFUCVL036M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBF2PSSVBFPJLB010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBF327CVBFPQIP00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBF2RFLVBFUCVL01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBD0CSLVBDUCVL00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBC7L3SVBCPLFA001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBD3J9XVBDUCVL02ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBC45ZGVBCUCVL05PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB93FS6VB9UPQJ004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB72F1MVB7BSDS001M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVBF4R8GVBFUCVL036M.html?ref=rss">
+ <title>【速報中】芝野挑戦者、奪取か　一力名人が耐えるか　名人戦第6局</title>
+ <link>https://www.asahi.com/articles/ASVBF4R8GVBFUCVL036M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-14T09:45:38+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBF2PSSVBFPJLB010M.html?ref=rss">
+ <title>戦国時代の神社の棟札を能登で発見　閉校活用した収蔵庫の整理中</title>
+ <link>https://www.asahi.com/articles/ASVBF2PSSVBFPJLB010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-14T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBF327CVBFPQIP00RM.html?ref=rss">
+ <title>万博がのこした「夢」と「挑戦」　閉幕1年、記者がレガシーを考えた</title>
+ <link>https://www.asahi.com/articles/ASVBF327CVBFPQIP00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-13T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBF2RFLVBFUCVL01RM.html?ref=rss">
+ <title>西山朋佳女流王将が勝ってタイに　棋士資格の権利行使、言及せず</title>
+ <link>https://www.asahi.com/articles/ASVBF2RFLVBFUCVL01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-13T17:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBD0CSLVBDUCVL00VM.html?ref=rss">
+ <title>英文学者・小田島雄志さんお別れの会に400人　リーディング上演も</title>
+ <link>https://www.asahi.com/articles/ASVBD0CSLVBDUCVL00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-13T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBC7L3SVBCPLFA001M.html?ref=rss">
+ <title>AI元年、万博のレガシーは「屈強な万博民」　落合陽一さんが語る</title>
+ <link>https://www.asahi.com/articles/ASVBC7L3SVBCPLFA001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-13T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBD3J9XVBDUCVL02ZM.html?ref=rss">
+ <title>「S6」の注目株、21歳の小窪碧四段が優勝　将棋・加古川青流戦</title>
+ <link>https://www.asahi.com/articles/ASVBD3J9XVBDUCVL02ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-12T20:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBC45ZGVBCUCVL05PM.html?ref=rss">
+ <title>ノーベル文学賞アン・カーソンは「環境批評の作家」　鴻巣×藤井対談</title>
+ <link>https://www.asahi.com/articles/ASVBC45ZGVBCUCVL05PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-12T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB93FS6VB9UPQJ004M.html?ref=rss">
+ <title>設計図、長さ37メートル　破天荒な建築家が投じた一石と無償の情熱</title>
+ <link>https://www.asahi.com/articles/ASVB93FS6VB9UPQJ004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-12T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB72F1MVB7BSDS001M.html?ref=rss">
+ <title>昭和天皇は戦争を避けられたか　側近記録が相次ぎ刊行、今も進む研究</title>
+ <link>https://www.asahi.com/articles/ASVB72F1MVB7BSDS001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-12T10:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
