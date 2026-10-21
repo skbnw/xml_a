@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-21T16:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-21T16:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBJ3CPBVBJUTQP00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBP21LCVBPOIPE006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBP1Q9KVBPPTQP010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBM0HYHVBMUTQP01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBN3GV4VBNUEFT00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBN2HVLVBNUEFT00GM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVBJ3CPBVBJUTQP00WM.html?ref=rss">
+ <title>「4年後、待ってろよ」　青山学院大・渡部、ライバルに誓ったドラ1</title>
+ <link>https://www.asahi.com/articles/ASVBJ3CPBVBJUTQP00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-10-21T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBP21LCVBPOIPE006M.html?ref=rss">
+ <title>アジアパラでも国歌取り違え3件　テコンドーなど表彰式と試合前に</title>
+ <link>https://www.asahi.com/articles/ASVBP21LCVBPOIPE006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-10-21T15:50:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBP1Q9KVBPPTQP010M.html?ref=rss">
+ <title>阪神の佐藤輝明がメジャー挑戦へ　ファンに感謝「優勝忘れられない」</title>
+ <link>https://www.asahi.com/articles/ASVBP1Q9KVBPPTQP010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-10-21T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBM0HYHVBMUTQP01HM.html?ref=rss">
+ <title>ドラ1を育てる青学大の土壌　「野球がうまい」は「えらい」じゃない</title>
+ <link>https://www.asahi.com/articles/ASVBM0HYHVBMUTQP01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-10-21T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBN3GV4VBNUEFT00VM.html?ref=rss">
+ <title>全日本大学駅伝へ　札幌学院大が意気込み　めざせ地方大学トップ</title>
+ <link>https://www.asahi.com/articles/ASVBN3GV4VBNUEFT00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-10-20T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBN2HVLVBNUEFT00GM.html?ref=rss">
+ <title>【解説人語】来季の阪神どうなる？　三冠王・佐藤輝明がメジャーに</title>
+ <link>https://www.asahi.com/articles/ASVBN2HVLVBNUEFT00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-10-20T19:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
